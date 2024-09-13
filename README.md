@@ -6,7 +6,7 @@
 El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de las etapas más importantes del ciclo de vida de un proyecto de ciencia de datos e inteligencia artificial. Esta etapa abarca el entendimiento, la preparación y la descripción de los datos. De esta manera, el objetivo de esta etapa no solo es determinar si los datos recibidos permiten desarrollar el objetivo de investigación planteado en el proyecto, sino que también permite tomar decisiones en la formulación de hipótesis y la elección de metodologías y modelos de estimación. En tal sentido, las principales tareas que se llevan a cabo en esta etapa son: entender la estructura general de los datos, detectar anomalías, describir las características de las variables, explorar relaciones entre ellas, formular nuevas hipótesis e identificar tipos de modelos o metodologías para analizar la información. En un proyecto de ciencia de datos e IA se plantean objetivos de investigación, pero es el análisis exploratorio de datos el que permite conocer preliminarmente si dichos objetivos pueden ser alcanzados con los datos con que se cuentan.
 
 
-## Unidad 1 - Entendimiento general de los datos
+## Modulo 1 - Entendimiento general de los datos
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
@@ -21,7 +21,7 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 |modelo_prestamo.pkl| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
 |index| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
 
-## Unidad 2 -  Entender la forma de los datos 
+## Modulo 2 -  Entender la forma de los datos 
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
@@ -43,7 +43,7 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 |Merge_de_datasets.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
 |Pipeline_2.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
 
-## Unidad 3 -  preparación de Datos 
+## Modulo 3 -  preparación de Datos 
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
