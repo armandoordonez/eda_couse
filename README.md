@@ -25,23 +25,17 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
-|3_data_preparation_cleaning.ipynb| Basic data cleaning and preparation | <a href="https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Taller_1_vino.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|merge_join_US_exercise.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|pandas_merge.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|merge_join.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|merge_join_US.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|6_imbalanced_dataset.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|KDE_iris.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Taller_Data_Leakage.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|cincinaty_crime_dataset_cleaning_eda.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|edit_datasets.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Pipeline_Linear_regression.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Basic_Estimators.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Column_transformers.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Data_Leakage_basic.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Merge_de_datasets.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Pipeline_2.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.1-introduccion-carga-dataset-csv.ipynb|Carga y lectura de archivos CSV| <a href="https://github.com/MarioSolano98/eda_course/blob/main/2.1-introduccion-carga-dataset-csv.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.2-merge-datasets.ipynb|Realizar un merge de datasets| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Merge_de_datasets.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.3-merge_join-datasets.ipynb|Combinar y unir un dataset| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/merge_join.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+
+
+#### Ejercicios Adicionales
+| Notebook | Descripción | Link Colab |
+|----------|-------------|----------|
+|2.2.1-carga-dataset-parquet.ipynb|Carga y lectura de archivos CSV| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/load_parquet.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.2.2-ordernar-datasets.ipynb|Ordenacion de un dataset por columnas| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/sort.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.2.3-ejercicio-merge-join-US.ipynb| <a href="https://github.com/MarioSolano98/eda_course/blob/main/2.2.3-ejercicio-merge-join-US.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
 ## Modulo 3 -  preparación de Datos 
 
