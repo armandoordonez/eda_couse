@@ -32,6 +32,7 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 
 
 #### Ejercicios Adicionales
+
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
 |2.2.1-carga-dataset-parquet.ipynb|Carga y lectura de archivos CSV| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/load_parquet.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
@@ -41,9 +42,10 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 
 #### Quizz
 | Notebook | Descripción | Link Colab |
-|2-quizz-MICE_imputation.ipynb|Quizz Modulo2 |https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/MICE_imputation.ipynb|
-|2-quizz_data_preparation_cleaning.ipynb|Quizz Modulo2|https://github.com/MarioSolano98/eda_course/blob/main/2-quizz_data_preparation_cleaning.ipynb|
-|2-quizz_data_preparation_cleaning.ipynb|Qiuizz Modulo 2|https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/imputaci%C3%B3n_y_modelado.ipynb|
+|----------|-------------|----------|
+|2-quizz-MICE_imputation.ipynb| Quizz Modulo2 | https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/MICE_imputation.ipynb|
+|2-quizz_data_preparation_cleaning.ipynb| Quizz Modulo2| https://github.com/MarioSolano98/eda_course/blob/main/2-quizz_data_preparation_cleaning.ipynb|
+|2-quizz_data_preparation_cleaning.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/imputaci%C3%B3n_y_modelado.ipynb|
 
 
 
