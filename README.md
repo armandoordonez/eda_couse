@@ -35,7 +35,7 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 |----------|-------------|----------|
 |2.2.1-carga-dataset-parquet.ipynb|Carga y lectura de archivos CSV| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/load_parquet.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |2.2.2-ordernar-datasets.ipynb|Ordenacion de un dataset por columnas| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/sort.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|2.2.3-ejercicio-merge-join-US.ipynb| <a href="https://github.com/MarioSolano98/eda_course/blob/main/2.2.3-ejercicio-merge-join-US.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.2.3-ejercicio-merge-join-US.ipynb|Ejercicio de combinacion de Dataset|<a href="https://github.com/MarioSolano98/eda_course/blob/main/2.2.3-ejercicio-merge-join-US.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
 ## Modulo 3 -  preparación de Datos 
 
