@@ -28,6 +28,7 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 |2.1-introduccion-carga-dataset-csv.ipynb|Carga y lectura de archivos CSV| <a href="https://github.com/MarioSolano98/eda_course/blob/main/2.1-introduccion-carga-dataset-csv.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |2.2-merge-datasets.ipynb|Realizar un merge de datasets| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Merge_de_datasets.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |2.3-merge_join-datasets.ipynb|Combinar y unir un dataset| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/merge_join.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.4-entendimiento-delos-datos|Entender la estructura de los datos| <a href="https://github.com/MarioSolano98/eda_course/blob/main/2.4-entendimiento-delos-datos.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
 
 #### Ejercicios Adicionales
@@ -37,6 +38,14 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 |2.2.2-ordernar-datasets.ipynb|Ordenacion de un dataset por columnas| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/sort.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |2.2.3-ejercicio-merge-join-US.ipynb|Ejercicio de combinacion de Dataset|<a href="https://github.com/MarioSolano98/eda_course/blob/main/2.2.3-ejercicio-merge-join-US.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |2.2.4-modificar-datasets.ipynb|Modificar dataset|<a href="[https://github.com/MarioSolano98/eda_course/blob/main/2.2.3-ejercicio-merge-join-US.ipynb](https://github.com/MarioSolano98/eda_course/blob/main/2.2.3-modificar-datasets.ipynb)"><img src="img/colab.svg" alt="Open In Colab"></a>|
+
+#### Quizz
+| Notebook | Descripción | Link Colab |
+|2-quizz-MICE_imputation.ipynb|Quizz Modulo2 |https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/MICE_imputation.ipynb|
+|2-quizz_data_preparation_cleaning.ipynb|Quizz Modulo2|https://github.com/MarioSolano98/eda_course/blob/main/2-quizz_data_preparation_cleaning.ipynb|
+|2-quizz_data_preparation_cleaning.ipynb|Qiuizz Modulo 2|https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/imputaci%C3%B3n_y_modelado.ipynb|
+
+
 
 ## Modulo 3 -  preparación de Datos 
 
