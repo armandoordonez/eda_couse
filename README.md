@@ -21,6 +21,18 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 |modelo_prestamo.pkl| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
 |index| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
 
+#### Ejercicios Adicionales
+
+| Notebook | Descripción | Link Colab |
+|----------|-------------|----------|
+|-|-|-|
+
+
+#### Quizz
+| Notebook | Descripción | Link Colab |
+|----------|-------------|----------|
+|-|-|-|
+
 ## Modulo 2 -  Entender la forma de los datos 
 
 | Notebook | Descripción | Link Colab |
@@ -45,23 +57,32 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 |----------|-------------|----------|
 |2-quizz-MICE_imputation.ipynb| Quizz Modulo2 | https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/MICE_imputation.ipynb|
 |2-quizz_data_preparation_cleaning.ipynb| Quizz Modulo2| https://github.com/MarioSolano98/eda_course/blob/main/2-quizz_data_preparation_cleaning.ipynb|
-|2-quizz_data_preparation_cleaning.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/imputaci%C3%B3n_y_modelado.ipynb|
-
+|imputación_y_modelado.ipynb.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/imputaci%C3%B3n_y_modelado.ipynb|
 
 
 ## Modulo 3 -  preparación de Datos 
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
-|3_data_preparation_cleaning.ipynb| Basic data cleaning and preparation | <a href="https://colab.research.google.com/drive/1Igs3WZuXAIv9X0vwqiE90QlEPys8e8Oa?usp=sharing"><img src="img/colab.svg" alt="Open In Colab"></a> 
-|Regresión_logistica.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Basic_Pipeline_custom.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Impacto_one_hot_encoding_y_label_encoding.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Practica_Selección_de_variables.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Stanarize_normalize.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Loan_prediction.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|2_data_understanding.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Fine_tune_PaliGemma_for_image.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Custom_transformers.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|basic_clasification.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|lr-model-version-4244.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.0-Impacto-one-hot-encoding-y-label-encoding.ipynb| Uso de One Hot Encoding y Label Encoding | <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Impacto_one_hot_encoding_y_label_encoding.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.1-Estandarizacion-Normalizacion.ipynb|Aplicación de Estandarización y Normalización|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Stanarize_normalize.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.2-label-encoding.ipynb|Label Encoding|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Label_encoding.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.3-Loan-Prediction.ipynb|Taller de Correlaciones|<a href="https://github.com/MarioSolano98/eda_course/blob/main/3.3-Loan-Prediction.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.4-Practica-Selección-de-Variables.ipynb|Selección de Variables|<a href="https://github.com/MarioSolano98/eda_course/blob/main/3.4-Practica-Selecci%C3%B3n-de-Variables.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.5-Pipeline-1.ipynb|Practica de Pipelines|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Pipeline_1.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.6-Pipeline-2.ipynb|Practica de Pipelines|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Pipeline_2.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.7-Pipeline-Linear-Regression.ipynb|Pipeline de un modelo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Pipeline_Linear_regression.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.9-Pipeline-Experiment.ipynb|Pipeline usando Transformers|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Pipeline_Experiment.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.10-Taller-Data-Leakage.ipynb|Taller de Fuga de Datos|<a href="https://colab.research.google.com/github/armandoordonez/eda/blob/main/Taller_Data_Leakage.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+
+#### Ejercicios Adicionales
+
+| Notebook | Descripción | Link Colab |
+|----------|-------------|----------|
+|-|-|-|
+
+
+#### Quizz
+| Notebook | Descripción | Link Colab |
+|----------|-------------|----------|
+|-|-|-|
