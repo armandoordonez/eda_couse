@@ -10,28 +10,8 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
-|1_intro_carga_dataset_csv.ipynb| Basic data cleaning and preparation | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a> |
-|2_data_understanding.ipynb| Basic data cleaning and preparation | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a> |
-|3_data_preparation_cleaning.ipynb| Basic data cleaning and preparation | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a> |
-|MICE_imputation.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|imputación_y_modelado.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|outliers.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Histogram and Density Plot.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|Impacto_nulos_performance.ipynb| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|modelo_prestamo.pkl| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
-|index| descripcion | <a href=""><img src="img/colab.svg" alt="Open In Colab"></a>|
+|1.0-Basic-Clasification.ipynb|Ejemplo de Proceso de DS|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/basic_clasification.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
-#### Ejercicios Adicionales
-
-| Notebook | Descripción | Link Colab |
-|----------|-------------|----------|
-|-|-|-|
-
-
-#### Quizz
-| Notebook | Descripción | Link Colab |
-|----------|-------------|----------|
-|-|-|-|
 
 ## Modulo 2 -  Entender la forma de los datos 
 
@@ -79,10 +59,12 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
-|-|-|-|
+|3-Imbalanced-Dataset.ipynb|-|<a href="https://github.com/MarioSolano98/eda_course/blob/main/3-Imbalanced-Dataset.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Tutorial_Descomposición-Series-De-Tiempo.ipynb|Series de Tiempo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/tutorial_descomposici%C3%B3n_series_de_tiempo.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Time-Series.ipynb|Series de Tiempo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Time_series.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Regresion-Logistica.ipynb|Regresion Logistica|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Regresi%C3%B3n_logistica.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Custom-Transformers.ipynb||<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Custom_transformers.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Column-Transformers.ipynb||<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Column_transformers.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Basic-Pipelines.ipynb||<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Basic_pipelines.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Basic-Pipeline-Custom.ipynb||<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Basic_Pipeline_custom.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
-
-#### Quizz
-| Notebook | Descripción | Link Colab |
-|----------|-------------|----------|
-|-|-|-|
