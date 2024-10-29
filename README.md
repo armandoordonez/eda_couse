@@ -38,6 +38,9 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 |2-quizz-MICE_imputation.ipynb| Quizz Modulo2 | https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/MICE_imputation.ipynb|
 |2-quizz_data_preparation_cleaning.ipynb| Quizz Modulo2| https://github.com/MarioSolano98/eda_course/blob/main/2-quizz_data_preparation_cleaning.ipynb|
 |imputación_y_modelado.ipynb.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/imputaci%C3%B3n_y_modelado.ipynb|
+|2-quizz-eda-clasificacion.ipynb| Quizz Modulo 2| https://github.com/MarioSolano98/eda_course/blob/main/2-quizz-eda-clasificacion.ipynb|
+|2-quizz-ejercicios-de-merge.ipynb| Quizz Modulo 2| https://github.com/MarioSolano98/eda_course/blob/main/2-quizz-eda-regresion.ipynb|
+|2-quizz-ejercicios-de-merge.ipynb| Quizz Modulo 2| https://github.com/MarioSolano98/eda_course/blob/main/2-quizz-ejercicios-de-merge.ipynb|
 
 
 ## Modulo 3 -  preparación de Datos 
