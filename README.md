@@ -10,7 +10,7 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
-|1.0-Basic-Clasification.ipynb|Ejemplo de Proceso de DS|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/basic_clasification.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|1.0-Basic-Clasification.ipynb|Ejemplo de Proceso de DS|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/1.0-Basic-Clasification.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
 
 ## Modulo 2 -  Entender la forma de los datos 
