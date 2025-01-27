@@ -18,8 +18,8 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
 |2.1-introduccion-carga-dataset-csv.ipynb|Carga y lectura de archivos CSV| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.1-introduccion-carga-dataset-csv.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|2.2-merge-datasets.ipynb|Realizar un merge de datasets| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Merge_de_datasets.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|2.3-merge_join-datasets.ipynb|Combinar y unir un dataset| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/merge_join.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.2-merge-datasets.ipynb|Realizar un merge de datasets| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.2-merge-datasets.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.3-merge_join-datasets.ipynb|Combinar y unir un dataset| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.3-merge_join-datasets.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |2.4-entendimiento-delos-datos|Entender la estructura de los datos| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.4-entendimiento-delos-datos.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
 
@@ -27,19 +27,19 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
-|2.2.1-carga-dataset-parquet.ipynb|Carga y lectura de archivos CSV| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/load_parquet.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|2.2.2-ordernar-datasets.ipynb|Ordenacion de un dataset por columnas| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/sort.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.2.1-carga-dataset-parquet.ipynb|Carga y lectura de archivos CSV| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.2.1-carga-dataset-parquet.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|2.2.2-ordernar-datasets.ipynb|Ordenacion de un dataset por columnas| <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.2.2-ordernar-datasets.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |2.2.3-ejercicio-merge-join-US.ipynb|Ejercicio de combinacion de Dataset|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.2.3-ejercicio-merge-join-US.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |2.2.4-modificar-datasets.ipynb|Modificar dataset|<a href="[https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.2.3-ejercicio-merge-join-US.ipynb](https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2.2.3-modificar-datasets.ipynb)"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
 #### Quizz
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
-|2-quizz-MICE_imputation.ipynb| Quizz Modulo2 | https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/MICE_imputation.ipynb|
+|2-quizz-MICE_imputation.ipynb| Quizz Modulo2 | https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2-quizz-MICE_imputation.ipynb|
 |2-quizz_data_preparation_cleaning.ipynb| Quizz Modulo2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2-quizz_data_preparation_cleaning.ipynb|
-|imputación_y_modelado.ipynb.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/imputaci%C3%B3n_y_modelado.ipynb|
+|imputación_y_modelado.ipynb.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2-quizz-imputación-y-modelado.ipynb|
 |2-quizz-eda-clasificacion.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2-quizz-eda-clasificacion.ipynb|
-|2-quizz-ejercicios-de-merge.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2-quizz-eda-regresion.ipynb|
+|2-quizz-eda-regresion.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2-quizz-eda-regresion.ipynb|
 |2-quizz-ejercicios-de-merge.ipynb| Quizz Modulo 2| https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/2-quizz-ejercicios-de-merge.ipynb|
 
 
