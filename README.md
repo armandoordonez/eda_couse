@@ -47,27 +47,27 @@ El análisis exploratorio de datos (Exploratory Data Analysis – EDA) es una de
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------| 
-|3.0-Impacto-one-hot-encoding-y-label-encoding.ipynb| Uso de One Hot Encoding y Label Encoding | <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Impacto_one_hot_encoding_y_label_encoding.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3.1-Estandarizacion-Normalizacion.ipynb|Aplicación de Estandarización y Normalización|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Stanarize_normalize.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3.2-label-encoding.ipynb|Label Encoding|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Label_encoding.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.0-Impacto-one-hot-encoding-y-label-encoding.ipynb| Uso de One Hot Encoding y Label Encoding | <a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.0-Impacto-one-hot-encoding-y-label-encoding.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.1-Estandarizacion-Normalizacion.ipynb|Aplicación de Estandarización y Normalización|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.1-Estandarizacion-Normalizacion.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.2-label-encoding.ipynb|Label Encoding|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.2-label-encoding.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |3.3-Loan-Prediction.ipynb|Taller de Correlaciones|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.3-Loan-Prediction.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 |3.4-Practica-Selección-de-Variables.ipynb|Selección de Variables|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.4-Practica-Selecci%C3%B3n-de-Variables.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3.5-Pipeline-1.ipynb|Practica de Pipelines|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Pipeline_1.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3.6-Pipeline-2.ipynb|Practica de Pipelines|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Pipeline_2.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3.7-Pipeline-Linear-Regression.ipynb|Pipeline de un modelo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Pipeline_Linear_regression.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3.9-Pipeline-Experiment.ipynb|Pipeline usando Transformers|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Pipeline_Experiment.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3.10-Taller-Data-Leakage.ipynb|Taller de Fuga de Datos|<a href="https://colab.research.google.com/github/armandoordonez/eda/blob/main/Taller_Data_Leakage.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.5-Pipeline-1.ipynb|Practica de Pipelines|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.5-Pipeline-1.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.6-Pipeline-2.ipynb|Practica de Pipelines|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.6-Pipeline-2.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.7-Pipeline-Linear-Regression.ipynb|Pipeline de un modelo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.7-Pipeline-Linear-Regression.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.9-Pipeline-Experiment.ipynb|Pipeline usando Transformers|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3.9-Pipeline-Experiment.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3.10-Taller-Data-Leakage.ipynb|Taller de Fuga de Datos|<a href="https://colab.research.google.com/github/armandoordonez/eda/blob/main/3.10-Taller-Data-Leakage.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
 #### Ejercicios Adicionales
 
 | Notebook | Descripción | Link Colab |
 |----------|-------------|----------|
 |3-Imbalanced-Dataset.ipynb|Métodos para Datos Desbalanceados|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3-Imbalanced-Dataset.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3-Tutorial_Descomposición-Series-De-Tiempo.ipynb|Series de Tiempo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/tutorial_descomposici%C3%B3n_series_de_tiempo.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3-Time-Series.ipynb|Series de Tiempo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Time_series.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3-Regresion-Logistica.ipynb|Regresion Logistica|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Regresi%C3%B3n_logistica.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3-Custom-Transformers.ipynb|Uso de Transformers Personalizados|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Custom_transformers.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3-Column-Transformers.ipynb|Modificando Columnas con Transformers|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Column_transformers.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3-Basic-Pipelines.ipynb|Tuberias de Datos Básicas|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Basic_pipelines.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
-|3-Basic-Pipeline-Custom.ipynb|Tuberias de Datos Personalizadas|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/Basic_Pipeline_custom.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Tutorial_Descomposición-Series-De-Tiempo.ipynb|Series de Tiempo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3-Tutorial_Descomposición-Series-De-Tiempo.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Time-Series.ipynb|Series de Tiempo|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3-Time-Series.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Regresion-Logistica.ipynb|Regresion Logistica|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3-Regresion-Logistica.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Custom-Transformers.ipynb|Uso de Transformers Personalizados|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3-Custom-Transformers.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Column-Transformers.ipynb|Modificando Columnas con Transformers|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3-Column-Transformers.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Basic-Pipelines.ipynb|Tuberias de Datos Básicas|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3-Basic-Pipelines.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
+|3-Basic-Pipeline-Custom.ipynb|Tuberias de Datos Personalizadas|<a href="https://colab.research.google.com/github/armandoordonez/eda_couse/blob/main/3-Basic-Pipeline-Custom.ipynb"><img src="img/colab.svg" alt="Open In Colab"></a>|
 
