@@ -1,0 +1,143 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+      "title": "Contoso Banking API",
+      "description": "API demo para Copilot Studio (List Users, User Profile y Balance Information)",
+      "version": "2.1.0"
+    },
+    "servers": [
+      {
+        "url": "https://contoso-api.onrender.com"
+      }
+    ],
+    "paths": {
+      "/users": {
+        "get": {
+          "summary": "Listar todos los usuarios",
+          "operationId": "listUsers",
+          "responses": {
+            "200": {
+              "description": "Lista de usuarios",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "array",
+                    "items": { "$ref": "#/components/schemas/UserProfile" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "/user/profile": {
+        "get": {
+          "summary": "Obtener perfil de usuario",
+          "operationId": "getUserProfile",
+          "parameters": [
+            {
+              "name": "userId",
+              "in": "query",
+              "required": false,
+              "schema": { "type": "string" },
+              "description": "ID único del usuario"
+            },
+            {
+              "name": "email",
+              "in": "query",
+              "required": false,
+              "schema": { "type": "string" },
+              "description": "Correo electrónico del usuario"
+            },
+            {
+              "name": "name",
+              "in": "query",
+              "required": false,
+              "schema": { "type": "string" },
+              "description": "Nombre completo del usuario"
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Perfil del usuario encontrado",
+              "content": {
+                "application/json": {
+                  "schema": { "$ref": "#/components/schemas/UserProfile" }
+                }
+              }
+            },
+            "404": {
+              "description": "Usuario no encontrado"
+            }
+          }
+        }
+      },
+      "/account/balance": {
+        "post": {
+          "summary": "Obtener balance de una cuenta",
+          "operationId": "getAccountBalance",
+          "requestBody": {
+            "required": true,
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/BalanceRequest" }
+              }
+            }
+          },
+          "responses": {
+            "200": {
+              "description": "Saldo de la cuenta",
+              "content": {
+                "application/json": {
+                  "schema": { "$ref": "#/components/schemas/BalanceResponse" }
+                }
+              }
+            },
+            "404": {
+              "description": "Cuenta no encontrada"
+            }
+          }
+        }
+      }
+    },
+    "components": {
+      "schemas": {
+        "Account": {
+          "type": "object",
+          "properties": {
+            "id": { "type": "string", "example": "acc001" },
+            "type": { "type": "string", "example": "Checking" },
+            "currency": { "type": "string", "example": "COP" }
+          }
+        },
+        "UserProfile": {
+          "type": "object",
+          "properties": {
+            "userId": { "type": "string", "example": "user123" },
+            "name": { "type": "string", "example": "Andrés Pino" },
+            "email": { "type": "string", "example": "andres.pino@contoso.com" },
+            "accounts": {
+              "type": "array",
+              "items": { "$ref": "#/components/schemas/Account" }
+            }
+          }
+        },
+        "BalanceRequest": {
+          "type": "object",
+          "properties": {
+            "accountId": { "type": "string", "example": "acc001" }
+          },
+          "required": ["accountId"]
+        },
+        "BalanceResponse": {
+          "type": "object",
+          "properties": {
+            "accountId": { "type": "string", "example": "acc001" },
+            "balance": { "type": "number", "example": 1250000.5 },
+            "currency": { "type": "string", "example": "COP" }
+          }
+        }
+      }
+    }
+  }
+  
