@@ -1,0 +1,51 @@
+producto,categoria,precio,costo
+Laptop Pro,Electrónica,1200,800
+Laptop Air,Electrónica,950,650
+Mouse Inalámbrico,Electrónica,25,10
+Mouse Gamer,Electrónica,45,20
+Teclado Mecánico,Electrónica,85,40
+Teclado Slim,Electrónica,55,25
+"Monitor 24""",Electrónica,250,150
+"Monitor 27""",Electrónica,380,230
+Audífonos Bluetooth,Electrónica,70,35
+Parlante Portátil,Electrónica,90,45
+Smartwatch,Electrónica,180,110
+"Tablet 10""",Electrónica,320,210
+Camisa Casual,Ropa,35,15
+Camisa Formal,Ropa,45,20
+Jeans Premium,Ropa,65,30
+Jeans Regular,Ropa,50,22
+Zapatillas Running,Ropa,95,45
+Zapatillas Urbanas,Ropa,85,40
+Chaqueta Invierno,Ropa,120,60
+Chaqueta Ligera,Ropa,90,45
+Vestido Casual,Ropa,70,32
+Pantalón Deportivo,Ropa,55,25
+Sudadera,Ropa,60,28
+Camiseta Básica,Ropa,25,10
+Cafetera,Hogar,45,20
+Licuadora,Hogar,55,25
+Sartén Antiadherente,Hogar,30,12
+Olla a Presión,Hogar,85,45
+Juego de Toallas,Hogar,40,18
+Juego de Sábanas,Hogar,75,35
+Aspiradora,Hogar,150,90
+Plancha de Vapor,Hogar,65,30
+Horno Eléctrico,Hogar,130,75
+Tostadora,Hogar,35,15
+Ventilador,Hogar,90,50
+Mesa de Comedor,Muebles,450,280
+Silla de Oficina,Muebles,180,110
+Escritorio,Muebles,320,200
+Sofá 3 Puestos,Muebles,750,480
+Mesa de Centro,Muebles,220,140
+Lámpara de Mesa,Muebles,45,20
+Estantería,Muebles,200,120
+Colchón Queen,Muebles,680,420
+Almohada Ortopédica,Hogar,50,22
+Set de Cuchillos,Hogar,60,28
+Batidora,Hogar,70,35
+Freidora de Aire,Hogar,160,95
+Microondas,Hogar,180,110
+Router WiFi,Electrónica,120,70
+Disco Duro Externo,Electrónica,110,65
