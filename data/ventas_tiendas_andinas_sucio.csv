@@ -1,0 +1,1241 @@
+ID Transaccion,fecha,Ciudad ,tienda,Canal,Categoria,cant,Precio Unitario,Descuento %,Valor Total,Metodo_Pago,Edad,Genero,Segmento,Satisfaccion (1-5),Dias Entrega,Devolucion
+T10398,04/07/2025,Medellin,VIRTUAL,Web,Deportes,3,107100,0.3,224900,Débito,36,M,Estándar,5,3,0
+T10228,2025-01-31,Cartagena de Indias,CAR-02,Tienda física,Calzado,1,102800,0,102800,Nequi,62,Mujer,Premium,5,,No
+T10465,2025-08-16,bogota,VIRTUAL,Web,Tecnología,4,822800,15%,2797500,Débito,38,F,Premium,4,5,0
+T10047,Nov 16 2025,bogota,BOG-02,Tienda,Belleza,1,47800,5%,45400,Débito,21,Femenino,Premium,4,,no
+T10127,2025-08-08,Santiago de Cali,CAL-03,Tienda física,Ropa,1,$109.800,10,98800,Nequi,34,Mujer,Básico,4,,0
+T10946,31/07/2025,cali,CAL-02,Tienda,Deportes,2,149700,0,299400,Débito,50,Masculino,Básico,4,,0
+T10183,2025-06-19,B/quilla,VIRTUAL,App movil,Hogar,4,175260,5%,666000,Débito,40,Masculino,Premium,5,5,No
+T11016,19/11/2025,B/quilla,BAR-03,TIENDA,Hogar,1,132500,0%,132500,Tarjeta crédito,,Mujer,Básico,5,,0
+T10690,02/06/2025,medellin,VIRTUAL,App,Ropa,7,$59.685,30%,292500,Tarjeta crédito,43,F,Básico,5,1,No
+T10498,24/12/2025,Santiago de Cali,CAL-02,TIENDA,Tecnología,2,775400,0.1,1395700,Nequi,50,Masculino,Estándar,4,,0
+T10715,02/01/2025,cartagena,VIRTUAL,Online,Deportes,2,174300,15,296300,PSE,18,Femenino,Básico,4,3,No
+T10268,2025-03-24,Cartagena,VIRTUAL,web,Hogar,3,178600,0.15,455400,Nequi,37,Mujer,Premium,2,6,NO
+T11195,2025-11-03,Cali,CAL-01,Tienda,Belleza,1,32900,0%,32900,Nequi,41,Masculino,Estándar,4,,NO
+T10343,2025-09-18,MEDELLIN,MED-02,Tienda,Calzado,3,179800,5%,,Efectivo,40,M,Premium,,,no
+T10146,2025-04-05,Medellín,MED-03,TIENDA,Deportes,2,97600,0,195200,Tarjeta crédito,31,Mujer,Básico,4,,No
+T10188,23/04/2025,Bogota,BOG-01,Tienda física,Belleza,1,$42.900,0.2,34300,Tarjeta crédito,30,Masculino,Estándar,5,,NO
+T10985,2025-10-20,bogota,BOG-01,Tienda física,Calzado,5,$223.200,5%,,Nequi,51,Femenino,Básico,5,,0
+T10643,28/05/2025,Medellín,MED-01,TIENDA,Ropa,4,52000,0.05,197600,Débito,49,Hombre,,4,,0
+T11070,Jun 14 2025,medellin,MED-03,Tienda,Belleza,3,65600,20,157400,Nequi,33,femenino,Estándar,,,no
+T11198,2025-02-02,CALI,CAL-01,tienda,Belleza,3,$66.500,5,189500,Tarjeta crédito,29,m,Estándar,4,,0
+T10786,2025-11-28,Medellin,MED-02,Tienda física,Deportes,4,$174.300,0%,697200,Tarjeta crédito,42,M,Estándar,4,,no
+T10997,29/11/2025, Cali ,VIRTUAL,Online,Belleza,3,$35.100,0.0,105300,PSE,35,Femenino,Básico,4,2,NO
+T11022,07/12/2025,Santiago de Cali,CAL-02,TIENDA,Ropa,4,$61.500,10,221400,Tarjeta crédito,20,m,PREMIUM,4,,no
+T10618,2025-07-01,cali,CAL-02,Tienda,Belleza,2,29200,0.1,52600,Débito,42,Femenino,Estándar,3,,NO
+T10020,2025-12-17,cartagena,CAR-01,Tienda,Calzado,3,$190.000,15,484500,Efectivo,48,Femenino,Estándar,5,,No
+T10926,01/12/2025,CALI,VIRTUAL,Online,Calzado,1,222900,0.0,222900,Débito,35,Femenino,Básico,,5,0
+T10943,2025-10-05,Bogotá,VIRTUAL,Online,Ropa,4,93500,20%,299200,Tarjeta crédito,24,m,Estándar,2,8,0
+T10615,11/10/2025,Santiago de Cali,CAL-03,tienda,Deportes,4,127400,20,,Débito,22,Mujer,Estándar,4,,No
+T11159,Nov 16 2025,MEDELLIN,MED-01,Tienda,Belleza,4,$46.700,5%,177500,Tarjeta crédito,41,femenino,Premium,5,,No
+T10220,31/03/2025,Cali,CAL-02,TIENDA,Ropa,3,104500,10%,282200,Tarjeta crédito,40,Masculino,Básico,4,,0
+T11196,30/11/2025,Cartagena de Indias,VIRTUAL,web,Hogar,1,174200,0,174200,Tarjeta crédito,30,masculino,Estándar,3,5,NO
+T11178,2025-01-13,B/quilla,VIRTUAL,App movil,Calzado,3,274045,0%,822100,Tarjeta crédito,33,Masculino,Estándar,3,4,no
+T10526,27/12/2025,Bogotá D.C.,VIRTUAL,web,Ropa,2,$55.200,20,88300,Tarjeta crédito,25,F,Básico,4,7,SI
+T10496,17/05/2025,Bogotá D.C.,BOG-03,TIENDA,hogar,2,$79.300,5%,150700,Tarjeta crédito,31,m,Estándar,,,no
+T10909,2025-03-09,BOGOTA,BOG-01,tienda,Ropa,2,$86.400,0.2,138200,Tarjeta crédito,63,Femenino,Premium,5,,no
+T10265,09/04/2025,medellin,MED-01,Tienda física,belleza,5,53400,10,,PSE,33,No responde,Estándar,5,,0
+T10888,26/06/2025,Medellin,MED-01,Tienda,Belleza,4,$54.800,0%,219200,Tarjeta crédito,52,masculino,Básico,5,,No
+T10439,2025-05-19,BOGOTA,VIRTUAL,APP móvil,Hogar,2,175490,0%,,Tarjeta crédito,33,m,Estándar,4,1,no
+T10651,2025-08-24,cartagena,CAR-01,Tienda,Ropa,2,66600,0.1,119900,Débito,30,Masculino,Estándar,5,,no
+T10752,2025-01-09,barranquilla,BAR-01,Tienda física,Ropa,4,117600,5%,446900000,Tarjeta crédito,41,F,basico,5,,no
+T11015,2025-06-29,Medellín,VIRTUAL,online,Belleza,5,65000,15,276200,Efectivo,39,,Estándar,,3,NO
+T11143,2025-01-19,Cartagena,CAR-03,tienda,Belleza,4,$59.300,0.05,225300,Nequi,46,Femenino,Premium,4,,No
+T10272,31/10/2025,Cali,CAL-01,tienda,Ropa,1,118500,0%,118500,Débito,38,Mujer,Estándar,5,,no
+T10664,2025-01-12, Cali ,CAL-02,TIENDA,Tecnología,5,818500,0.2,3274000,Nequi,26,Masculino,Estándar,4,,no
+T10600,02/09/2025,Medellin,VIRTUAL,web,Belleza,4,32500,10%,117000,Tarjeta crédito,35,Mujer,Estándar,4,4,no
+T11076,25/02/2025, Cali ,VIRTUAL,Web,Ropa,4,53400,10%,192200,PSE,40,m,Básico,2,5,SI
+T10818,20/05/2025,CALI,CAL-02,Tienda física,Ropa,8,$91.700,30%,513500,Tarjeta crédito,25,femenino,Estándar,4,,0
+T10306,2025-10-20,Santiago de Cali,CAL-01,Tienda,Calzado,4,149600,10%,538600,Efectivo,36,Mujer,Premium,4,,no
+T11056,2025-04-01,cali,VIRTUAL,online,Ropa,4,66700,20,213400,Nequi,,femenino,estandar,,1,0
+T10719,08/01/2025,BOGOTA,VIRTUAL,Online,Hogar,4,$114.800,20,367400,Tarjeta crédito,18,No responde,Básico,4,1,no
+T10790,2025-01-23,medellin,MED-01,tienda,Ropa,3,51400,0.05,146500,Nequi,33,femenino,PREMIUM,,,NO
+T10061,2025-02-06,Cali,CAL-03,Tienda física,Deportes,1,146400,0.0,146400,Tarjeta crédito,35,No responde,Estándar,4,,no
+T10481,Aug 06 2025,Cartagena de Indias,CAR-03,Tienda,Ropa,3,81300,0.0,243900,Nequi,59,masculino,Estándar,5,,NO
+T10385,2025-04-16,Cartagena,CAR-02,TIENDA,Ropa,2,122400,0.0,244800,Nequi,31,M,Básico,5,,SI
+T10470,15/10/2025,Medellin,VIRTUAL,web,Belleza,0,55900,0.1,201200,Tarjeta crédito,30,,Básico,3,2,0
+T10694,2025-04-26,Cartagena de Indias,VIRTUAL,app,Tecnología,3,458505,5,1306700,Tarjeta crédito,19,Masculino,PREMIUM,4,7,1
+T10490,2025-08-14,barranquilla,VIRTUAL,Online,Belleza,1,$40.600,0%,40600,Efectivo,49,F,Básico,0,3,Si
+T10182,Mar 30 2025,Barranquilla,VIRTUAL,Online,Hogar,4,94600,15%,321600,PSE,43,Femenino,Básico,4,5,no
+T11086,21/07/2025,cali,VIRTUAL,App,Calzado,5,158470,0.0,792400,Efectivo,45,Femenino,Estándar,4,7,NO
+T10279,2025-03-12,barranquilla,BAR-01,Tienda física,Belleza,3,57500,0%,172500,Tarjeta crédito,33,Mujer,Básico,5,,No
+T11031,2025-04-28,bogota,VIRTUAL,Web,Deportes,2,173700,5,330000,Nequi,52,masculino,Estándar,4,3,no
+T11163,2025-06-19,Medellin,MED-01,Tienda,Hogar,2,$146.100,20%,233800,PSE,36,femenino,Básico,5,,no
+T10330,21/07/2025,Bogota,BOG-02,tienda,Calzado,0,239700,20%,1150600,Efectivo,33,f,Estándar,4,,NO
+T10305,2025-05-18,Bogotá,BOG-02,Tienda física,Ropa,2,74300,0%,,Nequi,30,F,Estándar,4,,no
+T10508,2025-01-30,Bogotá D.C.,BOG-02,Tienda,Calzado,5,118700,30,415400,Débito,35,Hombre,Básico,,,NO
+T10669,2025-02-21,Bogotá D.C.,BOG-03,Tienda física,Hogar,1,$88.500,0.0,88500,Nequi,66,Otro,Básico,4,,no
+T10776,2025-11-14,cali,CAL-01,tienda,Ropa,3,88300,0%,264900,Débito,40,Femenino,Básico,5,,No
+T11001,2025-12-20,Cartagena de Indias,VIRTUAL,Online,Deportes,2,$111.500,0%,223000,Efectivo,48,Mujer,Premium,,4,No
+T10994,2025-04-02, Cali ,VIRTUAL,App movil,Tecnología,1,$593.170,5%,563500,PSE,49,F,Básico,4,5,Si
+T11119,20/02/2025,CALI,CAL-02,TIENDA,Hogar,3,$114.000,15%,290700,Nequi,51,femenino,basico,5,,No
+T10911,08/03/2025,Bogota,BOG-02,Tienda,Deportes,3,197900,10%,534300,Efectivo,44,F,Estándar,4,,0
+T10596,2025-02-17, Cali ,VIRTUAL,web,Deportes,1,$169.600,0%,169600,Nequi,41,No responde,Estándar,,4,0
+T11025,2025-06-02,Medellin,VIRTUAL,Online,Belleza,6,$45.500,30%,191100,Efectivo,35,Mujer,Premium,10,2,Sí
+T10460,2025-08-05,Medellin,MED-02,TIENDA,Ropa,2,76900,10%,138400,Tarjeta crédito,43,M,Premium,,,No
+T10979,2025-06-09,bogota,VIRTUAL,APP móvil,Tecnología,4,1064555,20%,3406600,PSE,25,Mujer,Estándar,4,1,Sí
+T10248,2025-06-23,BOGOTA,VIRTUAL,App movil,Ropa,4,135125,20,432400,PSE,38,F,Básico,4,2,No
+T10283,Apr 24 2025,Santiago de Cali,CAL-03,Tienda,Calzado,4,185500,10%,667800,Nequi,50,M,Estándar,5,,0
+T10137,2025-04-24,bogota,VIRTUAL,App,Ropa,3,$140.185,0%,420600000,Efectivo,18,masculino,Estándar,5,1,No
+T10959,2025-04-10,Medellin,MED-02,TIENDA,Deportes,3,$195.700,5,557700,Débito,66,,Premium,,,no
+T10829,2025-01-20,Bogota,BOG-01,tienda,Belleza,2,63600,0.05,120800,Débito,25,Masculino,Estándar,4,,no
+T10387,25/12/2025,medellin,MED-02,TIENDA,Belleza,4,$27.400,10%,98600,Nequi,54,Masculino,Estándar,5,,No
+T10309,17/01/2025,Medellín,VIRTUAL,App,Ropa,1,83145,0.1,74800,Tarjeta crédito,28,,Premium,5,1,no
+T10668,2025-08-08,BOGOTA,BOG-02,TIENDA,Deportes,3,$84.700,20%,203300,Nequi,22,f,Básico,3,,SI
+T11062,2025-06-21,Medellín,MED-01,Tienda física,Hogar,2,$114.500,20,183200,Tarjeta crédito,40,Hombre,Básico,5,,No
+T11176,2025-12-09,cali,CAL-02,Tienda física,Hogar,3,157400,0.15,,Tarjeta crédito,34,m,Estándar,4,,No
+T10544,2025-11-10,CALI,CAL-03,tienda,Tecnología,1,415300,0,415300,Débito,29,femenino,Estándar,5,,no
+T11084,2025-01-01,Cartagena de Indias,VIRTUAL,App,Hogar,4,$168.935,15%,574400,Efectivo,25,Hombre,Estándar,4,5,SI
+T10235,2025-12-15, Cali ,VIRTUAL,online,Deportes,2,177300,20%,283700,PSE,34,M,Básico,3,6,0
+T10688,12/03/2025,B/quilla,BAR-01,Tienda física,Belleza,2,$32.400,5%,61600,Efectivo,28,F,Estándar,4,,Si
+T10998,2025-03-19,CALI,CAL-01,Tienda,Belleza,2,38100,0.05,72400,Tarjeta crédito,31,Mujer,Estándar,5,,no
+T10457,sin fecha,Santiago de Cali,CAL-02,TIENDA,Ropa,2,71800,0.0,143600,Débito,46,Femenino,Básico,10,,Sí
+T10068,2025-10-19,Cartagena,CAR-01,TIENDA,Ropa,3,62700,10,169300,Débito,26,f,Estándar,4,,0
+T11183,2025-10-18,Medellín,VIRTUAL,Web,Calzado,4,149700,0.0,598800,Nequi,18,Femenino,Básico,,1,No
+T10525,2025-06-10,Bogota,VIRTUAL,App,Deportes,5,106030,0%,530100,Nequi,36,Hombre,Estándar,5,2,no
+T10283,Apr 24 2025,Santiago de Cali,CAL-03,Tienda,Calzado,4,185500,10%,667800,Nequi,50,M,Estándar,5,,0
+T11155,2025-07-02,Medellín,MED-03,Tienda,Ropa,6,122400,30,514100,PSE,,No responde,Premium,5,,Si
+T10335,2025-04-11,medellin,VIRTUAL,APP móvil,Ropa,2,142140,5%,,Nequi,36,femenino,Básico,4,3,0
+T10363,2025-02-09,Santiago de Cali,CAL-01,TIENDA,Belleza,5,29500,0%,147500,Tarjeta crédito,34,Mujer,Estándar,5,,0
+T11172,2025-04-17,Medellín,MED-03,tienda,Belleza,2,$28.400,0%,56800,Débito,36,Masculino,Básico,4,,0
+T10793,2025-07-09,bogota,BOG-02,Tienda física,deportes,3,133600,5,,Tarjeta crédito,39,Mujer,Estándar,4,,1
+T10842,14/01/2025,medellin,VIRTUAL,APP móvil,Hogar,1,$123.510,0,123500,PSE,34,f,Estándar,4,1,Sí
+T11111,05/12/2025,Medellín,VIRTUAL,App movil,Calzado,3,185725,0,557200,Débito,42,Hombre,Básico,3,8,No
+T10226,Jul 27 2025,Cartagena de Indias,VIRTUAL,Online,Tecnología,2,869600,5,1652200,Efectivo,42,Hombre,Estándar,4,7,0
+T10549,2025-01-02,Cali,CAL-03,Tienda,Tecnología,3,$602.200,0.1,1625900,PSE,41,Femenino,Básico,5,,no
+T10102,2025-02-06,Bogotá D.C.,VIRTUAL,Web,Hogar,0,123600,0.05,117400,PSE,30,f,Premium,5,3,NO
+T10391,2025-09-02,BOGOTA,VIRTUAL,Web,Ropa,1,57200,0.05,54300,Débito,-5,Femenino,Estándar,,6,No
+T10273,Mar 06 2025,Cartagena,VIRTUAL,Web,Ropa,2,126700,20%,202700,Tarjeta crédito,44,Mujer,Estándar,3,3,Si
+T10843,2025-05-31,Bogotá D.C.,BOG-01,Tienda física,Deportes,3,174900,5%,498500,PSE,58,f,Estándar,4,,NO
+T11020,2025-04-07, Cali ,CAL-03,TIENDA,Belleza,4,41400,0,165600,PSE,47,Hombre,Premium,0,,no
+T10707,2025-07-26,Medellín,VIRTUAL,Online,Belleza,1,56900,0,56900,Efectivo,55,masculino,Estándar,4,3,No
+T10015,08/02/2025,cali,VIRTUAL,Web,Tecnología,5,742800,0.05,3528300,Efectivo,69,femenino,Premium,5,1,SI
+T11102,09/12/2025,bogota,BOG-01,Tienda física,Tecnología,3,828000,0.05,2359800,Tarjeta crédito,44,masculino,,4,,NO
+T10864,2025-09-28,Medellín,MED-03,Tienda física,Belleza,2,33600,0,,Débito,28,Mujer,Básico,5,,0
+T10809,09/05/2025,Medellin,VIRTUAL,Online,Ropa,7,$79.900,30%,391500,PSE,35,Femenino,Premium,3,10,0
+T10230,2025-07-31,B/quilla,BAR-01,tienda,Belleza,1,65200,0.0,65200,PSE,30,F,Estándar,4,,No
+T10452,09/04/2025,CALI,CAL-01,Tienda,Deportes,2,$148.600,0.0,297200,Tarjeta crédito,26,Femenino,Básico,5,,NO
+T10658,Jul 14 2025, Cali ,VIRTUAL,web,Hogar,5,$100.300,0.05,476400,Débito,46,Femenino,Básico,5,1,0
+T10859,2025-08-23,Medellín,VIRTUAL,web,Hogar,3,96600,5,275300,Tarjeta crédito,27,femenino,Premium,5,1,No
+T10007,2025-02-01,Bogotá,VIRTUAL,Online,Ropa,5,109000,10,490500,PSE,47,Femenino,Premium,3,8,SI
+T10417,14/09/2025,B/quilla,BAR-01,tienda,Deportes,1,$193.800,0.0,193800,Tarjeta crédito,55,,Premium,5,,NO
+T10067,2025-12-01,BOGOTA,BOG-01,tienda,Deportes,5,$90.300,0.0,451500,Tarjeta crédito,39,f,Básico,4,,Si
+T10071,20/09/2025,cali,CAL-03,TIENDA,Ropa,0,116800,0%,233600,Efectivo,34,Mujer,Estándar,5,,NO
+T10212,2025-01-05,Cartagena de Indias,VIRTUAL,app,Belleza,3,$46.805,10%,126400,Débito,71,,Premium,5,4,0
+T10099,2025-12-11,Bogotá D.C.,VIRTUAL,App,Tecnología,2,554530,0,1109100,Tarjeta crédito,35,m,Básico,4,1,No
+T11188,2025-01-16,bogota,BOG-01,Tienda,ropa,4,99500,20,318400,Tarjeta crédito,60,F,Básico,5,,No
+T10567,13/01/2025,Bogotá,VIRTUAL,web,Ropa,2,$66.500,0%,133000,Nequi,29,femenino,Básico,3,1,No
+T10813,2025-05-07,cali,VIRTUAL,Online,Calzado,3,123100,10%,332400,Nequi,29,Hombre,Estándar,3,7,0
+T10948,13/10/2025,Bogota,VIRTUAL,web,Ropa,7,$83.200,5%,,Tarjeta crédito,37,M,Premium,4,3,0
+T10083,2025-07-26,B/quilla,VIRTUAL,online,Calzado,3,$171.200,0%,513600,Débito,37,Mujer,Básico,4,4,No
+T10529,Jul 12 2025,Bogotá D.C.,VIRTUAL,Online,Calzado,4,169700,0.3,475200,Débito,35,F,Estándar,3,1,No
+T10792,2025-10-09,Medellin,MED-03,Tienda física,Belleza,3,65700,20%,157700,Débito,42,f,Básico,5,,no
+T10441,2025-06-30,CALI,VIRTUAL,app,Calzado,3,$144.440,10%,390000,Tarjeta crédito,51,Hombre,Básico,4,4,No
+T10058,2025-11-11,Bogota,BOG-01,Tienda,Deportes,2,96600,0%,193200,Tarjeta crédito,66,No responde,Premium,,,No
+T10984,2025-12-11,B/quilla,VIRTUAL,Web,Hogar,6,$167.300,30%,702700,Débito,55,f,Premium,3,11,SI
+T11131,2025-02-26,MEDELLIN,MED-01,Tienda física,Belleza,1,$40.200,0,40200,Efectivo,34,Masculino,Básico,4,,NO
+T10232,2025-11-23,medellin,MED-01,Tienda,Ropa,3,76200,0.05,217200,Nequi,46,M,basico,5,,NO
+T10284,2025-08-14,MEDELLIN,VIRTUAL,App,Hogar,3,178480,5%,508700,Tarjeta crédito,21,F,Básico,5,1,0
+T10644,2025-12-13, Cali ,VIRTUAL,app,Deportes,2,$110.400,10%,198700,Efectivo,43,f,Básico,4,5,1
+T10678,Sep 28 2025,CALI,CAL-03,TIENDA,Calzado,3,227300,5,647800,Tarjeta crédito,55,Femenino,Premium,5,,0
+T10397,2025-12-30,Medellín,MED-02,Tienda,Deportes,5,118700,20,474800,PSE,44,Hombre,Básico,4,,NO
+T10844,2025-09-05,medellin,VIRTUAL,web,Deportes,6,199600,20%,958100,Efectivo,999,Masculino,Básico,10,1,no
+T10574,Dec 09 2025,Medellín,MED-01,Tienda física,Belleza,2,41000,10%,73800,Efectivo,52,Masculino,Básico,3,,NO
+T10070,24/02/2025,Bogotá,VIRTUAL,online,Hogar,4,127000,0.2,406400,Tarjeta crédito,44,femenino,Estándar,3,4,No
+T10199,2025-01-14,Bogotá D.C.,BOG-03,TIENDA,Ropa,2,$93.100,0,186200,Tarjeta crédito,41,m,Básico,4,,0
+T10826,17/01/2025,barranquilla,VIRTUAL,online,Ropa,1,64700,0,64700,Efectivo,28,Hombre,Estándar,3,7,0
+T11105,20/10/2025,CALI,VIRTUAL,app,Hogar,3,116380,0.15,296800,Tarjeta crédito,41,masculino,Básico,4,6,NO
+T10066,2025-02-27,Santiago de Cali,CAL-01,TIENDA,Ropa,3,75600,0.1,204100,Nequi,41,Otro,Básico,5,,No
+T10418,2025-06-18,Cali,CAL-02,tienda,deportes,3,119900,0.0,359700,Efectivo,42,No responde,Premium,4,,no
+T10929,2025-05-31,Bogotá,BOG-01,tienda,Hogar,1,100700,10%,90600,Débito,25,m,Estándar,4,,NO
+T10464,2025-04-20,CALI,VIRTUAL,Web,Tecnología,2,962800,0,1925600,Efectivo,,masculino,Básico,5,1,No
+T10101,sin fecha,medellin,VIRTUAL,Online,Ropa,2,101000,0.1,181800,Débito,45,F,Básico,3,3,NO
+T10285,Oct 30 2025,bogota,VIRTUAL,app,Ropa,5,100855,15,428600,Débito,39,F,Estándar,3,3,NO
+T10375,Oct 26 2025,cali,CAL-02,Tienda,calzado,6,209100,0%,1254600,Débito,54,f,Estándar,,,no
+T10407,2025-04-03, Cali ,CAL-01,tienda,Ropa,2,$97.500,0.0,195000,Tarjeta crédito,45,Mujer,Estándar,,,No
+T10181,2025-06-16,BOGOTA,VIRTUAL,Online,Calzado,8,$124.400,20%,796200,Tarjeta crédito,42,Femenino,Estándar,4,5,no
+T10455,sin fecha,bogota,VIRTUAL,web,Tecnología,5,799100,0.05,3795700,Nequi,46,M,Premium,,2,0
+T11152,2025-07-20,medellin,MED-03,Tienda,Ropa,3,$121.000,0,363000,PSE,51,masculino,Premium,5,,0
+T10505,22/02/2025,Bogotá D.C.,BOG-01,TIENDA,Belleza,2,43000,0.0,,PSE,65,f,Básico,4,,no
+T10356,2025-12-24,BOGOTA,VIRTUAL,Online,Hogar,2,$173.500,0%,347000,PSE,18,Femenino,Básico,2,8,No
+T10119,2025-05-31,medellin,VIRTUAL,app,Ropa,2,$121.325,10,218400,Nequi,,masculino,Básico,,4,1
+T10301,31/10/2025,Santiago de Cali,VIRTUAL,Online,Belleza,3,57200,0%,171600,Nequi,37,Mujer,Premium,0,7,no
+T10540,14/05/2025,Bogotá D.C.,BOG-02,tienda,Tecnología,3,656600,10%,1772800,Nequi,57,Femenino,Estándar,4,,NO
+T10239,2025-07-25,BOGOTA,VIRTUAL,Web,Belleza,2,60300,10%,108500,Débito,31,Otro,Básico,,3,1
+T10323,2025-07-31,Santiago de Cali,CAL-02,Tienda física,Ropa,5,$123.200,0.0,616000,Débito,50,m,Premium,5,,No
+T10477,20/10/2025,CALI,VIRTUAL,App movil,Ropa,3,$142.025,0.0,426100,Tarjeta crédito,44,Masculino,Estándar,2,11,0
+T10568,01/11/2025,Cartagena de Indias,CAR-01,TIENDA,Deportes,3,$113.900,0%,341700,Nequi,32,F,Estándar,5,,No
+T10367,2025-02-03, Cali ,CAL-02,tienda,Tecnología,3,621700,0,1865100,Débito,48,,estandar,4,,SI
+T10897,20/11/2025,Medellin,MED-01,tienda,Hogar,1,178600,0.0,178600,Efectivo,30,masculino,Estándar,4,,NO
+T10286,2025-07-06,BOGOTA,VIRTUAL,Web,Ropa,3,70500,0.0,211500,Tarjeta crédito,47,F,Básico,4,5,Si
+T10021,2025-11-06,cali,VIRTUAL,Web,Ropa,4,57500,20%,184000,Débito,45,m,Estándar,,1,Sí
+T10913,28/08/2025,MEDELLIN,MED-02,tienda,Ropa,1,69100,0%,69100,Efectivo,24,Otro,Estándar,4,,No
+T11027,2025-02-07,Medellín,MED-03,Tienda física,Belleza,2,$46.200,15%,78500,Efectivo,44,m,Estándar,4,,No
+T10839,15/09/2025,CALI,CAL-02,Tienda,Deportes,3,161200,5,459400,Efectivo,,F,Básico,4,,no
+T10436,2025-03-13,CALI,CAL-01,Tienda,Ropa,9,89600,30%,564500,Efectivo,40,Femenino,Premium,3,,0
+T10971,2025-06-09,Bogotá,BOG-02,TIENDA,ropa,2,$79.800,10,143600,Tarjeta crédito,53,Mujer,Básico,5,,No
+T10969,01/08/2025,Cartagena de Indias,CAR-03,Tienda física,Ropa,3,115000,0.3,241500,Débito,35,Femenino,Básico,4,,NO
+T10270,2025-07-21,bogota,BOG-02,Tienda física,Deportes,3,122400,5,348800,Tarjeta crédito,25,M,Básico,5,,no
+T10388,2025-06-23,Cartagena de Indias,VIRTUAL,web,Tecnología,1,$641.100,0.1,577000,Tarjeta crédito,27,Femenino,Básico,5,4,0
+T10045,2025-09-13,BOGOTA,VIRTUAL,Online,Calzado,4,234100,0.15,795900,Tarjeta crédito,20,M,Básico,5,2,No
+T10932,2025-05-25, Cali ,CAL-01,Tienda,Belleza,4,$38.000,15%,129200,Efectivo,30,M,Básico,,,no
+T10486,22/03/2025,MEDELLIN,MED-03,Tienda física,Belleza,1,53700,0,53700,Efectivo,53,masculino,Premium,5,,NO
+T10595,10/10/2025,Medellin,MED-02,Tienda física,Ropa,1,106800,10,96100,Nequi,49,m,Básico,5,,No
+T10129,2025-10-05,Cartagena,VIRTUAL,Web,Tecnología,-4,935800,0%,3743200,PSE,63,Otro,Premium,4,5,0
+T10158,2025-03-02,MEDELLIN,MED-01,tienda,Calzado,2,183900,0,367800,PSE,28,,Premium,5,,0
+T10580,2025-08-31,Medellín,VIRTUAL,app,Hogar,2,153180,0%,306400,Tarjeta crédito,36,Otro,Básico,3,10,NO
+T10900,2025-08-09,Cali,VIRTUAL,App movil,Ropa,2,$80.040,0%,160100,Tarjeta crédito,34,F,Básico,3,2,NO
+T10599,28/04/2025,Santiago de Cali,CAL-01,Tienda física,Deportes,5,93600,10%,421200,Tarjeta crédito,52,No responde,Premium,4,,0
+T10612,28/04/2025,CALI,VIRTUAL,App movil,Deportes,3,127650,0,382900,Efectivo,45,Mujer,Básico,4,4,no
+T10239,2025-07-25,BOGOTA,VIRTUAL,Web,Belleza,2,60300,10%,108500,Débito,31,Otro,Básico,,3,1
+T10921,06/04/2025,cali,CAL-03,Tienda física,Ropa,5,55500,0.0,277500,PSE,29,m,Básico,5,,NO
+T10370,12/10/2025,Cartagena,VIRTUAL,Web,Belleza,3,64600,10%,174400,Débito,35,Femenino,Estándar,3,6,0
+T10126,2025-08-23,MEDELLIN,VIRTUAL,App,Hogar,2,174455,0%,348900,Tarjeta crédito,27,Femenino,Estándar,2,8,1
+T10593,2025-11-24,BOGOTA,BOG-03,Tienda física,Hogar,1,163600,0.0,163600,Débito,54,femenino,Básico,4,,NO
+T10601,11/09/2025,CALI,CAL-02,TIENDA,Belleza,1,$33.100,0%,33100,Nequi,45,Femenino,Estándar,4,,no
+T10711,2025-03-23,cartagena,VIRTUAL,Online,Belleza,1,$65.700,0%,65700,Tarjeta crédito,36,M,Básico,4,3,no
+T11157,2025-01-11,Bogotá,BOG-03,Tienda física,Hogar,3,150300,0%,450900,Tarjeta crédito,35,Femenino,Básico,4,,NO
+T10545,13/01/2025,cartagena,VIRTUAL,APP móvil,Calzado,1,164910,10%,148400,Tarjeta crédito,48,f,Básico,3,9,No
+T11064,19/02/2025,Cartagena,CAR-02,Tienda,Calzado,0,112500,0.0,337500,Débito,18,No responde,Estándar,4,,NO
+T10873,07/02/2025,bogota,VIRTUAL,web,Belleza,0,$45.000,0,135000,Nequi,,m,Básico,3,4,no
+T10695,15/07/2025, Cali ,VIRTUAL,online,Hogar,5,$90.700,0%,453500,Efectivo,41,F,Premium,4,6,No
+T11092,03/08/2025,bogota,BOG-02,TIENDA,Belleza,1,63500,15%,54000,Débito,19,Otro,Básico,3,,NO
+T10915,20/02/2025,BOGOTA,BOG-02,Tienda,Ropa,3,$66.200,5%,188700,Tarjeta crédito,32,femenino,Básico,3,,NO
+T10104,2025-07-14,barranquilla,VIRTUAL,web,Belleza,1,57200,0%,57200,Efectivo,37,Masculino,Estándar,5,5,0
+T10157,2025-06-17,Medellín,VIRTUAL,app,Deportes,3,177215,0%,531600,Tarjeta crédito,26,f,Básico,2,9,NO
+T10280,2025-08-27,Cartagena de Indias,VIRTUAL,Online,Hogar,5,163800,0.0,819000,Débito,31,masculino,basico,4,2,0
+T10682,Feb 03 2025,Bogotá,BOG-01,Tienda,Belleza,3,$28.800,15,73400,Efectivo,23,masculino,Básico,4,,0
+T10573,2025-12-22,Bogotá D.C.,BOG-01,tienda,Hogar,3,90100,5,256800,PSE,49,m,Básico,5,,1
+T11010,Apr 05 2025,Medellín,VIRTUAL,Web,Ropa,1,114200,0.0,114200,Tarjeta crédito,33,F,Estándar,4,6,1
+T10677,Aug 10 2025,Medellin,MED-01,Tienda,Deportes,3,91100,5,259600,PSE,38,Mujer,Estándar,4,,0
+T11061,2025-07-22,Barranquilla,BAR-03,Tienda,Ropa,5,62200,20,248800,PSE,47,Masculino,Básico,3,,Sí
+T10037,28/06/2025,Medellín,VIRTUAL,online,Ropa,4,$92.300,0%,369200,Débito,37,M,Básico,3,2,0
+T10349,2025-10-06,bogota,VIRTUAL,online,Ropa,3,$72.000,5%,205200,PSE,35,f,Premium,,2,No
+T10579,sin fecha,BOGOTA,VIRTUAL,Online,Deportes,1,179400,0%,179400,Débito,33,Masculino,Básico,,2,0
+T10970,2025-07-25,Santiago de Cali,CAL-01,TIENDA,Belleza,8,$51.200,30,286700,Tarjeta crédito,40,femenino,Básico,5,,0
+T10374,03/07/2025,Medellín,MED-02,Tienda física,ropa,2,$71.500,0.15,121600,Débito,48,femenino,Básico,5,,No
+T10116,2025-02-08,Medellín,MED-01,tienda,Belleza,6,44900,20,215500,PSE,29,Mujer,Premium,5,,0
+T10091,12/12/2025,Bogota,BOG-03,Tienda,Ropa,3,76300,0.2,183100,PSE,33,masculino,Estándar,3,,no
+T10432,2025-06-18,bogota,BOG-01,Tienda física,Hogar,2,$124.900,15%,212300,PSE,22,Femenino,Básico,5,,NO
+T10473,2025-01-13,cartagena,CAR-01,tienda,Ropa,7,99700,0.3,488500,Débito,64,Mujer,Básico,5,,0
+T11147,2025-05-27,Medellín,MED-02,TIENDA,Belleza,5,60800,30%,212800,Tarjeta crédito,35,Mujer,Básico,5,,No
+T11170,2025-09-13,Bogotá,VIRTUAL,Online,Hogar,1,145900,0%,145900,Efectivo,25,M,Básico,5,1,no
+T10502,2025-10-04,B/quilla,VIRTUAL,APP móvil,Hogar,3,89585,0%,268800,Nequi,47,masculino,Básico,3,6,NO
+T10847,15/03/2025,Cali,CAL-01,tienda,Belleza,3,65200,0.1,176000,Nequi,27,masculino,Básico,4,,NO
+T10923,2025-06-02,Medellin,VIRTUAL,Online,Ropa,4,$53.800,10,193700,Tarjeta crédito,35,masculino,estandar,4,3,1
+T10090,28/08/2025,cartagena,VIRTUAL,Online,Belleza,2,$42.900,0.2,68600,Efectivo,31,Masculino,Básico,4,6,No
+T10961,2025-12-08,bogota,VIRTUAL,App movil,Belleza,5,51060,30,178700,Nequi,56,m,Estándar,4,7,0
+T10519,2025-09-25,B/quilla,VIRTUAL,Online,Calzado,2,104500,0.0,209000,Tarjeta crédito,26,F,Básico,3,7,0
+T11166,14/09/2025,MEDELLIN,VIRTUAL,online,Deportes,2,102300,0%,204600,Débito,,m,Premium,3,6,NO
+T10263,2025-04-25,Bogotá D.C.,BOG-03,Tienda,Tecnología,2,642100,0.0,1284200,Débito,45,Masculino,Básico,4,,no
+T10756,09/07/2025, Cali ,CAL-02,tienda,Deportes,6,$200.300,30%,841300,Tarjeta crédito,18,masculino,,5,,0
+T10451,2025-08-03,Medellín,MED-01,Tienda,Ropa,3,$62.400,0.05,177800,Efectivo,35,m,Estándar,,,No
+T10169,05/02/2025,Medellin,VIRTUAL,Web,Calzado,5,233800,10%,1052100,Efectivo,19,m,Estándar,,1,No
+T10963,2025-11-22,Cartagena,VIRTUAL,web,Deportes,4,206700,10%,744100,Efectivo,37,Mujer,Premium,4,5,No
+T10365,30/04/2025,Bogotá,BOG-02,Tienda,Ropa,2,93400,0.0,186800,Tarjeta crédito,49,Hombre,basico,5,,no
+T10743,2025-10-16,barranquilla,BAR-03,Tienda,Deportes,4,107300,10,386300,Tarjeta crédito,33,Mujer,Premium,5,,no
+T10662,2025-12-31,B/quilla,BAR-02,TIENDA,Hogar,4,150200,0%,600800,Tarjeta crédito,24,f,Estándar,5,,No
+T10887,2025-03-31, Cali ,VIRTUAL,online,Deportes,1,169800,0.0,169800,PSE,40,Femenino,Básico,5,3,no
+T10543,2025-04-11,Bogotá D.C.,BOG-03,tienda,Belleza,3,36800,15%,93800,Tarjeta crédito,,Mujer,Básico,5,,0
+T10981,30/08/2025,bogota,VIRTUAL,Online,Calzado,2,127500,15,216800,PSE,38,Hombre,PREMIUM,4,1,Si
+T10379,2025-02-21, Cali ,CAL-02,tienda,Tecnología,3,405200,0,1215600,Tarjeta crédito,41,Hombre,Premium,,,No
+T10973,19/05/2025,cali,CAL-02,TIENDA,Belleza,3,$44.800,0.05,127700,Débito,66,Mujer,Premium,4,,no
+T11054,07/02/2025,Medellin,MED-02,Tienda,Belleza,4,51200,20%,163800,Débito,40,Femenino,Estándar,4,,NO
+T10879,19/11/2025,Bogotá D.C.,BOG-01,Tienda física,Deportes,2,113500,0%,227000,Tarjeta crédito,23,masculino,Estándar,5,,No
+T10287,2025-06-23,Bogotá D.C.,BOG-02,Tienda,Hogar,2,164900,0,329800,Efectivo,35,femenino,Básico,4,,NO
+T10328,2025-01-11,B/quilla,BAR-01,tienda,Ropa,4,87900,20%,281300,Efectivo,47,f,Estándar,4,,no
+T10504,18/10/2025,Cali,CAL-02,Tienda,Calzado,5,189000,30,661500,Débito,49,Masculino,Premium,5,,No
+T10882,03/01/2025,cali,CAL-03,tienda,Tecnología,4,716800,0.1,2580500,Nequi,47,femenino,Premium,,,No
+T10739,29/07/2025,Medellin,VIRTUAL,online,Belleza,4,$46.500,30%,130200,Tarjeta crédito,43,f,Premium,4,6,No
+T10322,2025-06-09,MEDELLIN,VIRTUAL,App movil,Hogar,3,133515,15,340500,PSE,45,Mujer,Básico,4,4,0
+T10521,2025-05-02,Cartagena,VIRTUAL,online,Calzado,1,103900,0%,103900,Débito,38,No responde,Estándar,4,7,0
+T10468,24/11/2025,Cali,VIRTUAL,Online,deportes,4,$89.500,10,322200,Efectivo,26,Femenino,Básico,4,6,no
+T10141,23/10/2025,Medellin,VIRTUAL,App movil,Ropa,0,$125.810,0.0,629000,Débito,30,masculino,Estándar,4,4,Sí
+T11049,09/03/2025,CALI,VIRTUAL,Online,Ropa,5,$102.700,10,462200,PSE,35,Masculino,Premium,4,2,0
+T10223,2025-05-01,Bogotá,BOG-03,Tienda,Ropa,1,58600,0%,58600,Tarjeta crédito,44,F,Estándar,5,,0
+T10777,2025-05-10,Medellin,MED-01,Tienda,Ropa,2,$75.500,30%,105700,Débito,55,f,Básico,4,,No
+T10293,Dec 23 2025,Medellín,VIRTUAL,App,hogar,2,171925,0%,343800,Nequi,53,M,Estándar,4,120,No
+T10213,2025-11-27,bogota,VIRTUAL,online,Deportes,3,199400,20,478600,Efectivo,,femenino,Premium,3,3,no
+T10471,30/04/2025,barranquilla,VIRTUAL,Online,Hogar,3,117800,15%,300400,Débito,39,Mujer,Premium,4,3,1
+T10060,14/03/2025,MEDELLIN,MED-02,tienda,Deportes,2,178900,0.2,286200,Tarjeta crédito,23,m,Básico,4,,0
+T10741,2025-03-08,cali,VIRTUAL,web,Ropa,7,$53.700,0,375900,PSE,29,M,Básico,3,10,No
+T10551,2025-11-02,CALI,VIRTUAL,App movil,Hogar,2,93610,0%,187200,Débito,48,Mujer,Premium,3,3,NO
+T10555,2025-09-05,Cartagena,CAR-03,tienda,Ropa,4,$80.600,10%,290200,Débito,41,f,Estándar,4,,0
+T10871,2025-10-08,MEDELLIN,MED-03,Tienda,Belleza,3,46800,10,126400,Débito,32,m,Estándar,4,,NO
+T10000,15/03/2025,medellin,MED-03,tienda,Deportes,3,$206.900,15%,527600,Nequi,47,M,Estándar,4,,No
+T11179,10/11/2025,cali,VIRTUAL,App movil,Hogar,2,202515,0.15,344300,Efectivo,55,Otro,Básico,4,5,No
+T10967,05/09/2025,BOGOTA,BOG-01,Tienda,Calzado,4,$197.000,0.0,,Débito,44,Hombre,Premium,,,No
+T10399,2025-01-25,Bogotá,BOG-01,TIENDA,Ropa,4,120700,10,434500,Nequi,18,f,Básico,3,,No
+T11006,2025-09-26,barranquilla,BAR-01,tienda,Hogar,-2,$73.300,0,146600,PSE,50,femenino,Estándar,4,,no
+T10744,23/09/2025,Santiago de Cali,CAL-03,tienda,Hogar,5,108200,20,432800,Tarjeta crédito,39,F,Estándar,5,,No
+T10476,2025-02-04,CALI,CAL-01,TIENDA,Belleza,5,65000,0.3,227500,Nequi,50,f,PREMIUM,10,,NO
+T10033,07/07/2025,Barranquilla,BAR-03,TIENDA,Calzado,2,$120.900,0.0,241800,Débito,18,m,Básico,5,,no
+T10664,2025-01-12, Cali ,CAL-02,TIENDA,Tecnología,5,818500,0.2,3274000,Nequi,26,Masculino,Estándar,4,,no
+T10745,2025-02-24,medellin,MED-03,TIENDA,Ropa,3,$122.700,15,312900,Débito,26,Femenino,Básico,5,,NO
+T11037,05/11/2025,B/quilla,VIRTUAL,APP móvil,Ropa,3,60490,0.2,145200,Tarjeta crédito,38,Masculino,Estándar,2,10,No
+T10437,24/07/2025,Bogota,VIRTUAL,web,Ropa,4,57800,10%,208100,Débito,26,M,Estándar,4,4,No
+T10315,10/05/2025,Medellin,VIRTUAL,Web,Belleza,4,$55.500,30%,155400,Efectivo,42,masculino,premium,4,7,No
+T10954,2025-06-29,MEDELLIN,VIRTUAL,Web,Deportes,5,117100,15%,497700,Tarjeta crédito,34,Femenino,Estándar,4,4,No
+T10802,2025-03-12,bogota,BOG-01,Tienda,Belleza,6,35500,30,149100,Tarjeta crédito,33,femenino,Premium,4,,NO
+T10761,Sep 08 2025,Bogotá D.C.,VIRTUAL,app,Deportes,5,$162.610,0.1,731700,Débito,58,M,Estándar,3,3,no
+T10833,Dec 19 2025,bogota,VIRTUAL,APP móvil,Ropa,6,138000,20%,662400,Tarjeta crédito,21,Hombre,Básico,4,3,0
+T10922,2025-06-10,B/quilla,VIRTUAL,Web,Ropa,1,$58.000,0%,58000000,Débito,46,masculino,Básico,3,5,0
+T10885,Aug 23 2025,cali,CAL-01,TIENDA,Deportes,5,147100,30%,,PSE,31,femenino,Básico,4,,SI
+T11036,2025-03-18,Bogota,VIRTUAL,web,Deportes,6,149200,10%,805700,Tarjeta crédito,54,otro,Premium,4,5,No
+T10480,Apr 17 2025,Cali,VIRTUAL,Web,Hogar,0,$113.300,15%,674100,PSE,37,M,Estándar,2,9,NO
+T10550,2025-08-08,MEDELLIN,VIRTUAL,online,Deportes,1,169400,0,169400,Tarjeta crédito,44,Masculino,Básico,4,4,no
+T10592,2025-09-03,barranquilla,BAR-01,tienda,Hogar,7,121200,10,763600,Efectivo,32,Femenino,Básico,5,,0
+T10993,2025-02-18,Medellin,MED-03,Tienda,Belleza,2,$27.100,0,,Nequi,19,M,Básico,5,,no
+T11109,2025-07-15,Bogota,BOG-01,Tienda física,Hogar,500,147000,5%,419000,Débito,46,Femenino,Premium,5,,NO
+T10197,2025-01-17,BOGOTA,BOG-02,Tienda,belleza,5,$57.700,20%,230800,Tarjeta crédito,35,F,Básico,4,,0
+T10558,22/12/2025, Cali ,VIRTUAL,app,Hogar,2,138575,30%,194000,Débito,54,Otro,Estándar,3,1,1
+T10431,2025-03-09, Cali ,CAL-02,tienda,Hogar,2,$93.100,5,176900,Débito,46,Mujer,Estándar,4,,no
+T10128,2025-04-16,MEDELLIN,MED-03,Tienda,Tecnología,6,524900,20%,2519500,Tarjeta crédito,37,f,Básico,4,,NO
+T10860,16/07/2025, Cali ,CAL-02,Tienda física,Ropa,3,67500,0,202500,Efectivo,26,Masculino,Estándar,4,,no
+T10281,2025-10-30,Cartagena de Indias,CAR-02,Tienda física,Calzado,1,$156.400,0.0,156400,Efectivo,35,masculino,Estándar,4,,no
+T10200,18/07/2025,Cali,VIRTUAL,APP móvil,Tecnología,4,$507.955,0.3,1422300,Efectivo,44,femenino,estandar,,8,No
+T10488,2025-02-15,Santiago de Cali,CAL-03,tienda,Ropa,4,$106.100,20%,339500,Tarjeta crédito,39,masculino,Básico,4,,0
+T11100,2025-03-23,BOGOTA,VIRTUAL,App,Tecnología,3,$862.960,0.0,2588900,Débito,29,masculino,Básico,,1,No
+T11014,2025-01-17,MEDELLIN,VIRTUAL,Online,Ropa,2,108000,0%,216000,Tarjeta crédito,37,Femenino,Premium,5,1,No
+T10148,2025-01-25,Bogotá,VIRTUAL,web,Belleza,4,30800,0.3,86200,Tarjeta crédito,34,Hombre,Básico,2,9,NO
+T10333,2025-07-08,MEDELLIN,VIRTUAL,Web,hogar,4,91300,5%,346900,Débito,31,masculino,Básico,3,6,1
+T10995,2025-12-10,MEDELLIN,MED-03,TIENDA,Belleza,-2,55700,0,111400,Nequi,43,M,premium,3,,no
+T10065,2025-09-17,Medellín,VIRTUAL,online,Hogar,1,129900,5%,123400,Efectivo,38,Masculino,Estándar,3,7,0
+T10940,12/08/2025,Cartagena de Indias,CAR-01,Tienda,Belleza,2,58800,30%,82300,Débito,46,No responde,Estándar,5,,no
+T10453,Jan 10 2025,Santiago de Cali,VIRTUAL,Online,Hogar,3,$168.400,0%,505200,PSE,33,f,Estándar,4,6,No
+T10484,2025-05-25,Bogota,BOG-01,Tienda física,deportes,2,114700,30,160600,PSE,44,Hombre,Básico,3,,no
+T10271,2025-05-25,cali,VIRTUAL,online,Hogar,4,87000,20%,278400,Débito,66,F,Premium,5,1,SI
+T10143,23/12/2025,Bogotá,VIRTUAL,App,calzado,3,$252.770,5%,720400,Efectivo,32,Otro,Estándar,4,2,NO
+T10708,2025-09-17,cali,VIRTUAL,App,Ropa,-1,$84.985,0.0,85000,Tarjeta crédito,20,F,Básico,3,6,SI
+T10318,2025-05-14,Medellin,VIRTUAL,App movil,Deportes,2,$143.290,0.2,,Efectivo,30,masculino,Estándar,3,6,no
+T10361,2025-05-28,cali,CAL-03,tienda,Hogar,1,86900,0.0,86900,Débito,47,No responde,Básico,4,,0
+T11042,16/08/2025, Cali ,CAL-02,TIENDA,Belleza,2,65300,0,130600,Tarjeta crédito,19,m,Básico,4,,No
+T10590,2025-08-20,Cali,CAL-02,TIENDA,Deportes,2,$98.000,20%,156800,Efectivo,50,Mujer,Estándar,3,,0
+T10086,18/12/2025, Cali ,VIRTUAL,web,Ropa,2,113700,5,216000,PSE,51,F,Premium,5,2,NO
+T10164,2025-04-07,Cali,CAL-03,tienda,Calzado,1,$143.100,0%,143100,PSE,18,f,Estándar,3,,no
+T10419,2025-11-30,Bogotá D.C.,BOG-02,Tienda física,Calzado,2,158200,5,300600,Débito,,Femenino,Estándar,4,,no
+T11063,2025-07-05,barranquilla,BAR-02,Tienda física,Calzado,5,$168.700,0.3,590400,Débito,33,femenino,Básico,4,,no
+T10817,2025-02-16,CALI,VIRTUAL,App movil,Deportes,3,174110,5,496200,Nequi,44,femenino,Estándar,,3,No
+T10966,24/04/2025,CALI,CAL-01,tienda,Tecnología,7,$531.600,0.0,3721200,Efectivo,46,Masculino,Estándar,,,No
+T11187,2025-10-10,Santiago de Cali,VIRTUAL,app,Belleza,3,55085,0.0,165300,Débito,37,Mujer,Estándar,4,1,No
+T10727,2025-08-30,Cali,VIRTUAL,web,Hogar,2,$89.600,0.05,170200,Nequi,50,Masculino,Estándar,3,8,no
+T10193,21/03/2025,medellin,MED-01,Tienda física,Belleza,1,67400,0.05,64000,Débito,999,femenino,Estándar,3,,NO
+T11038,2025-05-06,Bogota,BOG-03,TIENDA,Belleza,2,$32.900,15,55900,PSE,53,Masculino,Básico,5,,No
+T10108,2025-10-31,barranquilla,VIRTUAL,App movil,Tecnología,1,980950,5,931900,Débito,44,femenino,Premium,4,7,no
+T10327,2025-05-03,cartagena,VIRTUAL,Web,Belleza,0,32300,10%,,Débito,42,Mujer,Básico,2,8,No
+T10171,23/08/2025,Cali,VIRTUAL,Online,Belleza,4,$51.000,0,204000,Efectivo,55,Femenino,Estándar,5,4,0
+T10018,2025-05-28,Bogotá D.C.,BOG-03,TIENDA,Belleza,7,31000,15%,184400,Débito,35,Femenino,Básico,5,,0
+T10952,2025-08-08, Cali ,CAL-03,Tienda,Tecnología,3,543500,10,1467400,Efectivo,35,Mujer,Básico,5,,No
+T10155,2025-10-01,CALI,CAL-02,tienda,Tecnología,3,$592.000,5,1687200,Efectivo,49,m,estandar,4,,No
+T10916,2025-10-25,cali,VIRTUAL,Online,Deportes,2,123100,10,221600,Tarjeta crédito,18,F,Estándar,3,8,No
+T10824,2025-11-26,bogota,VIRTUAL,online,Hogar,6,$80.900,30,339800,Nequi,56,Mujer,Premium,4,3,1
+T10763,2025-04-26,cali,CAL-02,Tienda,Ropa,2,119700,5,227400,Débito,61,femenino,Básico,4,,No
+T10944,12/08/2025,CALI,VIRTUAL,Web,Deportes,1,$151.700,0%,151700,Débito,40,Femenino,Estándar,,13,No
+T10710,2025-08-03,Bogotá D.C.,BOG-01,Tienda,Calzado,3,$196.300,20,471100,Efectivo,39,Hombre,Estándar,5,,0
+T10874,2025-09-01,cali,VIRTUAL,online,Ropa,1,$75.200,0.0,75200,Tarjeta crédito,18,f,Estándar,4,1,NO
+T11175,2025-05-21,cartagena,CAR-02,Tienda física,Belleza,2,62700,0%,125400,PSE,40,femenino,Estándar,4,,NO
+T10016,2025-12-04,BOGOTA,BOG-01,Tienda física,Belleza,2,64300,0%,128600,Débito,22,f,Básico,4,,no
+T10405,02/05/2025,cali,VIRTUAL,Online,Hogar,1,173700,0.0,173700,PSE,50,otro,Premium,5,1,Sí
+T10075,2025-06-16,Cali,CAL-01,Tienda física,Belleza,4,$32.600,0.15,110800,Débito,,Femenino,Premium,5,,NO
+T10455,sin fecha,bogota,VIRTUAL,web,Tecnología,5,799100,0.05,3795700,Nequi,46,M,Premium,,2,0
+T10957,Nov 17 2025,Bogota,VIRTUAL,web,Deportes,2,188700,5%,358500,PSE,49,femenino,Estándar,4,4,no
+T10624,2025-07-09,Barranquilla,BAR-01,TIENDA,Ropa,4,81500,20%,260800,Efectivo,18,F,Básico,10,,No
+T10400,May 14 2025,B/quilla,BAR-03,Tienda,Hogar,2,148400,5%,282000,Débito,57,otro,Básico,3,,NO
+T10680,27/07/2025,Cali,CAL-01,Tienda física,Tecnología,2,878400,0.0,1756800,Tarjeta crédito,36,m,Básico,3,,No
+T10319,2025-09-13, Cali ,CAL-02,TIENDA,Hogar,4,$127.300,0,509200,Débito,26,Mujer,Básico,4,,no
+T10241,16/04/2025,Bogotá D.C.,VIRTUAL,Online,Hogar,8,170200,0.2,1089300,Débito,64,Femenino,Premium,3,3,1
+T10552,2025-06-15,cartagena,CAR-02,TIENDA,Calzado,8,236100,15%,1605500,Nequi,36,femenino,Premium,5,,NO
+T10597,2025-03-13,Cali,VIRTUAL,Web,Ropa,2,70900,0,141800,Débito,41,Otro,Estándar,4,6,No
+T10733,2025-09-07,BOGOTA,BOG-01,tienda,Deportes,3,$179.800,20%,431500,Efectivo,18,No responde,Estándar,4,,No
+T10556,27/07/2025,BOGOTA,BOG-02,Tienda,Ropa,6,$82.400,15%,420200,Efectivo,37,Femenino,Premium,5,,No
+T10355,2025-04-20,Bogota,BOG-03,tienda,Deportes,5,189200,0.2,756800,Débito,50,femenino,Básico,5,,Si
+T11008,2025-12-11,barranquilla,VIRTUAL,APP móvil,Ropa,4,$107.755,0%,431000,Débito,51,Femenino,Estándar,3,3,NO
+T10321,2025-01-20,Cali,VIRTUAL,APP móvil,Deportes,3,$141.565,0.05,403500,PSE,18,M,Básico,4,4,0
+T10608,2025-03-06,BOGOTA,VIRTUAL,App movil,Deportes,4,204470,10%,736100,Débito,43,f,Premium,4,3,0
+T10589,12/04/2025,Bogotá D.C.,VIRTUAL,app,Ropa,-4,67965,10%,244700,Efectivo,18,m,Estándar,4,2,0
+T10198,Mar 23 2025,Cali,CAL-01,tienda,Tecnología,1,753600,5%,715900,Efectivo,30,f,Premium,4,,NO
+T10781,06/01/2025,Medellin,MED-03,Tienda,Belleza,4,$51.600,30%,144500,Tarjeta crédito,18,femenino,Premium,5,,NO
+T10641,2025-06-06,Medellín,VIRTUAL,APP móvil,Tecnología,1,478745,0.2,383000,Nequi,,Masculino,Estándar,3,1,1
+T10917,2025-12-23,Bogotá D.C.,VIRTUAL,App,Belleza,1,61525,0%,61500,Tarjeta crédito,38,No responde,Estándar,4,2,NO
+T10089,2025-08-20,Bogota,BOG-03,TIENDA,Calzado,2,$119.900,10,215800,Tarjeta crédito,33,m,Básico,4,,0
+T10512,23/09/2025,Bogota,BOG-03,TIENDA,Belleza,4,$51.100,10,184000,Tarjeta crédito,34,Mujer,Estándar,4,,no
+T10571,22/01/2025,barranquilla,VIRTUAL,Web,Ropa,3,70100,15%,178800,Nequi,41,Masculino,Estándar,4,7,no
+T10881,2025-08-09,Bogotá D.C.,VIRTUAL,Web,Ropa,3,$95.700,5%,272700,Tarjeta crédito,40,Hombre,Estándar,3,4,No
+T10082,2025-01-03,Cali,VIRTUAL,online,Calzado,2,$175.300,15,298000,Efectivo,34,Hombre,premium,4,1,No
+T10999,08/11/2025,MEDELLIN,VIRTUAL,App movil,Deportes,4,$189.520,30%,530700,Tarjeta crédito,28,femenino,Básico,4,3,0
+T10190,2025-01-13,Santiago de Cali,CAL-03,TIENDA,Ropa,6,115100,0%,690600,Tarjeta crédito,42,masculino,Básico,5,,No
+T10577,2025-12-09,Santiago de Cali,VIRTUAL,web,Belleza,2,43200,10%,77800,Efectivo,43,Femenino,Básico,4,1,No
+T10462,2025-03-31,Bogota,BOG-02,Tienda,Belleza,2,$47.700,5%,90600,Débito,,m,Básico,,,NO
+T10194,Mar 15 2025,Medellín,MED-03,TIENDA,Ropa,1,$104.100,0,104100,Tarjeta crédito,20,F,Básico,,,no
+T10251,2025-11-20, Cali ,VIRTUAL,APP móvil,Hogar,2,86595,15,147200,Débito,39,Femenino,Básico,5,3,no
+T11134,2025-11-02,B/quilla,BAR-02,tienda,Calzado,5,104500,0,522500,Débito,46,masculino,Premium,4,,No
+T10487,2025-12-05,bogota,VIRTUAL,online,Calzado,2,127900,0%,255800,Nequi,47,Masculino,Premium,4,3,No
+T10984,2025-12-11,B/quilla,VIRTUAL,Web,Hogar,6,$167.300,30%,702700,Débito,55,f,Premium,3,11,SI
+T10575,01/01/2025,MEDELLIN,MED-01,Tienda,Deportes,500,123800,0.0,247600,PSE,40,M,Premium,4,,0
+T10701,sin fecha,Cali,VIRTUAL,APP móvil,Calzado,1,196305,0.2,157000,PSE,42,Mujer,Básico,,1,SI
+T10311,2025-11-12,Bogotá D.C.,BOG-01,TIENDA,Hogar,4,155200,0.0,620800,Efectivo,40,Mujer,Premium,5,,0
+T10421,2025-02-26,Barranquilla,VIRTUAL,Web,Tecnología,2,$430.200,0.2,688300,Nequi,44,Mujer,Básico,2,2,No
+T11091,2025-08-13,barranquilla,VIRTUAL,App,Belleza,1,59110,5%,56200,Tarjeta crédito,31,Mujer,Estándar,1,10,No
+T11051,Mar 29 2025,Santiago de Cali,CAL-01,Tienda física,Ropa,2,58900,0%,117800,PSE,,Hombre,Básico,4,,no
+T10693,2025-01-17,CALI,CAL-02,TIENDA,Deportes,0,100300,20%,321000,Débito,37,M,Básico,5,,NO
+T10825,2025-06-11,MEDELLIN,MED-03,Tienda,Hogar,3,$155.700,0%,467100,Débito,29,Mujer,Básico,5,,No
+T10845,Jan 28 2025,Bogotá D.C.,BOG-01,Tienda física,Ropa,1,109200,0%,109200000,Débito,42,m,Básico,4,,NO
+T11173,15/08/2025,Barranquilla,VIRTUAL,web,Ropa,3,92400,0,277200,Efectivo,40,M,Estándar,4,3,Si
+T11106,Jul 08 2025,Bogota,VIRTUAL,app,Deportes,1,$158.010,0.05,150100,Débito,24,Mujer,Estándar,4,1,NO
+T10402,2025-09-26,bogota,BOG-03,Tienda,Tecnología,3,687600,10%,1856500,Débito,38,F,Estándar,4,,NO
+T10653,22/07/2025,Bogota,VIRTUAL,web,Ropa,4,123100,0,492400,Tarjeta crédito,29,femenino,Básico,4,3,no
+T11006,2025-09-26,barranquilla,BAR-01,tienda,Hogar,-2,$73.300,0,146600,PSE,50,femenino,Estándar,4,,no
+T11114,2025-12-20,Medellin,VIRTUAL,App,Calzado,1,$123.280,5,117100,Tarjeta crédito,58,masculino,Premium,4,5,no
+T10856,2025-12-15,cartagena,VIRTUAL,Online,Hogar,7,$135.900,10%,856200,PSE,39,f,Básico,3,4,Sí
+T11058,02/04/2025,Bogotá D.C.,VIRTUAL,Online,Deportes,2,$185.800,10%,334400,Débito,37,Femenino,Estándar,5,1,NO
+T10542,2025-01-02,Santiago de Cali,CAL-01,Tienda física,Tecnología,1,686700,0,686700,Tarjeta crédito,47,m,Básico,4,,no
+T10411,2025-04-17,Bogota,BOG-01,Tienda,Calzado,4,130500,0.0,522000,Débito,34,M,Estándar,4,,No
+T10351,18/04/2025,CALI,VIRTUAL,web,Hogar,4,$172.800,5,656600,Tarjeta crédito,41,Hombre,Básico,3,1,No
+T10656,2025-10-12,B/quilla,VIRTUAL,Online,Ropa,5,59300,30%,207600,PSE,46,,Básico,3,4,Si
+T10080,2025-04-30,cali,CAL-01,TIENDA,Belleza,3,47400,0.15,120900,PSE,32,M,Básico,5,,NO
+T10345,2025-03-11,Santiago de Cali,CAL-03,TIENDA,Hogar,3,138400,0%,415200,Nequi,34,f,Básico,4,,0
+T10401,2025-01-14,CALI,VIRTUAL,web,Deportes,3,186300,0.05,531000,PSE,24,Masculino,Premium,4,3,0
+T10250,2025-10-11,Bogotá D.C.,VIRTUAL,app,Belleza,2,62330,10,112200,Efectivo,49,m,Estándar,3,5,NO
+T10308,23/04/2025,bogota,BOG-01,Tienda física,Ropa,2,114100,5,216800,Tarjeta crédito,59,f,Estándar,5,,NO
+T10295,16/12/2025,bogota,VIRTUAL,APP móvil,deportes,3,102695,0.05,292700,Nequi,999,Femenino,Básico,2,14,Sí
+T10532,23/09/2025,Bogotá D.C.,VIRTUAL,web,Hogar,1,97500,0%,97500,Débito,44,Masculino,Estándar,3,2,No
+T10796,2025-09-18,Barranquilla,VIRTUAL,APP móvil,Ropa,3,90620,0.1,244700,Nequi,33,f,Básico,3,3,No
+T10557,2025-03-04,Medellin,VIRTUAL,APP móvil,Tecnología,3,653430,0.1,1764300,Efectivo,47,m,Estándar,3,7,no
+T10414,2025-09-05,Bogotá D.C.,VIRTUAL,app,Deportes,3,146625,0,439900,Tarjeta crédito,53,Mujer,Básico,3,7,NO
+T10326,2025-10-08,bogota,BOG-03,Tienda,Tecnología,2,860500,0%,1721000,Tarjeta crédito,30,Masculino,Básico,5,,0
+T11057,15/08/2025,cali,CAL-01,TIENDA,Tecnología,2,820400,0%,1640800,Débito,58,masculino,,4,,no
+T10120,26/09/2025,Medellin,MED-02,TIENDA,Deportes,2,$111.200,0.05,211300,Nequi,18,f,Estándar,4,,0
+T11123,2025-05-05,Bogotá D.C.,BOG-01,TIENDA,Deportes,7,$149.500,5,994200,Débito,18,m,Estándar,5,,NO
+T11156,03/01/2025,Santiago de Cali,VIRTUAL,Web,Tecnología,3,825000,0%,2475000,Tarjeta crédito,46,m,Básico,5,1,NO
+T10219,Dec 18 2025,Cartagena de Indias,VIRTUAL,web,Ropa,3,$78.900,0.0,236700,Tarjeta crédito,31,Femenino,Premium,5,6,no
+T10996,11/01/2025,Medellín,VIRTUAL,Online,Belleza,3,30300,10,81800,Débito,34,M,Estándar,3,9,No
+T10625,01/12/2025,Bogotá D.C.,VIRTUAL,Web,Calzado,500,134100,0.05,382200,Tarjeta crédito,26,Masculino,Básico,4,6,no
+T10192,2025-04-25, Cali ,CAL-01,Tienda física,Tecnología,5,$794.800,0.1,,Débito,999,otro,Básico,5,,No
+T10982,2025-04-26, Cali ,VIRTUAL,App movil,Ropa,1,110055,0.05,104600,Débito,32,Hombre,estandar,3,9,no
+T10290,Dec 01 2025,B/quilla,BAR-01,Tienda,Tecnología,2,501200,0%,1002400,PSE,29,f,Estándar,,,0
+T10180,10/07/2025,Cartagena de Indias,VIRTUAL,App,Hogar,1,$176.410,0.0,176400,Débito,60,f,Estándar,3,7,No
+T11181,2025-12-11, Cali ,VIRTUAL,online,Deportes,1,130800,0%,130800,Efectivo,61,femenino,Premium,5,3,No
+T10185,20/06/2025,barranquilla,VIRTUAL,App movil,Ropa,3,$83.720,10,226000,Efectivo,38,m,Estándar,4,5,NO
+T10861,2025-03-20,medellin,MED-03,TIENDA,Belleza,3,$53.500,0.0,160500,Débito,37,Femenino,Estándar,5,,NO
+T10159,2025-09-16,cartagena,VIRTUAL,Online,Hogar,2,119100,0%,238200,PSE,49,masculino,Estándar,4,2,0
+T11127,Apr 11 2025,B/quilla,BAR-03,Tienda física,Calzado,2,$156.300,0.05,297000,Nequi,,Masculino,Básico,4,,no
+T10204,2025-10-18,Santiago de Cali,VIRTUAL,Online,Ropa,1,76700,0,76700,Tarjeta crédito,38,Hombre,Premium,5,1,0
+T11034,2025-06-11,Bogotá D.C.,VIRTUAL,app,Calzado,7,167900,0.2,940200,Débito,49,Hombre,Premium,3,4,no
+T10814,2025-07-21,MEDELLIN,MED-03,Tienda física,Belleza,2,$54.300,0.1,97700,Efectivo,28,m,Estándar,5,,No
+T10074,17/08/2025,medellin,VIRTUAL,Online,Belleza,2,36700,10,66100,Tarjeta crédito,,Mujer,Estándar,3,9,Sí
+T11121,Nov 21 2025,CALI,VIRTUAL,online,Calzado,2,$117.400,20%,187800,Tarjeta crédito,20,masculino,Básico,5,2,NO
+T10511,2025-02-13, Cali ,VIRTUAL,online,Deportes,4,133100,0%,532400,Efectivo,52,,Premium,4,1,No
+T10968,2025-09-28,bogota,VIRTUAL,web,Ropa,4,$103.500,0.2,331200,Tarjeta crédito,49,M,Estándar,4,1,no
+T10002,2025-01-28,Medellín,VIRTUAL,App,Calzado,2,141795,0.0,283600,Débito,,Mujer,Básico,10,5,0
+T10267,Jun 09 2025,Medellín,MED-03,TIENDA,Calzado,3,$112.100,0.0,336300,Tarjeta crédito,57,Femenino,Básico,4,,NO
+T10084,2025-05-05,BOGOTA,BOG-02,TIENDA,deportes,2,157800,0.0,315600,Nequi,26,,Básico,4,,No
+T10788,05/03/2025,CALI,CAL-01,TIENDA,Deportes,3,174900,15%,446000,Tarjeta crédito,29,masculino,Básico,5,,No
+T10011,2025-12-01, Cali ,VIRTUAL,APP móvil,Ropa,9,$96.945,0.3,610800,Tarjeta crédito,42,Hombre,Básico,3,4,SI
+T10546,2025-10-14,cartagena,CAR-01,Tienda,Ropa,3,$95.700,0,287100,Tarjeta crédito,49,,Básico,4,,No
+T10480,Apr 17 2025,Cali,VIRTUAL,Web,Hogar,0,$113.300,15%,674100,PSE,37,M,Estándar,2,9,NO
+T10492,20/10/2025,Barranquilla,BAR-02,TIENDA,Deportes,3,191300,0,573900,Efectivo,34,femenino,Básico,4,,0
+T10142,25/02/2025,Bogota,VIRTUAL,App,Calzado,1,189060,0%,,Débito,55,f,Estándar,4,3,NO
+T10955,02/11/2025,Santiago de Cali,CAL-03,tienda,Belleza,3,59000,15%,150400,PSE,24,Hombre,Estándar,5,,0
+T10663,2025-02-19,Bogotá D.C.,BOG-03,Tienda física,Belleza,6,$34.400,20%,165100,Efectivo,,f,Básico,4,,No
+T10156,2025-10-20,CALI,CAL-01,TIENDA,Belleza,3,30800,10,83200,Nequi,38,,Premium,5,,NO
+T10209,Jan 30 2025,Bogotá,VIRTUAL,web,Calzado,4,$134.400,20,430100,Efectivo,38,F,Básico,4,9,Si
+T10581,2025-07-01,Bogota,BOG-01,tienda,Belleza,5,$48.900,5%,232300,Nequi,19,m,Básico,4,,No
+T10773,2025-08-11,cali,VIRTUAL,Online,Tecnología,3,465200,10%,1256000,Débito,38,femenino,Premium,4,3,NO
+T10522,2025-11-18,Santiago de Cali,CAL-03,Tienda,Deportes,3,120900,0%,362700,Débito,37,masculino,Premium,4,,NO
+T10983,2025-08-11,Cartagena,CAR-01,tienda,Hogar,2,$162.900,5%,,Efectivo,32,M,Básico,5,,NO
+T10179,2025-07-18,CALI,CAL-02,Tienda,Hogar,1,$168.500,10,151600,Tarjeta crédito,28,masculino,Estándar,3,,0
+T10606,2025-09-29,cali,CAL-03,TIENDA,Belleza,3,$59.300,0.3,124500,Débito,28,masculino,Básico,4,,No
+T11184,May 09 2025,Bogota,VIRTUAL,APP móvil,Ropa,2,103845,0%,207700,Débito,45,masculino,Básico,4,1,NO
+T10134,Jan 17 2025,medellin,VIRTUAL,online,Belleza,2,$46.200,10,83200,Nequi,31,f,Estándar,3,5,0
+T10001,2025-02-04,Bogotá,BOG-01,Tienda física,Tecnología,6,874200,10%,4720700,Tarjeta crédito,43,Femenino,Básico,5,,no
+T10312,2025-12-22,BOGOTA,VIRTUAL,web,Hogar,3,84300,0,252900,PSE,36,Femenino,Premium,5,4,No
+T10440,Jul 03 2025,cali,VIRTUAL,Web,deportes,4,170800,15%,,Nequi,29,f,Estándar,3,9,0
+T10109,2025-11-28,B/quilla,BAR-01,TIENDA,Ropa,5,115900,30,405600,Efectivo,53,Masculino,Estándar,3,,No
+T10160,2025-10-28,Bogota,BOG-03,Tienda,Ropa,1,$121.300,0%,121300,Tarjeta crédito,44,F,Estándar,,,NO
+T10659,25/10/2025,bogota,VIRTUAL,Online,Tecnología,2,$784.600,10%,1412300,Tarjeta crédito,47,Mujer,Básico,,3,Sí
+T10716,11/11/2025,B/quilla,BAR-03,tienda,Hogar,5,$122.900,10,553000,Tarjeta crédito,33,femenino,Estándar,5,,No
+T10376,2025-01-17,Medellin,MED-02,TIENDA,Belleza,5,33300,0%,166500,Nequi,45,F,Básico,4,,NO
+T10205,2025-07-09,bogota,BOG-01,tienda,Tecnología,1,664400,10%,598000,Débito,,Femenino,Básico,4,,NO
+T10749,2025-10-05,MEDELLIN,MED-03,TIENDA,Belleza,1,63700,10,57300,Tarjeta crédito,41,Femenino,Básico,5,,0
+T10288,2025-09-18,Cartagena de Indias,VIRTUAL,online,Deportes,5,154000,10%,693000,Débito,28,F,Básico,5,4,No
+T10056,13/01/2025,Cartagena,CAR-02,tienda,Hogar,0,128200,5%,121800,Débito,41,F,Básico,5,,No
+T10172,14/01/2025,Bogotá D.C.,BOG-03,Tienda,Ropa,2,80300,15%,,Nequi,19,Hombre,Básico,5,,NO
+T10384,2025-11-21,cartagena,VIRTUAL,Web,Belleza,1,$29.600,0,29600,Tarjeta crédito,36,M,Estándar,3,8,1
+T10614,30/10/2025,bogota,BOG-02,tienda,Ropa,4,53800,0.15,182900,Nequi,23,Mujer,Estándar,4,,no
+T10880,2025-04-16,Bogotá D.C.,BOG-01,tienda,Ropa,3,61300,10,165500,Tarjeta crédito,42,Mujer,Básico,5,,Sí
+T10231,2025-03-23,Barranquilla,BAR-02,TIENDA,Hogar,1,$160.800,0.0,160800,PSE,37,m,Básico,4,,No
+T11090,2025-06-18,Bogotá D.C.,VIRTUAL,online,Tecnología,3,$644.000,20,1545600,Tarjeta crédito,54,m,Básico,5,1,0
+T11146,31/01/2025,Cali,CAL-01,Tienda,Ropa,2,126000,0.15,214200,Tarjeta crédito,50,femenino,Estándar,5,,No
+T10724,2025-04-26, Cali ,VIRTUAL,App,Calzado,4,152605,0%,610400,Efectivo,46,f,Básico,4,4,No
+T11002,02/12/2025,Cartagena de Indias,VIRTUAL,Online,Belleza,3,62600,0%,187800,Tarjeta crédito,52,Mujer,Premium,4,3,No
+T10849,2025-05-04,Medellin,MED-02,tienda,Calzado,3,190400,0,571200,Tarjeta crédito,32,Masculino,Premium,5,,No
+T10770,Oct 30 2025,cali,VIRTUAL,app,Belleza,2,$72.220,0.1,130000,Débito,57,Masculino,Estándar,3,7,0
+T10310,2025-05-26,Bogotá D.C.,VIRTUAL,web,Belleza,2,38300,15,65100,Efectivo,33,m,Básico,4,5,0
+T10077,09/04/2025,BOGOTA,VIRTUAL,online,Belleza,2,67500,5,128200,Tarjeta crédito,56,Mujer,Premium,4,7,no
+T10237,2025-07-04,CALI,VIRTUAL,App,Deportes,1,192050,0.05,182400,Tarjeta crédito,43,f,Básico,4,3,0
+T11005,12/04/2025,Cartagena de Indias,VIRTUAL,Online,Deportes,2,166500,0%,333000,Débito,18,masculino,Básico,2,11,0
+T10236,2025-11-16,Barranquilla,VIRTUAL,App movil,Hogar,1,$95.335,10%,85800,Nequi,34,femenino,Básico,2,7,no
+T10426,07/04/2025,Cali,CAL-03,tienda,Ropa,6,100700,15,513600,Débito,35,Mujer,Estándar,3,,No
+T11046,2025-10-30,Bogota,BOG-01,Tienda física,calzado,1,$231.000,0%,,Efectivo,65,femenino,Estándar,5,,no
+T11098,2025-01-05,MEDELLIN,MED-02,tienda,Hogar,1,147800,0,,Tarjeta crédito,36,femenino,Estándar,4,,0
+T10835,12/11/2025,cali,CAL-01,tienda,Ropa,2,$83.900,10%,151000,Tarjeta crédito,34,F,Estándar,3,,1
+T10958,Dec 17 2025,barranquilla,VIRTUAL,Web,Calzado,2,208400,0,416800,Tarjeta crédito,60,Mujer,Básico,2,5,NO
+T11083,12/02/2025,Bogotá D.C.,VIRTUAL,web,Tecnología,4,$448.500,15,1524900,Débito,22,,Básico,4,1,No
+T10175,2025-06-03,Bogotá,BOG-03,Tienda física,Tecnología,7,478300,0.2,2678500,Tarjeta crédito,65,masculino,Premium,5,,0
+T11009,2025-09-27,Medellín,VIRTUAL,Online,Ropa,0,$97.800,0,97800,Débito,55,F,Básico,2,10,no
+T10535,2025-02-03,Barranquilla,BAR-03,TIENDA,Deportes,0,$137.500,0.2,220000,Efectivo,18,Hombre,Premium,4,,NO
+T10639,2025-10-17, Cali ,CAL-03,Tienda física,Calzado,3,163800,0.0,491400,Débito,27,m,Estándar,5,,No
+T10811,2025-11-10,CALI,CAL-03,TIENDA,Deportes,1,158400,0.15,134600,Débito,55,femenino,Básico,4,,NO
+T10456,12/01/2025, Cali ,CAL-03,Tienda física,Calzado,2,220400,5%,418800,Tarjeta crédito,48,Hombre,Básico,5,,NO
+T10586,May 22 2025,Barranquilla,BAR-03,TIENDA,ropa,3,$111.700,5%,318300,Nequi,45,masculino,Básico,5,,no
+T11072,16/08/2025,BOGOTA,VIRTUAL,web,Belleza,2,37100,0,74200,Tarjeta crédito,,Hombre,Estándar,5,2,NO
+T10564,02/04/2025,Bogotá,VIRTUAL,app,tecnología,3,592940,0.0,1778800,Tarjeta crédito,36,Femenino,Premium,4,3,no
+T11194,May 07 2025,Santiago de Cali,CAL-03,TIENDA,Calzado,4,99900,15%,339700,Nequi,53,Femenino,Básico,5,,No
+T10317,2025-03-11,Medellín,VIRTUAL,web,Hogar,0,141500,20,452800,Débito,42,otro,Premium,4,1,No
+T11064,19/02/2025,Cartagena,CAR-02,Tienda,Calzado,0,112500,0.0,337500,Débito,18,No responde,Estándar,4,,NO
+T11108,2025-12-08,Medellin,VIRTUAL,online,Deportes,2,123400,0.0,246800,Nequi,37,otro,Estándar,4,2,no
+T11125,2025-08-11,Bogotá,BOG-01,TIENDA,Deportes,3,96700,5%,275600,Efectivo,56,Mujer,Estándar,4,,no
+T10665,Mar 03 2025,cali,CAL-01,tienda,Tecnología,4,724200,15%,2462300,Débito,35,Mujer,Básico,4,,0
+T10152,2025-06-29, Cali ,CAL-03,TIENDA,Tecnología,4,$481.400,0%,1925600,Débito,44,femenino,Estándar,5,,0
+T10046,07/05/2025,CALI,CAL-01,Tienda,Calzado,4,136800,10,492500,PSE,51,Hombre,Básico,4,,no
+T10649,2025-05-03,Santiago de Cali,CAL-01,tienda,Tecnología,7,713400,0%,4993800,PSE,39,masculino,Premium,5,,no
+T11118,Dec 11 2025,Cartagena de Indias,VIRTUAL,app,Ropa,3,133745,0.0,401200,Tarjeta crédito,31,F,Premium,3,7,Sí
+T10702,2025-01-29,BOGOTA,BOG-02,Tienda física,Calzado,2,141800,10%,255200,Tarjeta crédito,38,,Estándar,3,,0
+T10640,Aug 09 2025,CALI,VIRTUAL,Web,Deportes,3,$208.100,0.0,624300,Efectivo,27,Mujer,Básico,5,5,Si
+T10347,16/03/2025,barranquilla,VIRTUAL,App movil,Tecnología,2,858360,5,1630900,Tarjeta crédito,32,f,Estándar,4,3,No
+T11039,Oct 30 2025,Bogotá D.C.,VIRTUAL,App,Belleza,2,$69.690,0,139400,Efectivo,18,femenino,Estándar,4,1,0
+T11116,2025-06-19,Bogotá D.C.,BOG-03,tienda,Ropa,3,$93.700,0.0,281100,Efectivo,28,Mujer,Básico,4,,SI
+T10240,22/05/2025,MEDELLIN,MED-02,TIENDA,Belleza,3,57400,15,146400,Nequi,19,femenino,Básico,4,,NO
+T10697,2025-04-24,cali,VIRTUAL,App,belleza,4,63480,0.15,215800,Tarjeta crédito,48,masculino,Premium,5,1,0
+T10513,2025-02-04,Bogotá,VIRTUAL,online,Ropa,5,$63.400,0.1,285300,Tarjeta crédito,999,Mujer,Premium,4,10,0
+T10654,05/12/2025,cartagena,CAR-02,Tienda,Ropa,1,68300,10%,61500,Tarjeta crédito,37,Mujer,Estándar,3,,0
+T11104,2025-04-14,Cartagena,VIRTUAL,online,Deportes,4,209900,10%,755600,Tarjeta crédito,55,femenino,Premium,3,14,NO
+T10062,30/05/2025,Cartagena,VIRTUAL,App movil,Deportes,1,140760,0.1,126700,Tarjeta crédito,19,m,Básico,,4,No
+T11067,2025-10-20,Medellin,MED-03,Tienda física,Deportes,4,$91.500,20%,292800,Nequi,36,f,Estándar,5,,0
+T11003,08/08/2025,medellin,VIRTUAL,Web,Ropa,7,62200,0,435400,Nequi,44,f,Premium,4,6,No
+T10291,02/10/2025,Bogotá D.C.,BOG-02,TIENDA,Belleza,-2,66500,10%,119700,Tarjeta crédito,49,F,Básico,4,,NO
+T11055,16/04/2025,Medellín,MED-03,tienda,Ropa,1,75100,0,75100,Nequi,54,Mujer,basico,5,,No
+T10784,2025-06-18,Medellin,VIRTUAL,app,Ropa,2,130180,0.0,260400,Efectivo,36,F,Premium,5,2,NO
+T10628,Sep 27 2025,Cali,CAL-02,tienda,Belleza,1,53800,0.05,51100,Tarjeta crédito,26,No responde,Estándar,5,,No
+T10022,2025-06-23,MEDELLIN,MED-02,Tienda,Tecnología,5,695700,0.15,2956700,Tarjeta crédito,20,Femenino,Estándar,5,,0
+T10920,08/09/2025,Cartagena de Indias,CAR-02,Tienda física,Ropa,2,85500,5,162400,Débito,,Mujer,Estándar,5,,NO
+T11151,2025-06-05,medellin,VIRTUAL,Web,Ropa,1,86200,0.05,81900,Débito,42,M,Estándar,5,3,No
+T10530,2025-09-11,Medellín,MED-03,Tienda física,deportes,0,146700,10%,264100,Débito,37,Femenino,Básico,4,,no
+T10258,2025-02-10,cali,VIRTUAL,App movil,Hogar,2,$113.850,20%,182200,Débito,41,f,Básico,4,1,No
+T10227,2025-09-15,medellin,VIRTUAL,web,hogar,3,118800,0.0,356400,Tarjeta crédito,49,m,Básico,3,3,1
+T10316,Nov 04 2025,B/quilla,BAR-03,TIENDA,Calzado,2,214300,0.0,428600,Tarjeta crédito,51,Masculino,Premium,4,,no
+T10620,23/06/2025,bogota,BOG-02,Tienda,Deportes,1,133200,15%,113200,Tarjeta crédito,53,Mujer,Estándar,5,,0
+T10107,2025-06-25,Bogotá D.C.,BOG-03,Tienda,Ropa,1,74200,0%,74200,Efectivo,40,Hombre,Básico,5,,NO
+T11130,14/03/2025,Bogota,BOG-03,Tienda física,Belleza,5,57800,10,260100,Tarjeta crédito,29,femenino,Estándar,5,,No
+T10870,2025-05-27,Cali,VIRTUAL,App movil,Belleza,4,58305,20%,186600,Tarjeta crédito,52,f,Estándar,10,1,Si
+T10427,12/08/2025,cali,CAL-02,TIENDA,Deportes,4,154800,0%,619200,Tarjeta crédito,36,m,Estándar,,,no
+T10085,20/03/2025,cali,VIRTUAL,app,Calzado,1,119600,0,119600,Débito,47,F,Básico,,3,SI
+T10717,2025-09-29,cali,VIRTUAL,Online,Hogar,1,178600,0.0,178600,Débito,46,F,Estándar,4,1,No
+T10568,01/11/2025,Cartagena de Indias,CAR-01,TIENDA,Deportes,3,$113.900,0%,341700,Nequi,32,F,Estándar,5,,No
+T10524,2025-04-28,Bogota,BOG-01,Tienda,Deportes,7,130800,0.2,732500,Tarjeta crédito,48,otro,Estándar,4,,No
+T10030,Dec 22 2025,BOGOTA,BOG-03,Tienda,Hogar,2,102000,0.0,204000000,Efectivo,37,f,Básico,4,,No
+T10010,2025-08-13,MEDELLIN,VIRTUAL,Online,Belleza,0,36300,0,72600,PSE,28,Hombre,Básico,4,1,No
+T10438,2025-03-29,MEDELLIN,MED-02,tienda,Tecnología,2,896200,0%,1792400,Débito,24,masculino,Básico,5,,0
+T10342,2025-09-03,Cali,VIRTUAL,app,Ropa,2,72565,0.0,145100,Nequi,,F,Básico,4,6,NO
+T10823,25/09/2025,Bogotá,BOG-01,TIENDA,Tecnología,6,766300,20%,3678200,PSE,31,Femenino,Premium,5,,No
+T10458,2025-03-08,Medellin,MED-01,tienda,Hogar,3,85500,5,243700,Tarjeta crédito,34,f,Básico,4,,NO
+T10821,2025-10-19,Bogotá D.C.,BOG-02,Tienda,Calzado,6,185000,0.15,943500,PSE,18,M,Estándar,4,,NO
+T10125,2025-04-23,MEDELLIN,VIRTUAL,Online,Ropa,1,82300,0,82300,Débito,27,m,Básico,3,2,0
+T10257,2025-05-01,bogota,VIRTUAL,App movil,Belleza,6,42665,10%,230400,Débito,61,femenino,basico,4,9,NO
+T10891,2025-04-25,BOGOTA,VIRTUAL,app,Ropa,2,$142.140,0%,284300,Nequi,52,m,Básico,,2,No
+T10584,2025-09-05,MEDELLIN,VIRTUAL,app,Ropa,2,86940,5%,165200,PSE,33,Hombre,Estándar,4,1,NO
+T10313,14/02/2025,bogota,VIRTUAL,web,Belleza,3,49300,0.15,125700,PSE,37,F,Básico,4,5,NO
+T10852,13/06/2025,B/quilla,VIRTUAL,App movil,Hogar,3,197340,0,592000,Nequi,50,f,Básico,5,4,NO
+T10812,2025-09-13,Medellín,MED-02,Tienda,ropa,1,78700,20%,63000,Débito,41,Masculino,Básico,4,,No
+T10004,2025-08-09,Medellin,VIRTUAL,web,Tecnología,3,645500,0,1936500,Efectivo,27,,Básico,3,4,0
+T10737,2025-12-23,cali,VIRTUAL,Web,Belleza,4,46400,0%,185600,Nequi,57,femenino,Estándar,5,2,No
+T10198,Mar 23 2025,Cali,CAL-01,tienda,Tecnología,1,753600,5%,715900,Efectivo,30,f,Premium,4,,NO
+T10409,2025-11-04, Cali ,VIRTUAL,APP móvil,Ropa,4,128800,0.05,489400,Tarjeta crédito,37,M,Básico,,15,no
+T10174,Sep 07 2025,Cartagena,VIRTUAL,Online,Tecnología,1,459900,0.0,459900,Tarjeta crédito,23,f,Estándar,3,3,1
+T11035,2025-01-12,barranquilla,BAR-01,Tienda,Deportes,3,133300,15%,339900,Débito,40,Masculino,Básico,5,,no
+T10469,2025-03-30,Bogotá D.C.,VIRTUAL,APP móvil,Hogar,-3,131905,5,375900,Nequi,38,Masculino,Básico,3,5,No
+T10202,2025-04-04, Cali ,VIRTUAL,web,Ropa,3,96000,0.0,288000,Nequi,54,Hombre,Estándar,3,5,Sí
+T10177,04/05/2025,Cali,VIRTUAL,web,Ropa,4,86500,0%,346000,Efectivo,47,F,Básico,4,2,no
+T10275,15/12/2025,Medellin,MED-02,Tienda física,Hogar,1,$97.300,0,97300,Débito,44,Femenino,Estándar,4,,NO
+T11030,2025-10-04,Bogota,VIRTUAL,Web,Calzado,1,222300,0,222300,Tarjeta crédito,37,Mujer,Básico,5,2,0
+T10412,2025-11-28, Cali ,VIRTUAL,Online,Calzado,1,161600,5%,153500,Tarjeta crédito,40,Hombre,Estándar,3,5,0
+T10013,2025-11-16,CALI,VIRTUAL,Online,Belleza,3,35100,15,89500,Tarjeta crédito,32,F,Estándar,4,7,no
+T10483,2025-10-27,cali,VIRTUAL,App,Hogar,6,$186.875,10%,1009100,PSE,35,Hombre,Estándar,4,6,SI
+T11185,2025-08-24,cali,VIRTUAL,web,Ropa,3,117100,0.2,281000,Débito,42,M,premium,3,4,no
+T10832,2025-09-01,Medellín,MED-03,Tienda,Hogar,2,$81.300,0.1,146300,Tarjeta crédito,19,f,Básico,4,,No
+T10538,2025-11-08,Bogotá,BOG-01,TIENDA,Belleza,4,$43.700,0.1,157300,Tarjeta crédito,33,femenino,Estándar,4,,0
+T10117,23/09/2025,Bogotá D.C.,VIRTUAL,Web,Deportes,2,176800,10%,318200,Tarjeta crédito,42,M,PREMIUM,5,6,0
+T10536,2025-11-02,Santiago de Cali,CAL-02,TIENDA,Tecnología,2,610800,30,855100,Tarjeta crédito,18,Femenino,Básico,4,,no
+T10163,23/09/2025,CALI,VIRTUAL,APP móvil,Ropa,4,$96.140,15%,326900,Nequi,999,f,Estándar,3,8,0
+T10111,2025-12-13,Medellín,VIRTUAL,App,Ropa,2,143520,0,287000,Efectivo,38,Masculino,Básico,,4,no
+T10344,22/07/2025,CALI,CAL-02,TIENDA,Calzado,1,$228.400,0%,228400,Débito,24,Hombre,Estándar,,,no
+T10978,2025-03-15,Bogota,VIRTUAL,APP móvil,Ropa,1,$123.625,0.15,105100,Efectivo,43,Masculino,Básico,4,3,No
+T10807,2025-11-05,bogota,VIRTUAL,App,Belleza,3,$69.230,15%,176500,PSE,37,Femenino,Estándar,4,5,No
+T10482,15/09/2025, Cali ,VIRTUAL,APP móvil,Tecnología,6,$580.865,15%,2962400,Tarjeta crédito,38,Masculino,Básico,3,4,Si
+T11078,2025-06-24,Cali,CAL-02,tienda,Calzado,2,145800,0%,291600,PSE,37,masculino,Básico,5,,no
+T10907,Apr 19 2025,bogota,BOG-02,Tienda física,Belleza,4,43100,0.1,155200,Débito,39,femenino,Estándar,5,,No
+T10130,2025-05-31,Bogotá D.C.,VIRTUAL,Web,Hogar,2,152900,0.0,305800,Efectivo,47,masculino,premium,,1,0
+T11044,2025-05-01,Santiago de Cali,CAL-02,Tienda,Belleza,3,$43.200,10%,116600,Efectivo,40,f,Básico,5,,NO
+T11154,2025-03-30,bogota,BOG-03,TIENDA,Belleza,5,$37.200,5,176700,Nequi,45,Hombre,Estándar,5,,0
+T10338,21/01/2025,BOGOTA,BOG-01,Tienda física,Belleza,4,47500,0.2,152000,Tarjeta crédito,38,M,Estándar,10,,NO
+T10738,10/03/2025,Medellín,MED-02,Tienda,Belleza,2,46700,0.15,79400,Nequi,25,M,Premium,4,,NO
+T10072,2025-10-08,cartagena,CAR-01,TIENDA,Hogar,2,137900,0,275800,Tarjeta crédito,51,F,Estándar,4,,Si
+T10854,2025-04-21,cali,CAL-03,Tienda,Ropa,5,70500,0.15,299600,PSE,56,masculino,Premium,5,,0
+T10901,2025-04-13, Cali ,VIRTUAL,Online,Belleza,2,$52.300,10%,94100,PSE,61,f,Básico,4,1,No
+T10515,2025-01-18,Medellin,VIRTUAL,App movil,ropa,1,101085,10%,,PSE,33,M,Estándar,4,3,0
+T10960,03/02/2025,medellin,VIRTUAL,Online,Hogar,2,116500,5,221400,Nequi,25,f,PREMIUM,4,1,no
+T10965,27/10/2025,CALI,VIRTUAL,APP móvil,Belleza,5,48645,0%,243200,Tarjeta crédito,58,f,Premium,4,3,no
+T10012,2025-09-20,barranquilla,BAR-02,Tienda física,Ropa,4,66000,0%,264000,Tarjeta crédito,41,Mujer,Estándar,4,,no
+T10447,02/11/2025,Santiago de Cali,VIRTUAL,Online,Belleza,2,56300,0.05,107000,PSE,55,masculino,Estándar,4,3,NO
+T11033,11/11/2025,cali,CAL-03,tienda,Belleza,3,33900,0%,101700,Efectivo,40,Mujer,Estándar,4,,No
+T10208,2025-05-02, Cali ,VIRTUAL,web,Tecnología,4,829200,0%,3316800,Efectivo,N/A,m,Básico,4,1,No
+T11021,10/07/2025,Barranquilla,BAR-03,Tienda física,Tecnología,5,526100,0.2,2104400,Efectivo,36,f,Premium,4,,0
+T10576,2025-10-11,Bogotá,BOG-01,Tienda física,Hogar,4,$165.600,0.0,662400,Débito,29,Hombre,Básico,4,,0
+T10565,2025-11-15, Cali ,CAL-01,Tienda,Deportes,1,158600,5,150700,Nequi,40,M,Estándar,4,,no
+T11117,01/04/2025,MEDELLIN,VIRTUAL,Web,Ropa,4,105100,10,378400,Nequi,43,femenino,Básico,3,4,No
+T10992,2025-09-11,barranquilla,VIRTUAL,Online,Ropa,1,65800,0.1,59200,PSE,43,M,Estándar,2,12,no
+T10340,2025-08-28,B/quilla,BAR-01,Tienda,Calzado,4,$199.200,0%,796800,PSE,37,femenino,Básico,3,,no
+T10346,29/01/2025,medellin,MED-01,Tienda física,Ropa,2,$106.600,0.0,213200,Débito,44,Hombre,Estándar,5,,No
+T11129,2025-01-19,B/quilla,VIRTUAL,App,Hogar,4,91770,0%,367100,Efectivo,50,femenino,Premium,10,6,NO
+T10304,23/06/2025,cali,CAL-03,Tienda,Tecnología,2,901900,0.0,1803800,PSE,19,F,Premium,5,,no
+T10036,2025-03-12,Cartagena,CAR-01,Tienda física,Ropa,1,95900,5,91100,PSE,19,Masculino,Básico,5,,No
+T10042,24/05/2025,medellin,VIRTUAL,Online,Deportes,3,$90.200,0%,270600,Efectivo,40,Masculino,Estándar,3,5,No
+T10621,2025-11-13,medellin,VIRTUAL,Online,Hogar,5,141000,15%,599200,Débito,39,Hombre,Estándar,2,5,No
+T10721,Dec 19 2025,CALI,VIRTUAL,Online,Hogar,2,$156.800,0.05,297900,Tarjeta crédito,37,Mujer,Básico,2,17,No
+T10787,2025-11-03,Bogotá,VIRTUAL,Web,Ropa,8,56800,15,386200,Nequi,48,Hombre,Básico,1,21,NO
+T11012,2025-08-31,cali,VIRTUAL,online,Belleza,4,$45.700,5%,,Débito,46,Mujer,Básico,4,1,no
+T10459,2025-12-26, Cali ,VIRTUAL,App,Tecnología,2,$584.085,10,1051400,Nequi,38,Hombre,Estándar,5,5,0
+T10423,13/08/2025,Barranquilla,BAR-02,TIENDA,Deportes,2,100300,0%,200600,Tarjeta crédito,45,femenino,Premium,5,,No
+T10838,23/08/2025, Cali ,VIRTUAL,App movil,Belleza,2,35880,15,61000,Débito,22,femenino,,3,3,1
+T10619,2025-09-11,Bogotá D.C.,BOG-01,Tienda,Belleza,2,27100,10,48800,Tarjeta crédito,59,masculino,Estándar,5,,No
+T10294,03/07/2025,barranquilla,BAR-03,TIENDA,Ropa,6,$72.300,30,303700,Tarjeta crédito,49,masculino,Estándar,,,No
+T10585,2025-04-23,Cali,CAL-02,Tienda física,Deportes,7,166600,0.1,1049600,Tarjeta crédito,46,M,Premium,5,,NO
+T10026,12/11/2025,Medellín,VIRTUAL,online,Ropa,4,69400,0%,277600,Débito,43,F,Premium,3,6,No
+T11088,Oct 25 2025,Barranquilla,VIRTUAL,App,Ropa,1,62560,0.1,56300,Débito,43,M,Básico,5,3,NO
+T10801,06/11/2025,Santiago de Cali,CAL-01,Tienda,Hogar,2,$156.000,20%,249600,Tarjeta crédito,-5,femenino,Básico,5,,no
+T10878,2025-10-23,BOGOTA,VIRTUAL,APP móvil,Calzado,3,$138.690,0%,,Nequi,59,No responde,Estándar,5,1,NO
+T10510,2025-07-12,bogota,BOG-03,TIENDA,deportes,1,$183.500,5%,174300,Tarjeta crédito,34,Mujer,Básico,5,,1
+T10748,17/01/2025,Medellin,VIRTUAL,Online,Tecnología,2,$414.600,0,829200,Nequi,54,Femenino,Básico,3,5,No
+T10353,2025-07-25,Cartagena,CAR-02,TIENDA,Deportes,3,180600,0.0,541800,Débito,,Hombre,Estándar,5,,NO
+T10893,2025-10-06,B/quilla,BAR-01,tienda,Ropa,3,91900,20,220600,Tarjeta crédito,27,Masculino,Básico,,,NO
+T10055,2025-01-02,barranquilla,BAR-01,Tienda física,Tecnología,3,$901.200,0%,2703600,Tarjeta crédito,42,M,Básico,5,,0
+T10463,2025-04-28,MEDELLIN,VIRTUAL,APP móvil,Tecnología,5,598345,0,2991700,Nequi,52,No responde,Premium,4,7,NO
+T10216,2025-04-11,Bogota,VIRTUAL,App movil,Ropa,1,125580,15,106700,Tarjeta crédito,34,Mujer,Básico,5,4,1
+T10765,25/03/2025,BOGOTA,VIRTUAL,app,Tecnología,2,$608.120,10%,1094600,PSE,46,femenino,Estándar,4,2,no
+T10040,21/12/2025,Cartagena de Indias,VIRTUAL,APP móvil,Calzado,1,167785,0%,167800,Débito,33,f,Estándar,2,8,0
+T10396,2025-03-23,MEDELLIN,MED-02,TIENDA,Ropa,0,$58.500,0.0,117000,Nequi,54,,Premium,4,,0
+T11193,17/11/2025,medellin,MED-02,Tienda,Calzado,3,$98.800,0.1,266800,PSE,43,Masculino,Premium,5,,NO
+T10732,2025-04-03,BOGOTA,VIRTUAL,Online,Hogar,3,137700,0.3,289200,Tarjeta crédito,32,No responde,Básico,3,4,NO
+T11094,24/12/2025,Cartagena de Indias,VIRTUAL,Online,Belleza,500,$38.700,0.15,131600,Efectivo,47,femenino,Básico,2,10,0
+T10988,Jul 17 2025,Santiago de Cali,CAL-01,TIENDA,Ropa,2,77200,0.05,146700,Tarjeta crédito,999,femenino,Básico,5,,No
+T11141,2025-03-25,medellin,MED-02,Tienda,Ropa,2,125800,10,226400,Nequi,36,f,Estándar,5,,0
+T10178,2025-05-16, Cali ,VIRTUAL,web,Belleza,4,52100,0.1,,Débito,26,Mujer,Premium,4,5,no
+T10176,09/07/2025, Cali ,VIRTUAL,Web,Hogar,3,$99.000,5%,282200,Tarjeta crédito,46,Femenino,Básico,3,7,no
+T10507,2025-01-14,Medellin,MED-02,Tienda,Deportes,3,145500,0%,436500,PSE,38,Femenino,estandar,5,,no
+T10570,2025-11-21,Cartagena,VIRTUAL,online,Belleza,4,65800,30,184200,Débito,47,Femenino,Básico,3,7,No
+T11079,2025-05-30,medellin,VIRTUAL,Online,Deportes,3,$88.300,10%,238400,Débito,35,Hombre,Básico,4,2,0
+T10300,11/06/2025,Cartagena,VIRTUAL,Web,Deportes,2,$107.000,0%,214000,Nequi,43,m,Estándar,3,3,NO
+T11165,2025-12-08,bogota,VIRTUAL,Web,Hogar,500,$119.600,0.15,305000,Tarjeta crédito,40,femenino,Básico,4,1,no
+T10705,2025-01-17,cartagena,CAR-02,tienda,Belleza,4,$59.800,0.1,,Débito,49,,Estándar,3,,NO
+T10877,2025-08-28,cali,CAL-01,TIENDA,Ropa,6,58400,0.0,350400,Efectivo,62,Masculino,Premium,5,,NO
+T11018,2025-07-05,Bogota,VIRTUAL,Web,Tecnología,9,$633.100,0.2,4558300,Débito,27,Mujer,Premium,4,7,No
+T10840,2025-08-27,Bogotá D.C.,BOG-03,TIENDA,Calzado,2,$186.900,10%,,PSE,52,Femenino,premium,4,,0
+T10518,28/07/2025,bogota,VIRTUAL,Online,Ropa,6,$65.400,5%,372800,Débito,53,M,Estándar,5,2,no
+T10757,2025-10-04,Bogotá,VIRTUAL,app,Tecnología,4,819260,20%,2621600,Débito,46,F,Básico,3,4,0
+T11095,2025-06-05,MEDELLIN,VIRTUAL,App,Ropa,1,$63.250,5,60100,Débito,28,m,Básico,4,2,no
+T10931,Jun 12 2025,cali,VIRTUAL,Online,Deportes,4,182000,15,618800,Tarjeta crédito,41,No responde,Básico,4,1,0
+T11158,11/01/2025,B/quilla,VIRTUAL,Web,Deportes,6,104200,0.2,500200,Tarjeta crédito,28,Hombre,Estándar,3,6,no
+T10029,2025-03-12,Cali,VIRTUAL,APP móvil,Hogar,2,$161.805,0.1,291200,Nequi,34,Hombre,Estándar,4,7,No
+T10633,2025-05-15,Bogotá,BOG-03,tienda,Deportes,3,156900,0.05,447200,Tarjeta crédito,31,F,Estándar,4,,NO
+T10561,07/12/2025, Cali ,CAL-03,Tienda,deportes,4,100000,20%,320000,Tarjeta crédito,38,Masculino,Estándar,3,,no
+T11089,08/09/2025,B/quilla,VIRTUAL,App movil,Ropa,4,76130,10%,274100,Tarjeta crédito,41,Femenino,Básico,4,6,No
+T10696,2025-06-08,cali,CAL-03,tienda,Hogar,3,$158.400,0%,475200,Tarjeta crédito,54,masculino,Premium,5,,NO
+T11186,05/10/2025,Bogota,VIRTUAL,APP móvil,Ropa,1,$86.135,0%,86100,Efectivo,18,f,Básico,3,5,No
+T10203,07/09/2025,cali,CAL-02,TIENDA,Deportes,2,186700,0,373400,Efectivo,,masculino,Básico,5,,No
+T10444,2025-02-17,MEDELLIN,VIRTUAL,app,Ropa,4,60260,15%,204900,Débito,48,f,Estándar,3,3,0
+T10371,2025-11-27,BOGOTA,VIRTUAL,Online,Belleza,1,$32.900,30%,23000,PSE,49,Masculino,Básico,5,1,No
+T10032,18/12/2025,bogota,BOG-02,Tienda física,tecnología,5,821000,20%,3284000,Tarjeta crédito,28,Mujer,Básico,5,,no
+T10903,2025-08-17,Bogotá D.C.,VIRTUAL,Online,Calzado,3,$104.300,0.0,312900,Tarjeta crédito,41,femenino,Estándar,5,1,0
+T10334,2025-08-25,Santiago de Cali,CAL-01,Tienda física,Deportes,2,138100,0,276200,Débito,34,f,Básico,4,,no
+T10382,2025-04-15, Cali ,CAL-01,TIENDA,Tecnología,3,641200,0.1,1731200,Nequi,,Femenino,Básico,5,,No
+T10771,Jan 04 2025,MEDELLIN,VIRTUAL,APP móvil,Tecnología,2,460345,10%,828600000,Nequi,41,Hombre,Básico,5,3,No
+T10848,2025-09-04, Cali ,VIRTUAL,web,Belleza,6,55100,10%,297500000,Nequi,33,F,Premium,4,4,NO
+T10372,2025-12-14,Barranquilla,BAR-03,Tienda física,Belleza,1,36600,0.15,31100,Débito,47,f,Estándar,5,,no
+T11113,2025-09-20,bogota,BOG-02,TIENDA,Belleza,3,$62.900,20%,151000,Tarjeta crédito,18,femenino,Básico,4,,no
+T10672,2025-08-23,Cartagena de Indias,CAR-01,TIENDA,Ropa,3,$64.800,10,175000,Nequi,33,masculino,Estándar,,,no
+T10003,21/06/2025,cali,VIRTUAL,Online,Ropa,5,51600,15%,219300,Efectivo,34,F,Básico,3,1,no
+T10684,2025-12-17,barranquilla,VIRTUAL,Web,Belleza,2,$55.100,20,88200,Nequi,19,f,Estándar,1,20,No
+T10642,Dec 08 2025,barranquilla,VIRTUAL,web,Hogar,1,$165.500,10%,149000,Tarjeta crédito,35,femenino,Básico,2,13,SI
+T10429,2025-09-15,Medellin,VIRTUAL,Web,calzado,2,$184.000,15%,312800,PSE,,F,Estándar,4,3,NO
+T11026,2025-04-23,bogota,BOG-02,tienda,Tecnología,2,$635.800,0.1,1144400,Nequi,62,f,Estándar,4,,no
+T11097,20/08/2025,CALI,VIRTUAL,Web,Ropa,4,$98.500,20%,315200000,Tarjeta crédito,36,f,,4,2,No
+T10445,2025-03-19,medellin,VIRTUAL,online,Ropa,2,$59.800,0%,119600,Tarjeta crédito,35,Femenino,Básico,1,20,NO
+T10041,2025-10-01,Medellín,MED-01,tienda,Tecnología,1,931000,0.15,791400,Débito,27,femenino,Premium,4,,0
+T10222,28/01/2025,Medellin,MED-01,TIENDA,Ropa,3,72000,15,183600,Débito,40,masculino,Básico,5,,No
+T11136,2025-03-16,Bogotá,VIRTUAL,web,Ropa,3,111700,30,234600,Nequi,36,No responde,Básico,3,7,0
+T11120,26/08/2025,cali,VIRTUAL,APP móvil,Belleza,-2,$75.670,0.0,151300,Débito,31,Femenino,Básico,2,5,NO
+T10884,2025-08-20,Bogota,BOG-02,Tienda física,Calzado,4,$190.600,15%,648000,PSE,49,Femenino,Básico,4,,NO
+T10113,17/03/2025,bogota,VIRTUAL,app,Tecnología,3,1109750,5%,,Efectivo,26,masculino,Estándar,2,7,1
+T10048,2025-01-18,Santiago de Cali,CAL-01,tienda,Hogar,1,84100,0%,84100,Tarjeta crédito,N/A,Femenino,Básico,5,,0
+T10289,2025-10-16,cali,CAL-01,Tienda,Ropa,3,93300,15%,237900,Tarjeta crédito,39,femenino,Estándar,5,,0
+T10076,Apr 02 2025,cartagena,CAR-01,TIENDA,Ropa,1,$118.700,0.1,106800,Efectivo,21,Mujer,Estándar,4,,no
+T10206,2025-10-30,MEDELLIN,VIRTUAL,Online,Deportes,1,$96.500,0.1,86800,PSE,26,f,Estándar,3,2,0
+T10816,2025-01-17,BOGOTA,BOG-02,Tienda física,ropa,2,67100,10,120800,Efectivo,25,Masculino,Básico,5,,no
+T10123,2025-01-27,Barranquilla,VIRTUAL,web,Hogar,2,$120.300,0.0,240600,Débito,28,Femenino,Estándar,4,4,no
+T11065,2025-11-20,MEDELLIN,MED-01,TIENDA,belleza,1,62700,0,62700,Tarjeta crédito,30,Femenino,Básico,,,0
+T10386,2025-02-09,bogota,VIRTUAL,APP móvil,Calzado,4,222525,0.2,712100,Efectivo,28,Masculino,Básico,5,1,No
+T10225,11/02/2025,BOGOTA,BOG-01,TIENDA,Ropa,2,$56.500,5%,107400,Tarjeta crédito,28,M,Estándar,4,,0
+T10936,17/04/2025,Santiago de Cali,CAL-02,Tienda,Belleza,1,56900,5%,54100,Tarjeta crédito,36,M,Básico,5,,0
+T10632,21/01/2025,Cali,VIRTUAL,Online,Ropa,2,59600,0%,119200,Efectivo,50,F,Estándar,3,1,NO
+T10704,17/05/2025,barranquilla,VIRTUAL,Online,Ropa,2,57800,0.1,104000,Débito,57,Masculino,Básico,1,17,1
+T10221,2025-07-22,cartagena,VIRTUAL,online,Deportes,1,84500,0,84500,Tarjeta crédito,25,femenino,Básico,4,9,0
+T10683,04/12/2025,BOGOTA,BOG-01,tienda,Ropa,4,77500,0%,310000,Efectivo,34,Masculino,Estándar,4,,Si
+T11115,2025-10-17,Cartagena de Indias,VIRTUAL,Online,Hogar,4,75100,0,300400,Nequi,29,No responde,Básico,5,120,0
+T11082,10/02/2025,medellin,VIRTUAL,app,Ropa,4,138690,0.2,443800,Débito,50,Otro,Estándar,5,1,No
+T10617,22/03/2025,Cartagena de Indias,CAR-03,TIENDA,Calzado,4,136500,0%,546000,Efectivo,41,femenino,Estándar,5,,no
+T10795,2025-08-02,Santiago de Cali,VIRTUAL,app,Belleza,-3,$64.745,15,165100,Tarjeta crédito,47,Hombre,Básico,5,1,No
+T11048,Jul 29 2025,BOGOTA,VIRTUAL,Online,Ropa,3,$100.500,10%,271400,Tarjeta crédito,49,Masculino,Estándar,4,3,no
+T10779,29/01/2025,bogota,VIRTUAL,App,Belleza,7,65320,0.1,411500,PSE,45,Mujer,basico,3,7,NO
+T11164,20/02/2025,CALI,VIRTUAL,Online,Belleza,1,$44.600,0,44600,Tarjeta crédito,48,masculino,Premium,5,3,no
+T10161,01/07/2025, Cali ,CAL-01,TIENDA,Tecnología,2,$729.600,0,1459200,Tarjeta crédito,43,Masculino,Estándar,5,,NO
+T10692,08/01/2025,Cali,CAL-02,Tienda física,Belleza,2,33500,20%,53600,Débito,40,Femenino,Estándar,5,,0
+T10673,09/01/2025,MEDELLIN,VIRTUAL,App,Belleza,2,75555,20%,120900,Débito,21,femenino,Básico,,1,0
+T10408,2025-09-28,BOGOTA,BOG-02,Tienda,Calzado,4,108200,30%,303000,Tarjeta crédito,41,femenino,Básico,5,,NO
+T10629,2025-06-04,BOGOTA,VIRTUAL,web,Deportes,4,$149.500,5%,568100,PSE,47,m,Básico,5,3,NO
+T10953,11/11/2025,Medellin,MED-01,tienda,Tecnología,2,402900,0%,805800,Débito,52,Mujer,Estándar,4,,0
+T10325,2025-09-02,Santiago de Cali,CAL-02,Tienda física,Belleza,3,51800,20,124300,Efectivo,46,f,Básico,4,,No
+T10846,2025-05-24,Medellin,MED-03,Tienda,Hogar,2,149900,0,299800,Débito,,Femenino,Estándar,4,,0
+T10991,2025-11-16,BOGOTA,BOG-02,Tienda física,Belleza,3,$29.000,0.1,78300,Efectivo,43,m,Básico,4,,no
+T10671,12/08/2025,Cartagena,CAR-03,Tienda,calzado,1,211900,0.0,,PSE,48,Masculino,Estándar,4,,NO
+T11144,2025-10-01,Barranquilla,VIRTUAL,online,Calzado,1,112200,0.1,101000,Tarjeta crédito,47,f,Básico,5,4,No
+T10646,2025-09-26,BOGOTA,BOG-02,Tienda física,Belleza,3,58500,5,166700,Tarjeta crédito,48,Otro,Estándar,5,,no
+T10667,2025-11-07,barranquilla,BAR-02,tienda,Belleza,7,$67.300,20,376900,PSE,59,Hombre,Premium,5,,NO
+T10139,2025-11-04,cali,CAL-03,Tienda física,Hogar,1,$128.400,0,128400,Débito,56,F,Básico,10,,no
+T10810,2025-01-03,cali,CAL-02,tienda,Calzado,5,112500,0.1,506200,Débito,41,M,Estándar,5,,NO
+T11068,2025-12-12,cartagena,CAR-03,tienda,Deportes,1,200900,0.1,180800,PSE,50,f,Básico,5,,0
+T10572,2025-04-28,MEDELLIN,MED-03,Tienda física,Hogar,2,$150.400,0%,300800,PSE,65,m,Básico,4,,NO
+T10352,2025-03-26,Medellín,VIRTUAL,web,Belleza,4,38900,0,155600,Tarjeta crédito,50,f,Premium,3,2,no
+T11135,23/02/2025,BOGOTA,VIRTUAL,Web,Belleza,4,57000,0%,,Débito,32,Hombre,Estándar,3,3,Si
+T10165,18/06/2025, Cali ,VIRTUAL,online,Belleza,1,$33.100,0%,33100,Débito,38,otro,Básico,4,6,No
+T10214,2025-09-17,MEDELLIN,VIRTUAL,Web,Belleza,3,$34.600,0.2,83000,PSE,37,F,Básico,4,3,NO
+T10768,2025-07-08,cartagena,VIRTUAL,web,Deportes,2,144400,0,288800000,PSE,35,f,Premium,3,5,1
+T10297,2025-01-31,bogota,VIRTUAL,Web,Deportes,2,85500,0,171000,PSE,34,M,Básico,,4,NO
+T10394,2025-04-02,Cali,CAL-01,TIENDA,Belleza,4,31300,5%,118900,Tarjeta crédito,999,m,Premium,4,,NO
+T10131,2025-05-30,cali,CAL-01,Tienda física,Ropa,1,72000,0,72000,PSE,30,femenino,estandar,5,,no
+T10314,22/02/2025,Cali,CAL-02,tienda,Deportes,4,118600,30%,332100,Tarjeta crédito,42,Mujer,Estándar,5,,NO
+T10138,2025-04-26,Cali,CAL-03,Tienda física,Belleza,4,$45.100,30,126300,Nequi,35,f,Estándar,,,Si
+T10925,2025-06-30, Cali ,CAL-01,Tienda,Hogar,2,145100,0,290200,Tarjeta crédito,43,femenino,Básico,5,,0
+T10341,27/06/2025,Medellín,MED-02,Tienda,Deportes,7,159000,30,779100,Tarjeta crédito,23,Mujer,Básico,4,,no
+T10416,2025-12-21,Barranquilla,VIRTUAL,Web,Deportes,1,$85.300,10%,76800,Nequi,50,Femenino,Estándar,4,4,0
+T10581,2025-07-01,Bogota,BOG-01,tienda,Belleza,5,$48.900,5%,232300,Nequi,19,m,Básico,4,,No
+T10038,2025-08-18,bogota,BOG-01,tienda,Calzado,2,121600,0%,243200000,Nequi,38,Femenino,Premium,5,,0
+T10249,31/12/2025,cali,CAL-02,Tienda física,Belleza,4,$51.900,20%,166100,PSE,43,M,Básico,5,,NO
+T10740,22/09/2025,Medellin,MED-03,TIENDA,Ropa,7,93900,0.3,460100,Tarjeta crédito,45,No responde,Estándar,4,,No
+T10053,2025-08-09,Bogota,BOG-03,Tienda,Ropa,4,52500,0%,210000,Nequi,40,Hombre,Básico,4,,0
+T10706,07/01/2025,bogota,BOG-01,tienda,Hogar,2,$148.000,0.1,266400,Débito,48,No responde,Básico,5,,NO
+T10136,2025-07-18,medellin,VIRTUAL,App,Hogar,2,203205,10%,365800,Tarjeta crédito,19,f,Estándar,3,1,0
+T11033,11/11/2025,cali,CAL-03,tienda,Belleza,3,33900,0%,101700,Efectivo,40,Mujer,Estándar,4,,No
+T10990,2025-01-05,cartagena,VIRTUAL,Online,Calzado,5,$228.100,20%,912400,Efectivo,46,Mujer,Estándar,3,6,0
+T10035,Dec 30 2025,CALI,VIRTUAL,APP móvil,Deportes,3,$218.155,30,458100,Tarjeta crédito,54,M,Estándar,3,120,No
+T11140,2025-07-25,BOGOTA,BOG-03,TIENDA,ropa,3,$98.600,15%,251400,Efectivo,52,Masculino,Estándar,0,,SI
+T10657,29/01/2025,bogota,BOG-02,TIENDA,Calzado,4,121300,0.2,388200,Débito,39,m,Premium,5,,no
+T10378,2025-06-19,Medellín,MED-02,Tienda,belleza,2,48000,0,96000,Débito,24,Mujer,premium,5,,0
+T10949,13/08/2025,Barranquilla,BAR-03,Tienda,Ropa,2,$98.500,5,187200,Tarjeta crédito,44,Masculino,Estándar,5,,NO
+T10578,2025-09-24,Cali,CAL-02,tienda,Deportes,3,$109.200,0.05,311200,Nequi,46,f,,4,,No
+T10837,12/12/2025,B/quilla,VIRTUAL,APP móvil,Hogar,5,176065,0.15,748300,PSE,39,f,Estándar,4,7,NO
+T10135,2025-02-07,CALI,VIRTUAL,App movil,Ropa,6,$142.370,0.0,854200,Tarjeta crédito,18,masculino,Premium,3,7,SI
+T10827,2025-03-13,Bogotá,BOG-02,Tienda,Belleza,4,$43.400,0.15,147600,Nequi,30,femenino,Básico,4,,NO
+T10052,2025-12-20,Barranquilla,BAR-03,tienda,Deportes,2,$208.100,0.0,416200,Débito,45,M,Estándar,5,,no
+T10377,11/12/2025,cali,VIRTUAL,web,Belleza,1,$64.700,5,61500,Nequi,42,F,Básico,2,10,Sí
+T10210,2025-09-03,Santiago de Cali,VIRTUAL,Web,Calzado,6,160400,0.1,866200,Débito,62,M,Premium,4,4,no
+T11093,sin fecha,Bogota,VIRTUAL,app,Belleza,3,53360,0%,160100,Tarjeta crédito,18,f,Básico,4,2,NO
+T10302,24/03/2025,Cali,VIRTUAL,online,Ropa,2,90900,0%,181800,PSE,18,Hombre,Premium,5,2,NO
+T11153,2025-06-07,Cartagena de Indias,VIRTUAL,web,Deportes,4,187000,0.1,673200,PSE,29,Femenino,Premium,3,7,no
+T10246,09/08/2025,Cartagena,VIRTUAL,online,Hogar,6,169700,0,1018200,Tarjeta crédito,38,Mujer,Estándar,4,3,NO
+T10683,04/12/2025,BOGOTA,BOG-01,tienda,Ropa,4,77500,0%,310000,Efectivo,34,Masculino,Estándar,4,,Si
+T10425,2025-01-01,cali,CAL-03,Tienda,Tecnología,1,544100,0.0,544100,Efectivo,48,Femenino,Estándar,4,,no
+T10869,2025-01-22,Medellín,VIRTUAL,App movil,Deportes,6,126155,0.15,643400,Nequi,38,Hombre,Básico,4,5,no
+T10028,2025-01-20,MEDELLIN,VIRTUAL,APP móvil,Ropa,3,82455,10%,222600,Tarjeta crédito,26,femenino,Estándar,4,3,1
+T10914,Jul 22 2025,Cartagena de Indias,VIRTUAL,app,Ropa,500,$125.695,0%,251400,Tarjeta crédito,58,,basico,4,2,No
+T10956,2025-05-09,medellin,MED-03,TIENDA,Belleza,2,36900,5,70100,Tarjeta crédito,56,f,Básico,4,,0
+T10244,2025-12-24,Cali,VIRTUAL,App,Hogar,3,141565,0.0,424700,Débito,28,femenino,Básico,5,1,NO
+T10103,2025-06-27,barranquilla,BAR-03,tienda,Ropa,6,100600,15%,513100,Tarjeta crédito,56,masculino,Premium,4,,NO
+T10276,03/01/2025,Cartagena,CAR-02,TIENDA,Ropa,2,52100,0.0,104200,Nequi,26,M,Básico,4,,no
+T10393,2025-06-02,medellin,VIRTUAL,App,calzado,4,$195.845,0.2,626700,Débito,56,Femenino,Estándar,4,4,SI
+T10110,18/08/2025,CALI,CAL-01,tienda,Ropa,3,81800,0.15,,Débito,46,F,Básico,4,,no
+T10819,2025-08-14,cali,VIRTUAL,Web,Calzado,4,$101.600,0,406400,Tarjeta crédito,45,Mujer,Estándar,3,2,0
+T10159,2025-09-16,cartagena,VIRTUAL,Online,Hogar,2,119100,0%,238200,PSE,49,masculino,Estándar,4,2,0
+T10747,23/01/2025,Bogotá,VIRTUAL,online,Ropa,2,$107.900,0.1,194200,Efectivo,25,f,Básico,3,7,no
+T10794,2025-12-04,barranquilla,BAR-03,tienda,Calzado,4,113700,0.0,454800,PSE,58,Femenino,Premium,5,,NO
+T10112,18/03/2025, Cali ,VIRTUAL,Online,deportes,1,149400,0.15,127000,Débito,36,Masculino,Básico,4,1,0
+T11191,2025-12-12,Bogotá,VIRTUAL,Web,Calzado,2,$186.400,0.0,372800,Tarjeta crédito,37,No responde,Estándar,4,5,Sí
+T10660,16/08/2025,bogota,VIRTUAL,Online,Hogar,3,87100,0.0,261300,Tarjeta crédito,55,m,Estándar,3,2,NO
+T10834,2025-02-20,Bogotá,BOG-03,Tienda,Calzado,2,183700,0%,,PSE,22,m,Básico,4,,0
+T10806,2025-02-15,Bogota,BOG-01,Tienda,Deportes,3,190000,0.0,570000,Débito,36,M,Premium,4,,NO
+T10329,May 13 2025,bogota,BOG-03,tienda,Calzado,3,178000,0%,534000,Efectivo,37,F,,4,,No
+T10262,2025-01-29,Bogotá,BOG-02,Tienda física,Ropa,1,64600,0.0,64600,Efectivo,41,m,Básico,5,,0
+T10735,02/08/2025,MEDELLIN,MED-01,tienda,Ropa,4,97500,0%,390000,Tarjeta crédito,54,masculino,Premium,5,,NO
+T10775,2025-02-05,medellin,VIRTUAL,online,Ropa,4,57000,5%,216600,Nequi,58,F,Estándar,4,4,0
+T10133,2025-10-21,Medellin,VIRTUAL,Online,Tecnología,3,679000,0%,2037000,Tarjeta crédito,53,Femenino,Premium,3,2,0
+T10637,2025-06-13,Santiago de Cali,CAL-03,Tienda,Belleza,4,67200,0.15,228500,Tarjeta crédito,34,F,Premium,5,,no
+T10685,2025-10-18,BOGOTA,VIRTUAL,app,Ropa,2,136965,0%,273900,Tarjeta crédito,19,f,Estándar,4,8,Sí
+T10962,30/11/2025,Bogotá D.C.,VIRTUAL,App,Calzado,2,237705,0.0,475400,PSE,25,Hombre,Estándar,4,1,NO
+T10167,28/12/2025,Barranquilla,VIRTUAL,app,Ropa,4,$84.870,0.0,339500,Tarjeta crédito,43,Mujer,Estándar,,11,SI
+T11133,02/12/2025,BOGOTA,BOG-03,Tienda física,Ropa,2,109600,0.1,197300,Efectivo,,m,Básico,5,,NO
+T11053,15/02/2025,Medellin,VIRTUAL,Online,Deportes,1,$97.800,0%,97800,Nequi,34,Femenino,Básico,5,5,No
+T10154,2025-11-21,bogota,VIRTUAL,web,Ropa,2,$118.000,0.0,236000,Nequi,,Femenino,Premium,5,1,0
+T10050,29/09/2025,Santiago de Cali,CAL-01,Tienda física,Belleza,3,$64.700,0.0,,Efectivo,44,femenino,Básico,5,,1
+T10024,2025-02-21,bogota,VIRTUAL,App movil,Belleza,2,77050,10,138700,Débito,63,Hombre,Estándar,4,1,1
+T11145,2025-02-16,Cali,VIRTUAL,Online,Calzado,7,$186.800,20%,1046100,Efectivo,62,femenino,Premium,4,2,Sí
+T10443,29/08/2025,Bogotá,BOG-02,Tienda física,Tecnología,3,854000,0%,2562000,Débito,50,Femenino,Estándar,4,,no
+T10755,2025-08-27,Medellin,VIRTUAL,Online,Calzado,5,$209.100,10,941000,Efectivo,32,m,Básico,4,2,NO
+T10736,2025-08-03,Bogota,VIRTUAL,Online,Belleza,3,$52.800,0,158400,Tarjeta crédito,22,Hombre,Estándar,4,2,no
+T10150,21/07/2025,Bogotá D.C.,BOG-02,tienda,Calzado,5,214600,0.0,1073000,PSE,-5,femenino,Estándar,5,,no
+T10553,05/12/2025,Bogotá D.C.,BOG-01,Tienda física,Deportes,1,197100,0,197100,Débito,43,m,Estándar,4,,0
+T10094,Feb 19 2025,CALI,VIRTUAL,Web,calzado,2,$162.500,5%,308800,Efectivo,46,f,Estándar,4,1,No
+T11096,05/09/2025, Cali ,CAL-03,TIENDA,Hogar,2,100900,10,181600,Efectivo,60,Mujer,Premium,,,No
+T10217,21/09/2025,B/quilla,VIRTUAL,Web,Belleza,1,61800,0,61800,Tarjeta crédito,19,Mujer,Estándar,2,9,1
+T10645,2025-10-11,Medellin,VIRTUAL,Web,Ropa,4,97900,0.1,352400,Tarjeta crédito,42,f,Básico,4,3,No
+T10381,2025-04-29,Medellin,VIRTUAL,App movil,Calzado,2,176640,0.15,300300,Efectivo,30,Mujer,Básico,2,9,SI
+T10023,2025-06-20,Medellin,VIRTUAL,Web,Calzado,2,$205.800,0.0,411600,Nequi,44,No responde,Premium,3,7,no
+T10780,2025-01-02, Cali ,CAL-01,tienda,Ropa,2,$104.000,0%,208000,PSE,37,m,Básico,5,,no
+T10292,29/09/2025,Medellin,MED-03,Tienda,Tecnología,2,409200,10%,,Débito,,f,Básico,5,,NO
+T10712,20/06/2025,barranquilla,BAR-03,tienda,Ropa,3,$83.400,0.1,225200,Nequi,28,m,Estándar,4,,No
+T10173,2025-10-25,Cartagena,VIRTUAL,App,Hogar,2,109135,15,185500,Débito,32,masculino,Estándar,3,8,NO
+T10100,2025-04-06,CALI,CAL-03,Tienda,Tecnología,6,756200,0%,4537200,Efectivo,70,Mujer,Premium,5,,no
+T10025,18/05/2025,Bogota,VIRTUAL,App movil,Calzado,3,183655,0%,551000,Débito,18,m,Estándar,4,2,no
+T10603,2025-01-15,CALI,CAL-03,Tienda,Hogar,6,$158.700,5,904600,Tarjeta crédito,37,Femenino,Básico,5,,0
+T10339,Mar 22 2025,Santiago de Cali,VIRTUAL,Online,Ropa,3,86600,0,259800,Tarjeta crédito,999,M,Básico,4,2,0
+T10783,2025-09-12,Cali,CAL-02,Tienda,Hogar,2,$128.000,20%,204800,Débito,54,Mujer,Básico,4,,no
+T10857,2025-08-25,cali,CAL-02,tienda,Belleza,3,67400,5%,192100,Efectivo,30,masculino,Premium,5,,No
+T10933,13/10/2025,Bogotá,VIRTUAL,web,Tecnología,2,706700,0,1413400,Tarjeta crédito,59,femenino,Premium,5,1,Si
+T10489,2025-10-23,cartagena,CAR-03,Tienda física,Deportes,5,$189.700,15,806200,PSE,39,f,Premium,5,,NO
+T11148,Sep 07 2025,Bogotá,BOG-02,Tienda,Deportes,3,168100,0.0,504300,Tarjeta crédito,41,Hombre,Básico,4,,no
+T10734,2025-07-06, Cali ,CAL-03,tienda,Deportes,4,$131.700,0,526800,Débito,44,m,Básico,4,,NO
+T10941,2025-07-21,Cali,VIRTUAL,app,Deportes,1,205505,0%,205500,Efectivo,39,m,Básico,3,4,NO
+T10700,2025-04-14,Bogotá,BOG-01,tienda,Deportes,3,194800,0%,584400,Débito,49,Masculino,Básico,4,,SI
+T10354,07/03/2025,Bogota,BOG-01,TIENDA,Deportes,-4,$106.100,0%,424400,Tarjeta crédito,41,f,Premium,4,,no
+T10853,2025-02-26,Cartagena,CAR-01,TIENDA,Hogar,5,139100,0.3,486800,Débito,33,F,Básico,4,,Sí
+T10750,2025-03-30,medellin,VIRTUAL,online,Deportes,4,170500,10,613800,Efectivo,18,masculino,Básico,4,2,No
+T10951,2025-04-11,Bogotá D.C.,VIRTUAL,App,Calzado,2,250010,0,500000,Efectivo,31,Hombre,Básico,5,3,no
+T10588,2025-05-05,MEDELLIN,MED-02,tienda,Tecnología,3,$723.000,0,2169000,Débito,32,f,Estándar,4,,0
+T10242,01/06/2025,barranquilla,VIRTUAL,Web,Belleza,1,$43.800,10%,39400,Tarjeta crédito,36,Masculino,Básico,4,3,0
+T10168,2025-11-02,cartagena,CAR-02,tienda,Ropa,1,119900,10%,,Efectivo,30,m,Estándar,4,,no
+T10073,2025-12-14,bogota,VIRTUAL,APP móvil,Tecnología,4,$1.078.125,0.2,3450000,Tarjeta crédito,29,Femenino,Básico,3,2,0
+T10559,2025-03-24,BOGOTA,BOG-02,Tienda,Belleza,0,$34.000,5%,64600,Nequi,54,femenino,Premium,,,NO
+T11066,10/12/2025,B/quilla,VIRTUAL,online,Hogar,1,$83.900,0%,83900,Tarjeta crédito,28,Hombre,Básico,4,5,Sí
+T10335,2025-04-11,medellin,VIRTUAL,APP móvil,Ropa,2,142140,5%,,Nequi,36,femenino,Básico,4,3,0
+T10118,2025-08-07,MEDELLIN,MED-01,tienda,Deportes,4,194300,0,777200,Efectivo,42,masculino,Básico,3,,0
+T10782,10/04/2025,Medellín,MED-02,tienda,Calzado,1,170400,10,153400,Débito,29,M,Básico,4,,No
+T10114,2025-07-16,Bogota,BOG-01,tienda,Belleza,2,37800,0.0,75600,Débito,38,femenino,estandar,,,0
+T10520,2025-04-04,Cali,CAL-03,Tienda,Calzado,2,$234.500,0.05,445600,Tarjeta crédito,40,Hombre,Básico,4,,No
+T10927,2025-04-20,Bogotá D.C.,VIRTUAL,App,Hogar,6,203205,30%,853500,PSE,43,Femenino,Básico,3,6,0
+T10005,12/01/2025,Medellín,MED-03,tienda,Belleza,3,$27.900,0.0,83700,Tarjeta crédito,38,Mujer,Básico,5,,NO
+T10475,20/02/2025,Bogota,VIRTUAL,online,Calzado,4,102300,10%,368300,Efectivo,55,f,Estándar,4,3,0
+T10964,2025-10-28,Bogotá,VIRTUAL,online,Ropa,2,$73.600,0%,147200000,Tarjeta crédito,37,Femenino,Premium,4,7,No
+T10863,2025-03-26,B/quilla,VIRTUAL,Web,Ropa,-4,70700,10%,254500,PSE,27,f,Básico,4,4,no
+T10069,2025-02-17,Bogotá,VIRTUAL,App,Calzado,1,$222.640,0.15,189200,Efectivo,22,masculino,Básico,5,2,NO
+T10014,2025-11-03,cartagena,CAR-01,TIENDA,Tecnología,6,472100,5,2691000,Tarjeta crédito,41,Femenino,Estándar,4,,No
+T10708,2025-09-17,cali,VIRTUAL,App,Ropa,-1,$84.985,0.0,85000,Tarjeta crédito,20,F,Básico,3,6,SI
+T10945,May 01 2025,Bogotá,BOG-03,Tienda física,Calzado,1,$195.100,0.0,195100,Tarjeta crédito,54,f,Básico,5,,NO
+T10369,2025-06-09,B/quilla,BAR-02,TIENDA,Calzado,2,221100,10,398000,Tarjeta crédito,18,No responde,Básico,5,,No
+T10078,08/12/2025,BOGOTA,VIRTUAL,Online,Belleza,4,$40.000,0.1,144000,Tarjeta crédito,46,f,Premium,4,2,1
+T11160,2025-05-19,Santiago de Cali,CAL-02,TIENDA,Ropa,1,110400,5%,104900,Tarjeta crédito,37,m,Básico,4,,No
+T10899,2025-02-11,Cali,VIRTUAL,online,Deportes,4,96100,0.3,269100,Débito,57,Masculino,Estándar,5,1,Si
+T10479,01/10/2025,cali,CAL-01,TIENDA,Deportes,4,$206.800,0.0,827200,Tarjeta crédito,53,masculino,Básico,4,,NO
+T10516,25/10/2025,bogota,BOG-01,Tienda,Belleza,2,42700,0.05,81100,Tarjeta crédito,35,masculino,Básico,4,,No
+T11124,17/12/2025,bogota,VIRTUAL,app,Belleza,3,$37.605,5%,107200,Tarjeta crédito,52,femenino,Básico,3,11,no
+T10652,Mar 12 2025,CALI,VIRTUAL,Online,Hogar,2,102200,15,173700,Nequi,35,Hombre,Estándar,4,1,No
+T10054,2025-04-07,MEDELLIN,MED-01,tienda,Hogar,7,73800,30,361600,PSE,37,Masculino,Premium,5,,NO
+T10467,08/11/2025,cali,CAL-03,Tienda,Ropa,2,91200,0.05,173300,Efectivo,42,Hombre,Estándar,4,,0
+T10266,2025-02-22,Bogotá D.C.,VIRTUAL,web,Ropa,2,105000,0,210000,Tarjeta crédito,52,f,Premium,5,1,no
+T11138,2025-09-04,B/quilla,BAR-02,Tienda,Belleza,1,$47.700,0,47700,Tarjeta crédito,22,Femenino,Básico,4,,NO
+T11092,03/08/2025,bogota,BOG-02,TIENDA,Belleza,1,63500,15%,54000,Débito,19,Otro,Básico,3,,NO
+T10583,2025-09-08,barranquilla,VIRTUAL,web,deportes,4,153500,0.15,521900,Tarjeta crédito,42,Hombre,Básico,3,6,no
+T10766,2025-03-20,CALI,VIRTUAL,web,Tecnología,3,857900,5,2445000,PSE,43,Femenino,Premium,4,5,NO
+T10514,Sep 19 2025,Barranquilla,VIRTUAL,App movil,Belleza,3,61525,0.1,166100,Tarjeta crédito,58,Mujer,Básico,2,7,0
+T10537,2025-09-23,bogota,BOG-02,tienda,Deportes,3,$173.000,0.15,441200,Tarjeta crédito,37,m,Básico,4,,No
+T11168,2025-04-13,MEDELLIN,MED-03,TIENDA,Ropa,6,64300,0.2,308600,PSE,40,F,Estándar,,,0
+T10728,2025-09-22,Santiago de Cali,CAL-02,TIENDA,Deportes,3,$166.200,0,498600,Tarjeta crédito,34,Masculino,PREMIUM,5,,NO
+T11171,Aug 31 2025,CALI,VIRTUAL,APP móvil,Hogar,2,$181.815,0.05,345400,Nequi,30,Femenino,Básico,4,6,Sí
+T10059,19/10/2025,BOGOTA,BOG-02,Tienda,tecnología,3,$629.300,0.1,,Débito,38,F,Estándar,4,,0
+T10503,25/07/2025,BOGOTA,VIRTUAL,Web,Tecnología,500,$810.400,0.0,810400,Tarjeta crédito,36,Hombre,Estándar,4,4,No
+T10889,Feb 08 2025,B/quilla,BAR-02,Tienda,Ropa,3,96100,0,288300,Tarjeta crédito,56,masculino,Estándar,5,,0
+T10166,13/03/2025,MEDELLIN,MED-02,TIENDA,Ropa,1,$70.700,0.0,70700,Efectivo,N/A,Masculino,Estándar,5,,no
+T11023,2025-04-01,BOGOTA,BOG-01,Tienda,Belleza,1,33200,0.0,33200,Tarjeta crédito,33,f,Básico,4,,no
+T10977,2025-01-19,medellin,VIRTUAL,App movil,Calzado,2,$202.630,0.0,405300,PSE,32,No responde,Estándar,3,4,No
+T10331,2025-04-23,cartagena,CAR-02,tienda,Ropa,3,$87.700,0.15,223600,Nequi,30,F,Básico,4,,no
+T11174,2025-02-08,MEDELLIN,VIRTUAL,APP móvil,Ropa,3,$60.145,5%,,Débito,28,Femenino,Premium,4,4,NO
+T10500,2025-08-02,CALI,CAL-01,tienda,Calzado,4,$148.500,10%,534600,Débito,55,Masculino,Estándar,5,,0
+T10247,2025-07-03,barranquilla,BAR-01,tienda,Belleza,5,58000,15%,246500,Débito,56,Hombre,Básico,5,,NO
+T10373,2025-03-10,Bogota,VIRTUAL,App movil,Hogar,2,133975,0.0,268000,Tarjeta crédito,44,m,Básico,4,1,0
+T10928,2025-02-19,Cartagena,CAR-03,Tienda física,Deportes,2,$163.600,0%,327200,Débito,43,femenino,Básico,5,,0
+T10472,2025-06-19,Cartagena de Indias,VIRTUAL,web,Deportes,1,156400,10,140800,Efectivo,49,,Estándar,1,14,NO
+T10499,Oct 15 2025,Cali,CAL-03,tienda,Hogar,1,$143.200,0%,,Tarjeta crédito,48,F,Básico,5,,0
+T11028,28/08/2025,bogota,BOG-02,Tienda,Calzado,1,109700,0.2,87800,Tarjeta crédito,36,Mujer,Básico,4,,No
+T10189,2025-02-19,BOGOTA,BOG-03,TIENDA,Hogar,2,134100,0,268200,Efectivo,35,F,Estándar,4,,no
+T10636,30/09/2025,Santiago de Cali,CAL-03,Tienda,Ropa,4,77900,0,311600,Débito,28,Masculino,Premium,5,,no
+T10616,Dec 11 2025,Bogotá,BOG-02,Tienda,Calzado,3,$220.900,10,,Nequi,29,femenino,Estándar,4,,NO
+T10563,11/08/2025,Cali,CAL-03,Tienda,Calzado,2,$183.100,10%,329600,Débito,33,F,Básico,4,,No
+T10135,2025-02-07,CALI,VIRTUAL,App movil,Ropa,6,$142.370,0.0,854200,Tarjeta crédito,18,masculino,Premium,3,7,SI
+T10307,2025-10-31,Cartagena,CAR-03,TIENDA,Hogar,1,124900,10,112400,Débito,,otro,Básico,5,,NO
+T10560,24/03/2025,Barranquilla,BAR-01,TIENDA,Hogar,4,93500,0,,PSE,36,masculino,Estándar,4,,0
+T10883,2025-01-18,cartagena,CAR-02,Tienda,Belleza,1,$28.400,0.0,28400,Efectivo,20,Masculino,Estándar,4,,NO
+T10720,2025-08-10,Santiago de Cali,CAL-02,TIENDA,Hogar,1,122900,0%,122900,Débito,32,F,Básico,4,,NO
+T10566,2025-03-23,bogota,BOG-03,Tienda,Belleza,5,43200,0.2,172800,Tarjeta crédito,60,f,,5,,No
+T10501,13/10/2025,B/quilla,BAR-03,tienda,Belleza,4,48700,5%,185100,Tarjeta crédito,27,M,Estándar,5,,NO
+T10627,2025-12-01,Bogotá D.C.,VIRTUAL,Online,Belleza,2,32100,15,54600,Nequi,32,f,Estándar,3,9,Sí
+T10234,2025-04-19,Bogota,BOG-03,tienda,Deportes,4,120100,0.2,384300,Débito,33,Hombre,Estándar,5,,no
+T10626,2025-07-21,Cartagena de Indias,CAR-03,tienda,Belleza,3,46400,0.15,118300,Débito,56,masculino,Premium,4,,0
+T11043,2025-07-24,Cartagena de Indias,CAR-03,Tienda,Deportes,4,$111.000,10%,399600,Débito,44,femenino,Premium,3,,no
+T10430,29/06/2025,Cartagena de Indias,VIRTUAL,Online,Hogar,2,$87.900,10%,158200,PSE,32,Masculino,Estándar,3,6,NO
+T11128,08/05/2025,Medellin,VIRTUAL,APP móvil,Ropa,3,$89.355,30%,187600,Débito,51,Femenino,estandar,3,8,0
+T11059,Nov 24 2025,cartagena,CAR-03,tienda,Calzado,3,135500,0%,406500,Débito,37,Femenino,Premium,5,,0
+T10191,22/09/2025, Cali ,VIRTUAL,App movil,Hogar,4,$187.220,30,524200,Débito,37,femenino,Estándar,4,120,SI
+T10905,2025-02-05,BOGOTA,BOG-01,Tienda,Deportes,3,$109.000,10%,294300,Débito,49,Masculino,Premium,4,,No
+T10151,2025-05-31, Cali ,VIRTUAL,App movil,Ropa,3,122130,0%,366400,Tarjeta crédito,39,Mujer,Estándar,3,6,NO
+T10691,2025-04-13,Bogotá D.C.,BOG-01,Tienda física,Calzado,2,$199.800,0.1,359600,Efectivo,43,femenino,Estándar,5,,no
+T10435,Aug 26 2025,CALI,VIRTUAL,App movil,Ropa,2,$99.245,0%,198500,Efectivo,34,masculino,Básico,4,6,NO
+T10836,2025-09-15,Bogotá,BOG-03,Tienda física,Belleza,3,67400,15,171900,Tarjeta crédito,22,Mujer,Básico,,,No
+T11007,23/12/2025,bogota,BOG-02,TIENDA,Tecnología,4,964400,10,3471800,PSE,22,Femenino,Estándar,5,,0
+T10666,2025-01-18,Bogotá,VIRTUAL,Web,Ropa,4,112300,0.0,449200,Tarjeta crédito,29,Masculino,Estándar,4,2,no
+T10256,30/08/2025,bogota,VIRTUAL,Online,Ropa,8,102300,5%,777500,Efectivo,45,M,Básico,,2,NO
+T11146,31/01/2025,Cali,CAL-01,Tienda,Ropa,2,126000,0.15,214200,Tarjeta crédito,50,femenino,Estándar,5,,No
+T10278,24/12/2025,Bogota,BOG-01,Tienda,Belleza,8,39800,0.2,254700,Débito,39,m,Básico,4,,No
+T10986,2025-07-16,MEDELLIN,VIRTUAL,online,Calzado,3,134400,0.3,282200,Nequi,50,M,Premium,4,1,NO
+T10184,2025-05-23,Barranquilla,VIRTUAL,app,Ropa,2,$112.700,5%,214100,Efectivo,30,No responde,Estándar,4,8,NO
+T10687,17/10/2025,Cartagena de Indias,CAR-03,Tienda física,Belleza,2,$39.500,0.0,79000,Tarjeta crédito,36,masculino,Estándar,4,,No
+T10541,2025-12-22,Barranquilla,BAR-01,tienda,Deportes,3,95400,10%,257600,PSE,18,Hombre,Estándar,3,,0
+T10638,Aug 22 2025,Medellin,VIRTUAL,online,calzado,2,182000,20%,291200,Tarjeta crédito,50,masculino,Básico,,5,No
+T10569,10/08/2025,Cartagena,CAR-02,Tienda,Ropa,3,63500,0.2,152400,PSE,36,Hombre,Estándar,5,,NO
+T10582,2025-12-14,CALI,VIRTUAL,online,Deportes,2,147000,10%,264600,Débito,23,masculino,Estándar,5,1,No
+T10383,2025-04-02,Bogotá D.C.,VIRTUAL,App movil,Belleza,1,59340,0%,,Nequi,26,M,Básico,,6,No
+T10145,2025-04-07,Bogotá,BOG-02,TIENDA,Ropa,0,$61.000,15,311100,Tarjeta crédito,41,F,Estándar,4,,no
+T10336,2025-12-02,CALI,CAL-01,Tienda física,Ropa,3,84200,0%,252600,Tarjeta crédito,47,Mujer,Básico,4,,No
+T11167,09/04/2025,Barranquilla,BAR-03,TIENDA,Deportes,6,112100,30%,470800,Nequi,58,M,Estándar,5,,no
+T10533,2025-06-05,Cali,CAL-02,tienda,Deportes,2,$98.900,0%,197800,Tarjeta crédito,,Femenino,Básico,4,,no
+T10215,24/08/2025,CALI,CAL-02,TIENDA,calzado,1,161400,0%,161400,Débito,28,No responde,Básico,4,,No
+T11077,2025-07-06,Bogotá,BOG-02,tienda,Tecnología,2,580100,0.1,1044200,Débito,39,masculino,Estándar,,,no
+T10211,2025-10-07,Santiago de Cali,CAL-03,Tienda,Tecnología,3,533000,20,1279200,Tarjeta crédito,24,Hombre,Básico,5,,SI
+T10798,2025-09-16,BOGOTA,VIRTUAL,online,Belleza,0,63500,15%,108000,Efectivo,56,masculino,Premium,4,5,No
+T10980,11/02/2025,Cali,CAL-03,TIENDA,Calzado,3,201800,0%,605400,Nequi,52,femenino,Premium,4,,SI
+T10742,2025-12-04,Bogotá,VIRTUAL,Online,Calzado,0,100000,15,510000,PSE,38,f,Premium,4,5,0
+T10196,2025-08-12,MEDELLIN,VIRTUAL,web,Calzado,500,209300,5,397700,Nequi,30,m,Básico,3,7,no
+T11159,Nov 16 2025,MEDELLIN,MED-01,Tienda,Belleza,4,$46.700,5%,177500,Tarjeta crédito,41,femenino,Premium,5,,No
+T10778,2025-09-05,Bogota,BOG-02,tienda,Tecnología,4,$894.700,0.0,3578800,Débito,54,f,Estándar,5,,no
+T10495,sin fecha,Medellin,MED-03,Tienda física,Hogar,3,126400,0.05,360200,PSE,38,No responde,Básico,4,,NO
+T10591,26/03/2025,Bogotá,VIRTUAL,Web,Belleza,6,57100,10,308300,Efectivo,47,Masculino,Estándar,,2,No
+T10017,2025-02-22, Cali ,VIRTUAL,online,Belleza,0,39900,5%,,Efectivo,36,Mujer,Básico,2,9,no
+T10713,27/09/2025,Bogotá D.C.,BOG-03,Tienda física,Belleza,5,$28.100,5,133500,Tarjeta crédito,39,Otro,Básico,4,,NO
+T10380,2025-11-02,MEDELLIN,MED-02,Tienda física,Belleza,3,61800,0%,,PSE,37,Femenino,Básico,4,,NO
+T10027,Jan 11 2025,barranquilla,BAR-01,Tienda física,Belleza,2,$58.300,0.1,104900,Tarjeta crédito,37,Femenino,Premium,5,,0
+T10277,2025-03-28,Cali,VIRTUAL,online,ropa,2,62700,0%,125400,Débito,42,Masculino,Estándar,4,2,NO
+T10789,13/01/2025,cali,CAL-03,Tienda,Ropa,3,53000,0.15,135200,Efectivo,29,m,Básico,3,,Si
+T10631,2025-07-27,MEDELLIN,MED-03,TIENDA,Tecnología,3,796800,5,2270900,Tarjeta crédito,30,M,Básico,4,,0
+T10395,2025-07-19,Santiago de Cali,CAL-02,Tienda,Belleza,2,$43.800,20%,70100,Tarjeta crédito,,masculino,Estándar,5,,0
+T10866,06/12/2025,Bogotá D.C.,VIRTUAL,Online,Hogar,3,80900,0%,242700,Tarjeta crédito,60,m,Premium,3,8,No
+T10228,2025-01-31,Cartagena de Indias,CAR-02,Tienda física,Calzado,1,102800,0,102800,Nequi,62,Mujer,Premium,5,,No
+T10862,23/12/2025,medellin,VIRTUAL,App movil,Hogar,1,109940,10%,98900,Tarjeta crédito,27,masculino,Básico,4,1,0
+T10320,2025-12-17,Bogotá,BOG-01,Tienda,Calzado,0,$145.000,10%,261000,Tarjeta crédito,21,F,Estándar,5,,0
+T10681,21/07/2025,Cali,CAL-03,tienda,Belleza,1,48000,5%,45600,Débito,37,femenino,Estándar,4,,Sí
+T10147,2025-01-15,BOGOTA,BOG-01,Tienda física,Ropa,5,66500,0.15,282600,Tarjeta crédito,43,Hombre,Básico,5,,0
+T10797,2025-11-06,Bogotá,BOG-01,TIENDA,Deportes,3,$158.700,0.15,404700,Tarjeta crédito,35,f,Estándar,4,,no
+T10726,sin fecha,cartagena,VIRTUAL,App movil,Calzado,1,$238.165,0.0,238200,Efectivo,29,M,Estándar,2,7,1
+T10623,Aug 23 2025,BOGOTA,VIRTUAL,web,Deportes,5,206800,15%,878900,PSE,58,,Básico,3,5,0
+T10238,25/02/2025,bogota,VIRTUAL,app,Ropa,-1,$87.630,0,87600,Débito,18,femenino,Básico,3,1,NO
+T10494,2025-11-28,Bogotá D.C.,VIRTUAL,web,Deportes,3,$177.800,0.2,426700,Débito,24,f,Estándar,4,4,NO
+T10910,2025-09-24,CALI,VIRTUAL,online,Calzado,4,147000,0%,588000,Tarjeta crédito,43,m,Premium,4,3,0
+T10930,03/04/2025,MEDELLIN,VIRTUAL,online,Ropa,4,96300,5,365900,Tarjeta crédito,44,f,Básico,3,4,No
+T10598,20/04/2025,medellin,MED-03,Tienda,Hogar,3,$174.500,30,366400,Débito,49,Mujer,Estándar,4,,No
+T10895,2025-08-02,BOGOTA,BOG-01,TIENDA,Belleza,5,$30.200,0.1,135900,Tarjeta crédito,38,F,Básico,3,,No
+T10449,10/08/2025,Barranquilla,VIRTUAL,Online,Deportes,1,$116.100,10,104500,Efectivo,74,Mujer,Premium,4,4,NO
+T11081,2025-05-02,bogota,BOG-02,Tienda,Belleza,4,38400,20,122900,Tarjeta crédito,42,Femenino,Básico,4,,0
+T11040,29/11/2025,Bogotá,VIRTUAL,APP móvil,Ropa,2,$138.920,0.0,277800,Efectivo,,F,Básico,5,2,NO
+T10106,04/06/2025,cali,VIRTUAL,web,Belleza,4,$58.700,10,211300,Débito,52,f,Básico,3,3,NO
+T10350,2025-05-18,MEDELLIN,MED-03,tienda,Calzado,3,145500,5%,414700,Débito,,f,Estándar,3,,NO
+T10523,2025-11-30,Medellín,VIRTUAL,app,Ropa,2,$59.455,30%,83200,Tarjeta crédito,42,femenino,Básico,4,3,0
+T10650,23/11/2025,MEDELLIN,MED-02,TIENDA,Ropa,1,77200,0%,77200,Tarjeta crédito,26,Mujer,Estándar,4,,no
+T10389,2025-08-07,Barranquilla,VIRTUAL,web,Ropa,2,74900,10,134800,Tarjeta crédito,32,Masculino,Básico,4,6,no
+T10448,2025-01-23,Medellin,VIRTUAL,app,Deportes,1,240350,0.1,216300,PSE,38,No responde,Básico,3,10,0
+T10093,2025-08-05,Bogotá D.C.,BOG-03,TIENDA,Ropa,2,$115.100,0,230200,Tarjeta crédito,35,M,Estándar,4,,no
+T10259,2025-09-19, Cali ,CAL-03,tienda,Deportes,1,$208.500,0,208500,Débito,26,F,Básico,4,,NO
+T10554,01/02/2025,Barranquilla,VIRTUAL,Web,Deportes,1,129500,0,129500,Débito,39,masculino,Estándar,4,3,NO
+T10675,13/07/2025,CALI,VIRTUAL,Online,Belleza,3,34300,5%,97800,Débito,43,femenino,Premium,4,3,0
+T11169,08/10/2025,Cartagena,VIRTUAL,APP móvil,Ropa,5,71760,0.0,358800,PSE,50,Mujer,Premium,,4,0
+T10170,Mar 11 2025,bogota,VIRTUAL,Web,Belleza,3,59000,10,159300,Débito,41,M,Estándar,4,1,No
+T10254,2025-01-01,Bogota,BOG-02,Tienda,Ropa,1,$83.600,5,79400,Efectivo,48,F,Estándar,4,,no
+T10731,02/12/2025,B/quilla,BAR-01,Tienda física,Deportes,4,148800,5%,565400,Efectivo,47,Mujer,Estándar,4,,No
+T11004,2025-12-28,CALI,VIRTUAL,web,Ropa,3,110500,0%,331500,Nequi,43,Hombre,Básico,4,2,No
+T10602,2025-07-26,Bogota,BOG-02,Tienda física,Hogar,2,75800,0%,,Débito,34,m,Básico,4,,1
+T10252,15/11/2025,cali,CAL-01,TIENDA,Ropa,2,$63.100,5,119900,Efectivo,18,Hombre,Básico,5,,NO
+T10306,2025-10-20,Santiago de Cali,CAL-01,Tienda,Calzado,4,149600,10%,538600,Efectivo,36,Mujer,Premium,4,,no
+T10547,2025-08-28,cali,VIRTUAL,online,Belleza,7,41700,30%,204300,Tarjeta crédito,45,Mujer,premium,3,2,No
+T10415,2025-10-03,Cartagena,CAR-02,Tienda,Ropa,7,$124.700,20,698300,Débito,43,F,Estándar,3,,no
+T10537,2025-09-23,bogota,BOG-02,tienda,Deportes,3,$173.000,0.15,441200,Tarjeta crédito,37,m,Básico,4,,No
+T11047,2025-10-02,Medellin,MED-03,tienda,Belleza,3,$61.800,0%,185400,PSE,63,Hombre,Estándar,4,,NO
+T10428,12/07/2025,bogota,BOG-03,TIENDA,Hogar,2,110800,0%,221600,Débito,39,Masculino,Premium,5,,NO
+T10186,08/12/2025,CALI,VIRTUAL,app,Ropa,4,119255,5,453200,Débito,36,F,Básico,5,2,no
+T10851,01/06/2025,CALI,VIRTUAL,online,belleza,1,30500,0.05,29000,Tarjeta crédito,39,masculino,Básico,3,10,Sí
+T10815,04/09/2025,Cartagena,CAR-02,Tienda física,Belleza,3,36600,0%,,PSE,35,m,PREMIUM,5,,0
+T10908,2025-09-26,Barranquilla,BAR-02,Tienda,Calzado,3,139600,5%,397900,Tarjeta crédito,58,f,Estándar,4,,No
+T11029,2025-10-31,bogota,VIRTUAL,APP móvil,Tecnología,1,$984.515,5%,935300,Tarjeta crédito,57,,Básico,,6,No
+T10269,2025-01-15,Bogotá,BOG-03,Tienda,Ropa,3,113000,0.1,305100,PSE,29,m,Básico,5,,no
+T10867,30/05/2025,BOGOTA,VIRTUAL,APP móvil,Hogar,3,$196.305,10%,530000,Efectivo,30,otro,Estándar,4,2,NO
+T11041,2025-12-28,MEDELLIN,MED-03,Tienda,Tecnología,3,498300,0%,1494900,Tarjeta crédito,999,f,Premium,4,,no
+T10699,2025-12-08,CALI,CAL-01,tienda,Deportes,4,138900,0.2,444500,Efectivo,26,f,Básico,4,,0
+T10630,2025-02-21,BOGOTA,BOG-03,Tienda,Belleza,7,52100,20%,291800,PSE,44,Femenino,Básico,4,,0
+T10950,2025-12-11,Santiago de Cali,CAL-01,Tienda,Hogar,4,105800,0.1,380900,Nequi,62,M,Estándar,5,,No
+T10162,2025-07-08,Bogotá D.C.,BOG-02,TIENDA,Ropa,1,73000,10%,65700,Nequi,66,masculino,Básico,,,SI
+T10413,2025-05-07,Santiago de Cali,CAL-03,tienda,Hogar,2,147000,0%,294000,PSE,,m,Básico,,,NO
+T11132,09/05/2025,cartagena,CAR-01,TIENDA,Belleza,2,46600,0,93200,Tarjeta crédito,28,masculino,Estándar,4,,NO
+T10095,15/01/2025,Cartagena,CAR-01,Tienda física,Belleza,2,$52.700,0.05,100100,Tarjeta crédito,40,otro,Premium,5,,NO
+T10098,2025-05-13,MEDELLIN,VIRTUAL,app,Deportes,7,115000,0.15,684200,PSE,44,Mujer,Premium,4,3,No
+T10006,17/12/2025,BOGOTA,BOG-02,tienda,Tecnología,8,459000,30%,2570400,Efectivo,,masculino,Básico,5,,NO
+T10876,2025-11-15,BOGOTA,BOG-03,Tienda física,Belleza,1,$47.800,0,47800,Débito,39,m,Básico,5,,no
+T10817,2025-02-16,CALI,VIRTUAL,App movil,Deportes,3,174110,5,496200,Nequi,44,femenino,Estándar,,3,No
+T10822,2025-12-15,cartagena,CAR-01,Tienda física,Belleza,2,57400,0%,114800,Débito,24,m,Estándar,,,no
+T10207,12/04/2025,barranquilla,BAR-01,tienda,Hogar,3,123100,10%,332400,Efectivo,49,M,Estándar,3,,no
+T10974,2025-04-28,Bogotá,BOG-02,tienda,Hogar,3,$173.600,0,520800,Tarjeta crédito,46,masculino,Estándar,5,,no
+T10803,2025-04-20,Cartagena de Indias,VIRTUAL,app,Belleza,2,$49.910,10,89800,Tarjeta crédito,29,F,Básico,4,3,0
+T10686,Mar 19 2025,CALI,VIRTUAL,app,Belleza,3,$54.740,0%,164200,PSE,37,F,Básico,4,4,0
+T10872,09/05/2025, Cali ,CAL-02,tienda,Ropa,2,101900,0.0,203800,Tarjeta crédito,34,masculino,Estándar,5,,No
+T10245,2025-01-07,CALI,CAL-03,tienda,Hogar,4,$179.700,0%,718800,Efectivo,34,Mujer,Estándar,5,,0
+T10611,13/12/2025,medellin,MED-02,Tienda,Ropa,6,$96.800,15,493700,Nequi,34,femenino,Básico,5,,NO
+T10229,2025-09-20,Bogotá,VIRTUAL,web,Calzado,1,202200,0,202200,Débito,40,No responde,Básico,3,5,no
+T10264,2025-04-15,Bogota,BOG-03,Tienda,Belleza,5,40300,20%,161200,Nequi,47,f,,5,,0
+T10906,14/02/2025, Cali ,VIRTUAL,app,Ropa,1,$131.330,0.1,118200,Nequi,32,M,Básico,3,2,SI
+T10368,08/10/2025,Santiago de Cali,CAL-03,TIENDA,Tecnología,3,$591.100,0.15,1507300,Débito,31,masculino,PREMIUM,5,,No
+T10008,Jun 13 2025,BOGOTA,BOG-03,TIENDA,Deportes,4,$158.500,0%,634000,Tarjeta crédito,59,femenino,Estándar,5,,No
+T10896,2025-11-09,Bogota,BOG-01,TIENDA,Belleza,5,41400,15,176000,Nequi,33,No responde,Básico,5,,0
+T11150,29/10/2025,Medellin,VIRTUAL,online,Ropa,4,64500,0%,258000,Débito,29,masculino,Premium,4,1,no
+T10201,Dec 27 2025,Cali,VIRTUAL,App movil,Tecnología,3,548895,5%,1564400,Tarjeta crédito,53,m,Estándar,5,4,SI
+T10729,18/12/2025,medellin,VIRTUAL,Online,Hogar,3,171900,5%,489900,Efectivo,59,m,Premium,5,2,No
+T11177,2025-01-26,Bogotá,BOG-01,Tienda,Hogar,2,82000,0.2,131200,Tarjeta crédito,18,m,Estándar,5,,0
+T10799,2025-04-28,BOGOTA,VIRTUAL,APP móvil,Deportes,1,128110,0%,128100,Nequi,40,Femenino,Estándar,3,4,No
+T10865,Aug 28 2025,bogota,VIRTUAL,APP móvil,Belleza,2,$56.810,0%,113600,Nequi,37,Hombre,Básico,3,4,NO
+T10403,25/07/2025,Medellín,VIRTUAL,web,Belleza,3,$35.200,0,105600,PSE,18,f,Básico,2,8,No
+T11052,21/10/2025,Medellin,VIRTUAL,app,Deportes,2,233795,15,397500,PSE,49,Femenino,Premium,4,2,Sí
+T10791,2025-11-24,Bogotá D.C.,BOG-02,TIENDA,Ropa,1,55100,0%,55100,PSE,,Hombre,Básico,4,,no
+T10610,22/09/2025,B/quilla,VIRTUAL,online,Deportes,1,92100,10%,82900,Débito,24,,Básico,3,11,0
+T10189,2025-02-19,BOGOTA,BOG-03,TIENDA,Hogar,2,134100,0,268200,Efectivo,35,F,Estándar,4,,no
+T10886,21/03/2025,MEDELLIN,VIRTUAL,Web,Deportes,1,201500,10,181400,Nequi,30,M,Básico,3,6,No
+T10332,07/03/2025,Bogotá,VIRTUAL,online,Hogar,3,145500,5,414700,Nequi,49,Femenino,Estándar,2,6,no
+T10303,2025-01-10,CALI,VIRTUAL,Web,Hogar,1,110800,5,105300,Débito,38,f,Estándar,5,3,SI
+T10260,16/05/2025,BOGOTA,VIRTUAL,web,Tecnología,4,788200,15,2679900,Débito,45,M,Premium,4,1,0
+T10144,2025-05-17,Santiago de Cali,VIRTUAL,online,Ropa,3,78200,0.0,234600,PSE,27,m,Estándar,3,5,1
+T10828,02/04/2025,Cartagena,VIRTUAL,web,Hogar,2,168500,0%,337000,PSE,73,M,Premium,3,9,no
+T10698,04/06/2025, Cali ,CAL-03,Tienda,Deportes,2,$185.600,0.1,334100,Efectivo,47,M,premium,4,,no
+T10919,Mar 17 2025,CALI,CAL-02,Tienda,Calzado,1,$101.900,0%,101900,Débito,41,Otro,Estándar,5,,NO
+T11142,sin fecha,MEDELLIN,MED-03,tienda,Deportes,1,$94.500,5%,89800,Efectivo,34,m,Básico,4,,0
+T10937,01/09/2025,cartagena,VIRTUAL,Web,Hogar,5,$116.400,30%,407400,Tarjeta crédito,47,M,Premium,4,3,0
+T10890,2025-04-08,Cali,VIRTUAL,app,Belleza,2,32085,5,61000,Débito,37,masculino,Estándar,3,3,No
+T10594,2025-04-27,Santiago de Cali,VIRTUAL,APP móvil,Hogar,3,164795,10,444900,Efectivo,30,F,basico,4,1,No
+T10531,2025-11-01,Bogotá D.C.,BOG-03,Tienda física,Belleza,3,50400,0%,151200,Tarjeta crédito,46,Mujer,Básico,5,,No
+T10894,2025-11-18,medellin,VIRTUAL,online,Hogar,2,93800,0.0,187600,Débito,35,M,Estándar,2,16,0
+T10314,22/02/2025,Cali,CAL-02,tienda,Deportes,4,118600,30%,332100,Tarjeta crédito,42,Mujer,Estándar,5,,NO
+T10057,2025-10-18,cartagena,CAR-03,Tienda,Ropa,4,$120.800,0.0,483200,Efectivo,44,Masculino,Premium,3,,0
+T10282,08/02/2025,Bogotá D.C.,BOG-01,Tienda física,calzado,3,173800,0.2,417100,Tarjeta crédito,30,Mujer,Estándar,4,,NO
+T10934,26/02/2025,CALI,VIRTUAL,APP móvil,Tecnología,2,1055700,0%,2111400,Tarjeta crédito,54,f,Estándar,4,2,no
+T10362,25/05/2025,Bogota,VIRTUAL,Web,Tecnología,1,$646.000,10%,581400,Débito,30,f,Básico,3,4,0
+T10243,2025-11-08,CALI,VIRTUAL,App,Belleza,6,76245,20,366000,Débito,67,Mujer,Premium,4,3,SI
+T10092,2025-12-06,Cartagena,VIRTUAL,app,Deportes,1,$223.790,0.0,223800,Nequi,44,f,Básico,,5,NO
+T10337,2025-08-20,Bogotá D.C.,BOG-01,Tienda física,Tecnología,3,$589.100,0.2,1413800,Tarjeta crédito,40,otro,Estándar,5,,0
+T11013,2025-10-31,cali,VIRTUAL,Online,Deportes,3,$167.000,0%,501000,Débito,43,Masculino,Básico,5,1,NO
+T10947,2025-02-04,Medellin,VIRTUAL,app,Calzado,3,135585,10,366100,Débito,,F,Estándar,3,1,NO
+T10190,2025-01-13,Santiago de Cali,CAL-03,TIENDA,Ropa,6,115100,0%,690600,Tarjeta crédito,42,masculino,Básico,5,,No
+T10039,2025-08-19,cali,CAL-01,tienda,Belleza,8,66800,10%,481000,Débito,59,f,Estándar,,,0
+T10975,2025-08-22,MEDELLIN,MED-01,Tienda física,Tecnología,5,536900,15%,2281800,PSE,43,Femenino,Premium,4,,No
+T10634,11/02/2025, Cali ,CAL-03,tienda,Deportes,1,146400,15,124400,Efectivo,49,Femenino,Premium,5,,no
+T10764,2025-01-08,Cartagena,CAR-01,Tienda,Ropa,2,108600,10%,195500,PSE,49,femenino,Estándar,5,,0
+T10723,2025-12-28,BOGOTA,VIRTUAL,app,Belleza,2,$48.415,15,82300,Tarjeta crédito,32,No responde,Básico,4,1,no
+T10063,Feb 20 2025,Barranquilla,VIRTUAL,Online,Belleza,3,42000,5,119700,Tarjeta crédito,31,Mujer,Básico,4,5,no
+T10233,2025-01-15,bogota,VIRTUAL,web,Calzado,1,195900,0.1,,Tarjeta crédito,32,Masculino,Básico,4,2,no
+T10676,2025-03-19,CALI,CAL-02,Tienda física,Ropa,1,$52.400,0%,52400,Tarjeta crédito,45,F,Básico,5,,0
+T10105,2025-03-20,Santiago de Cali,CAL-01,Tienda física,Calzado,3,$223.100,15%,568900,PSE,22,Femenino,Estándar,5,,NO
+T10753,2025-03-30,Bogota,BOG-02,Tienda física,Ropa,5,$102.800,0%,514000,Débito,41,Masculino,Básico,4,,NO
+T10902,Oct 02 2025,Cartagena de Indias,CAR-01,Tienda física,Hogar,2,124500,10%,224100,Débito,65,M,premium,,,No
+T10253,2025-01-31,Cali,CAL-03,Tienda,Ropa,3,$80.100,10%,216300,Débito,,masculino,basico,4,,NO
+T10422,2025-01-19,bogota,VIRTUAL,web,Ropa,2,97400,30,136400,Efectivo,42,masculino,Básico,4,4,0
+T10774,2025-02-22,Bogotá,VIRTUAL,Web,Ropa,4,70000,0%,280000000,Tarjeta crédito,18,f,Estándar,3,9,no
+T10858,Apr 29 2025,cali,VIRTUAL,Web,Hogar,2,118600,0,237200,Tarjeta crédito,999,Masculino,Premium,4,6,no
+T10924,2025-12-21,Medellin,MED-02,Tienda física,Ropa,4,127100,15%,432100,Nequi,49,Femenino,Premium,10,,No
+T10079,2025-06-02,CALI,CAL-01,Tienda física,Belleza,2,53400,0.15,90800,Débito,18,M,Básico,4,,0
+T10989,2025-10-30,Cali,VIRTUAL,APP móvil,Deportes,4,97405,0.15,331200,Efectivo,41,Hombre,Premium,4,3,NO
+T10497,2025-05-11,BOGOTA,BOG-01,tienda,Belleza,5,$32.300,20%,129200,Nequi,,,Premium,5,,NO
+T11190,02/08/2025,Bogotá D.C.,VIRTUAL,Online,Ropa,1,79400,0%,79400,Débito,46,Masculino,Estándar,3,120,no
+T10087,2025-10-03,Cartagena,CAR-03,tienda,Hogar,2,113100,0.0,226200,Tarjeta crédito,52,Mujer,Premium,5,,no
+T10064,2025-11-17, Cali ,CAL-02,Tienda física,Hogar,3,$163.900,0.2,393400,PSE,18,Femenino,Básico,4,,No
+T10605,16/07/2025,Bogotá D.C.,VIRTUAL,online,Deportes,4,152700,10%,549700,Débito,58,f,Estándar,4,4,no
+T10274,Aug 18 2025,BOGOTA,BOG-03,tienda,Hogar,2,$87.700,5,166600,Tarjeta crédito,51,Femenino,Básico,4,,No
+T10916,2025-10-25,cali,VIRTUAL,Online,Deportes,2,123100,10,221600,Tarjeta crédito,18,F,Estándar,3,8,No
+T11103,2025-05-05,BOGOTA,VIRTUAL,Online,Calzado,2,199400,0,398800,Débito,38,m,Básico,3,6,no
+T10153,2025-06-11,cartagena,CAR-03,Tienda,Calzado,2,$155.900,0%,311800,PSE,43,f,premium,5,,no
+T10613,2025-03-17,B/quilla,BAR-02,Tienda física,Belleza,3,39300,20,94300,PSE,54,m,Básico,4,,1
+T10410,30/03/2025,BOGOTA,VIRTUAL,online,Belleza,4,45900,0.0,183600,Tarjeta crédito,61,masculino,Premium,5,3,NO
+T10830,2025-09-15,Bogotá,VIRTUAL,App movil,Hogar,3,154560,0,463700,Efectivo,27,Masculino,estandar,5,1,No
+T10912,2025-05-21,Medellín,VIRTUAL,Online,Tecnología,3,$515.300,10%,1391300,PSE,30,m,Estándar,4,1,no
+T10517,18/06/2025,Bogotá D.C.,VIRTUAL,Web,Calzado,1,134100,0.0,134100,Efectivo,41,m,Estándar,4,2,No
+T10044,2025-11-09,Bogotá,BOG-02,tienda,Tecnología,3,738200,0%,2214600000,Débito,64,F,Premium,5,,Sí
+T10390,2025-06-02,cali,CAL-02,Tienda física,Ropa,1,71100,10%,64000,Débito,-5,F,Básico,5,,NO
+T10220,31/03/2025,Cali,CAL-02,TIENDA,Ropa,3,104500,10%,282200,Tarjeta crédito,40,Masculino,Básico,4,,0
+T10140,07/10/2025,cali,CAL-02,tienda,Hogar,2,112800,5,214300,Efectivo,40,Mujer,Básico,4,,no
+T10357,2025-12-28,medellin,VIRTUAL,app,ropa,1,62905,0%,62900,Tarjeta crédito,37,Hombre,Básico,4,2,No
+T10722,Jan 01 2025,Cartagena de Indias,CAR-01,TIENDA,Calzado,1,$185.100,5%,175800,Tarjeta crédito,18,femenino,Básico,4,,0
+T10261,17/12/2025,Bogotá,VIRTUAL,App,Deportes,2,$147.200,10,265000,Débito,35,F,Básico,3,5,no
+T10898,Aug 07 2025,cali,VIRTUAL,app,Hogar,2,$96.255,0,192500,Débito,56,femenino,Estándar,5,3,No
+T10195,2025-11-15,cartagena,CAR-01,Tienda,Belleza,6,65700,30%,275900,Débito,999,,Básico,5,,no
+T10115,2025-10-20,Bogota,BOG-01,tienda,Ropa,4,110900,0.0,443600,Tarjeta crédito,42,,Estándar,4,,0
+T11075,2025-10-20,bogota,VIRTUAL,web,Ropa,3,77700,0.1,209800,Tarjeta crédito,,Femenino,Básico,5,1,NO
+T11073,13/11/2025,bogota,BOG-01,TIENDA,Ropa,3,123800,0%,371400,Tarjeta crédito,44,Mujer,Básico,4,,NO
+T10718,23/10/2025,BOGOTA,BOG-03,TIENDA,Belleza,4,$60.100,15%,204300,Nequi,42,Masculino,Estándar,5,,0
+T11199,2025-08-08,B/quilla,BAR-02,TIENDA,Belleza,-2,$46.900,0%,93800,Efectivo,999,F,Estándar,4,,no
+T11101,2025-01-20,cali,CAL-02,TIENDA,Belleza,3,$37.600,0%,112800,Efectivo,51,femenino,Básico,4,,no
+T10358,2025-06-14,cali,VIRTUAL,app,Ropa,2,109020,10%,196200,Débito,,Hombre,Estándar,3,11,0
+T11060,2025-11-04,cali,CAL-01,Tienda,Calzado,5,$127.000,20,508000,Tarjeta crédito,45,F,Premium,,,No
+T11019,10/02/2025,CALI,CAL-01,TIENDA,Tecnología,2,692600,0%,1385200,Débito,30,femenino,Estándar,5,,1
+T11000,2025-01-04,Santiago de Cali,VIRTUAL,Online,Deportes,4,$165.400,10%,595400,Tarjeta crédito,59,m,Premium,2,9,No
+T10935,2025-09-30,Santiago de Cali,CAL-03,tienda,Calzado,3,209400,0,628200,Nequi,,,Básico,5,,0
+T10754,06/11/2025,MEDELLIN,VIRTUAL,App,Ropa,2,121785,0.0,243600,Tarjeta crédito,23,Masculino,Estándar,4,3,NO
+T10420,Apr 13 2025,B/quilla,VIRTUAL,app,Tecnología,3,$718.520,0.0,2155600,Débito,27,f,Básico,3,8,NO
+T10149,06/12/2025,Bogotá D.C.,BOG-03,TIENDA,Hogar,4,114400,5,434700,Efectivo,44,femenino,Básico,4,,No
+T10009,07/05/2025,Bogotá,BOG-02,Tienda,Calzado,3,$159.200,0.0,477600,Tarjeta crédito,26,Mujer,Estándar,4,,NO
+T11069,2025-10-18,bogota,BOG-01,Tienda física,Calzado,2,177900,0%,355800,Débito,52,,Estándar,4,,No
+T11180,sin fecha,Bogotá,BOG-02,tienda,Deportes,3,97000,0.0,291000,Tarjeta crédito,N/A,femenino,Básico,3,,no
+T10534,2025-04-03,Barranquilla,BAR-02,TIENDA,Belleza,5,$44.800,0.05,212800,PSE,32,Hombre,Básico,10,,NO
+T10548,2025-03-22,B/quilla,BAR-02,Tienda física,Ropa,2,$104.000,0,208000,Tarjeta crédito,42,,Básico,4,,NO
+T10298,08/01/2025, Cali ,VIRTUAL,online,Deportes,3,134000,0.15,341700,Nequi,30,m,Estándar,3,4,No
+T10976,2025-12-01,Barranquilla,BAR-02,tienda,Hogar,9,$115.600,15,884300,PSE,56,No responde,Premium,5,,NO
+T10122,19/05/2025,CALI,CAL-02,Tienda física,Ropa,1,$126.700,0.0,126700,Tarjeta crédito,27,m,Básico,4,,NO
+T11139,25/06/2025,Barranquilla,VIRTUAL,APP móvil,Calzado,2,$178.250,20%,285200,Débito,18,F,Básico,4,3,No
+T10709,27/05/2025,Cartagena de Indias,VIRTUAL,Web,Deportes,4,$123.800,10%,445700,Débito,,M,Premium,3,4,0
+T11122,Jul 09 2025,Bogota,VIRTUAL,web,Ropa,3,72800,0%,218400,Tarjeta crédito,36,masculino,Estándar,3,9,0
+T10769,27/11/2025,CALI,VIRTUAL,web,Ropa,2,68600,15,116600,Tarjeta crédito,35,M,Básico,5,1,No
+T10088,2025-10-20,Bogotá,BOG-02,tienda,Hogar,3,172100,0.2,413000,Débito,54,Femenino,Básico,5,,0
+T11182,2025-09-06,BOGOTA,VIRTUAL,APP móvil,Deportes,1,188600,0.05,179200,Tarjeta crédito,25,masculino,Estándar,3,8,1
+T11032,2025-09-18,cartagena,VIRTUAL,Web,deportes,4,127400,5,484100,Tarjeta crédito,52,No responde,Premium,5,3,No
+T10097,2025-12-08,BOGOTA,BOG-02,Tienda,Hogar,1,$176.600,0,176600,Tarjeta crédito,42,Hombre,basico,5,,0
+T10321,2025-01-20,Cali,VIRTUAL,APP móvil,Deportes,3,$141.565,0.05,403500,PSE,18,M,Básico,4,4,0
+T10348,14/12/2025, Cali ,VIRTUAL,app,Ropa,3,$79.810,0%,239400,Débito,30,f,Premium,4,8,NO
+T10509,Jan 14 2025,Barranquilla,VIRTUAL,App,Ropa,6,73600,15%,375400,Tarjeta crédito,31,Mujer,Básico,4,3,no
+T10211,2025-10-07,Santiago de Cali,CAL-03,Tienda,Tecnología,3,533000,20,1279200,Tarjeta crédito,24,Hombre,Básico,5,,SI
+T10703,2025-10-16,cartagena,VIRTUAL,App,Deportes,2,$169.625,0%,339200,Nequi,44,Masculino,Básico,4,3,0
+T10746,2025-02-23,B/quilla,BAR-01,Tienda,Ropa,2,$93.100,0.1,167600,Nequi,48,masculino,Estándar,5,,NO
+T11045,01/09/2025, Cali ,CAL-03,tienda,Belleza,2,$51.300,30%,71800,Tarjeta crédito,21,Mujer,Estándar,10,,No
+T10939,15/02/2025, Cali ,CAL-03,Tienda física,Belleza,3,$66.200,0.0,198600,Débito,18,masculino,premium,4,,0
+T11189,2025-10-24,medellin,MED-02,Tienda física,Ropa,1,107600,10,96800,Tarjeta crédito,42,Hombre,Estándar,4,,no
+T11154,2025-03-30,bogota,BOG-03,TIENDA,Belleza,5,$37.200,5,176700,Nequi,45,Hombre,Estándar,5,,0
+T11137,2025-09-21,Bogotá D.C.,BOG-02,tienda,Calzado,2,142100,0.15,241600,Efectivo,51,Hombre,Básico,,,NO
+T10478,2025-01-27,Medellín,VIRTUAL,web,Belleza,2,62900,0%,125800,PSE,45,m,basico,4,2,NO
+T10491,24/06/2025,Medellin,VIRTUAL,Online,Calzado,5,233900,10,1052600,Efectivo,28,Femenino,Básico,4,2,0
+T10841,06/12/2025,Santiago de Cali,CAL-03,TIENDA,Calzado,1,117000,0.0,117000,Tarjeta crédito,33,Masculino,Básico,4,,No
+T11070,Jun 14 2025,medellin,MED-03,Tienda,Belleza,3,65600,20,157400,Nequi,33,femenino,Estándar,,,no
+T10364,2025-09-25,cali,VIRTUAL,app,Calzado,8,254495,0.2,1628800,PSE,45,femenino,Básico,4,2,0
+T10296,13/03/2025,cartagena,CAR-01,Tienda,Deportes,3,92200,0,276600,Tarjeta crédito,19,M,Estándar,5,,0
+T10049,2025-01-19,Bogotá D.C.,BOG-01,TIENDA,Ropa,3,51100,5,145600,Tarjeta crédito,42,M,Premium,5,,No
+T10224,2025-02-18,barranquilla,VIRTUAL,online,Deportes,5,$154.100,0.0,770500,Tarjeta crédito,39,,Básico,2,6,0
+T10850,19/05/2025,Bogota,BOG-02,Tienda física,Deportes,2,97100,0,194200,Efectivo,,Femenino,Estándar,5,,No
+T10647,09/01/2025,cali,CAL-03,Tienda,Hogar,5,127400,15%,541400,Tarjeta crédito,39,Femenino,Estándar,,,NO
+T10562,2025-03-19,Cartagena de Indias,CAR-03,Tienda física,Hogar,5,119500,10%,537800,PSE,,Femenino,Estándar,4,,No
+T10622,2025-10-16,Cartagena de Indias,VIRTUAL,APP móvil,Hogar,2,191360,0.0,382700,Efectivo,47,M,Premium,3,10,Si
+T10065,2025-09-17,Medellín,VIRTUAL,online,Hogar,1,129900,5%,123400,Efectivo,38,Masculino,Estándar,3,7,0
+T11087,May 22 2025,bogota,BOG-03,tienda,Ropa,2,$88.900,0%,177800,Tarjeta crédito,22,Mujer,Estándar,4,,no
+T10804,19/11/2025,Bogotá,VIRTUAL,Web,Ropa,4,101100,0%,404400,PSE,39,No responde,Estándar,4,2,No
+T10604,03/10/2025,Bogotá,BOG-02,TIENDA,Belleza,2,$40.600,15,69000,Tarjeta crédito,31,f,Básico,5,,0
+T10442,2025-05-14,CALI,CAL-01,Tienda,Belleza,3,$57.500,0,172500,Tarjeta crédito,55,femenino,Premium,5,,No
+T11161,29/05/2025,Medellín,MED-01,TIENDA,Belleza,1,$63.000,0.0,63000,PSE,63,Mujer,Premium,5,,no
+T11024,2025-03-19,BOGOTA,VIRTUAL,App movil,Deportes,2,197800,0.2,316500,Débito,36,femenino,basico,5,3,0
+T10539,2025-03-06,Bogotá D.C.,BOG-02,Tienda,Belleza,1,40700,20%,32600,PSE,36,masculino,Estándar,4,,NO
+T10767,05/03/2025,bogota,VIRTUAL,online,Deportes,3,169200,0%,507600,PSE,45,Femenino,Estándar,,2,No
+T10762,28/05/2025,Cali,CAL-02,Tienda física,Deportes,1,177100,0%,177100,Débito,31,F,Básico,4,,NO
+T10868,Jun 01 2025,Medellin,VIRTUAL,online,Tecnología,5,665100,0.05,3159200,PSE,39,m,Básico,4,1,NO
+T10689,2025-09-29, Cali ,CAL-01,Tienda,Tecnología,1,$701.900,10,631700,Tarjeta crédito,50,Femenino,Básico,5,,no
+T10187,14/11/2025, Cali ,CAL-02,tienda,Deportes,1,$147.400,30%,103200,Tarjeta crédito,27,femenino,Básico,5,,No
+T10406,2025-12-08,B/quilla,VIRTUAL,web,Hogar,4,137000,0%,548000,Tarjeta crédito,23,Masculino,Estándar,4,5,NO
+T11011,Jan 21 2025,Bogota,VIRTUAL,web,Ropa,5,117100,0.15,497700,Nequi,31,Masculino,Estándar,4,7,NO
+T10751,19/08/2025,cartagena,CAR-03,Tienda física,Ropa,6,$71.000,0.3,298200,Tarjeta crédito,57,No responde,Premium,4,,0
+T11050,2025-11-13,Santiago de Cali,VIRTUAL,online,Ropa,-3,$63.300,0%,189900,Nequi,48,femenino,Premium,4,4,0
+T10461,2025-03-17,Cartagena,VIRTUAL,online,Hogar,4,112700,10%,405700,Efectivo,37,femenino,Estándar,5,2,0
+T10670,Jun 07 2025,cali,VIRTUAL,online,Deportes,3,$186.500,5%,531500,Débito,18,f,Estándar,,1,no
+T10655,2025-07-23,Bogotá D.C.,VIRTUAL,online,Calzado,4,$235.100,0,940400,Tarjeta crédito,37,femenino,Estándar,,1,0
+T10785,2025-08-19,CALI,VIRTUAL,Online,ropa,1,$91.800,0%,91800,Débito,N/A,m,Estándar,3,3,no
+T11083,12/02/2025,Bogotá D.C.,VIRTUAL,web,Tecnología,4,$448.500,15,1524900,Débito,22,,Básico,4,1,No
+T10714,10/07/2025,Bogota,BOG-03,Tienda física,Tecnología,3,$528.000,0,1584000,Nequi,32,m,Básico,4,,0
+T10424,2025-06-19,MEDELLIN,MED-03,TIENDA,Ropa,3,$55.300,0%,165900,Efectivo,62,F,Premium,5,,0
+T10043,2025-10-20, Cali ,VIRTUAL,app,Calzado,4,159850,10,575500,Débito,52,Mujer,Premium,5,1,no
+T10661,04/09/2025,Bogotá,VIRTUAL,online,Ropa,1,$62.100,10%,55900,Débito,,,Estándar,5,1,0
+T10635,2025-06-27,Medellin,VIRTUAL,App movil,belleza,2,66125,0.1,119000,Tarjeta crédito,43,No responde,Estándar,4,1,0
+T10528,Jun 03 2025,BOGOTA,VIRTUAL,online,Belleza,4,28600,0%,114400,Tarjeta crédito,31,No responde,Básico,2,8,Si
+T10987,2025-06-22,Medellín,VIRTUAL,Web,Hogar,4,$146.500,20,468800,Débito,33,Hombre,Estándar,5,4,Si
+T10218,2025-02-13,Santiago de Cali,VIRTUAL,APP móvil,Calzado,3,133975,0.1,361700,Débito,37,Mujer,Premium,10,1,0
+T10820,2025-07-18,cali,CAL-01,Tienda,Ropa,2,53500,0.0,107000,Tarjeta crédito,36,masculino,Estándar,5,,NO
+T10548,2025-03-22,B/quilla,BAR-02,Tienda física,Ropa,2,$104.000,0,208000,Tarjeta crédito,42,,Básico,4,,NO
+T11197,2025-11-18, Cali ,CAL-01,TIENDA,Hogar,5,$125.600,5%,596600,PSE,44,Femenino,Estándar,4,,no
+T10855,2025-10-12,BOGOTA,VIRTUAL,online,Belleza,1,29900,0.0,29900,Tarjeta crédito,60,Hombre,Básico,4,1,NO
+T10609,2025-05-01,BOGOTA,BOG-01,TIENDA,Belleza,10,62700,15%,533000,Débito,42,Hombre,Premium,3,,no
+T10485,20/09/2025,Bogotá,BOG-03,Tienda física,Ropa,3,$96.900,0,290700,PSE,26,Mujer,PREMIUM,5,,no
+T11149,06/07/2025,Bogota,VIRTUAL,Web,Deportes,4,132700,20,424600,Tarjeta crédito,38,m,Premium,3,4,Si
+T11017,2025-07-15,Bogotá,BOG-02,TIENDA,Belleza,1,39100,15,33200,Débito,39,Femenino,Estándar,4,,Si
+T11085,04/03/2025,Santiago de Cali,VIRTUAL,Online,Belleza,3,41400,0,124200,Tarjeta crédito,46,Femenino,Estándar,4,2,0
+T10081,02/10/2025, Cali ,CAL-03,Tienda,Belleza,3,67100,0.0,201300,Tarjeta crédito,38,Otro,Básico,,,0
+T10324,20/05/2025, Cali ,VIRTUAL,web,Deportes,4,134400,5%,510700,Tarjeta crédito,19,f,Básico,5,3,no
+T11080,2025-11-26,Medellín,VIRTUAL,Online,Deportes,3,$187.500,0.0,562500,Efectivo,43,Masculino,Básico,5,2,0
+T10019,04/12/2025,BOGOTA,VIRTUAL,Online,Calzado,2,164800,0.05,313100,Débito,47,Mujer,Básico,4,3,no
+T10454,2025-02-20,CALI,VIRTUAL,APP móvil,Ropa,2,133745,0,267500,Efectivo,35,Mujer,Básico,5,1,no
+T11110,2025-05-28,Cartagena de Indias,VIRTUAL,App movil,Hogar,3,85675,0.05,244200,Efectivo,35,F,Estándar,3,7,No
+T10838,23/08/2025, Cali ,VIRTUAL,App movil,Belleza,2,35880,15,61000,Débito,22,femenino,,3,3,1
+T10758,02/05/2025,Cali,CAL-03,tienda,Belleza,4,67500,0,270000,Débito,39,M,Básico,4,,No
+T10034,Jan 28 2025,medellin,MED-03,Tienda,Calzado,4,207200,0,828800,Efectivo,45,Femenino,Premium,5,,No
+T10808,16/08/2025,Medellín,VIRTUAL,web,Ropa,5,115500,20%,462000,Nequi,29,m,Básico,3,8,0
+T11162,2025-03-19, Cali ,VIRTUAL,web,Deportes,1,$205.100,10,184600,Efectivo,35,Femenino,Estándar,,6,1
+T10904,08/05/2025,Bogotá D.C.,VIRTUAL,app,Ropa,1,63250,0.0,63200,Nequi,27,Hombre,Básico,3,6,NO
+T10800,2025-02-28,Bogotá D.C.,BOG-03,Tienda,Belleza,2,$32.200,0%,64400,Débito,51,,Básico,5,,No
+T10096,2025-04-24,Medellín,MED-01,Tienda física,Deportes,1,189500,0%,189500,Tarjeta crédito,59,,Básico,,,NO
+T11107,2025-10-07,cali,CAL-02,tienda,Ropa,3,85800,0.0,257400,Tarjeta crédito,51,femenino,Básico,5,,no
+T10446,2025-08-17,barranquilla,VIRTUAL,web,Hogar,2,159800,0,319600,Tarjeta crédito,999,Masculino,Premium,,5,0
+T10474,01/05/2025,Cartagena de Indias,CAR-01,TIENDA,Belleza,2,$40.600,0%,81200,Débito,58,femenino,Básico,5,,NO
+T10366,01/11/2025,Bogotá,VIRTUAL,APP móvil,Ropa,3,107410,10%,290000,Débito,37,otro,,4,4,No
+T10636,30/09/2025,Santiago de Cali,CAL-03,Tienda,Ropa,4,77900,0,311600,Débito,28,Masculino,Premium,5,,no
+T10760,06/11/2025,Bogotá,VIRTUAL,Online,Hogar,5,118500,20,474000,PSE,45,F,Básico,3,9,NO
+T10918,2025-08-29,Barranquilla,VIRTUAL,app,Deportes,1,233335,0,233300,Tarjeta crédito,35,M,Estándar,3,8,No
+T10759,2025-02-13,MEDELLIN,VIRTUAL,Web,Deportes,6,89200,20%,428200,Efectivo,45,Masculino,Premium,3,10,no
+T10392,28/09/2025,cartagena,VIRTUAL,Online,Ropa,1,$52.200,5,49600,Débito,30,No responde,Estándar,4,120,0
+T10506,2025-09-23,cartagena,CAR-01,tienda,Calzado,5,$152.600,0.2,610400,Débito,,F,Básico,4,,NO
+T10434,2025-12-27,bogota,BOG-03,Tienda física,Deportes,3,$98.000,0.05,279300,Tarjeta crédito,47,Masculino,Premium,5,,0
+T10648,23/02/2025,bogota,BOG-03,Tienda,Deportes,3,105700,0.05,301200,Débito,26,femenino,Básico,5,,no
+T10942,2025-10-04, Cali ,CAL-01,Tienda,Belleza,3,$31.000,5,88400,Efectivo,38,femenino,Estándar,5,,NO
+T10831,21/09/2025,bogota,BOG-01,TIENDA,Ropa,3,$121.600,10%,328300,Débito,38,Femenino,Básico,5,,no
+T10132,2025-06-14,Medellín,MED-03,Tienda,Hogar,1,168400,0%,168400,PSE,45,masculino,Básico,5,,No
+T11074,2025-02-01,Santiago de Cali,CAL-01,Tienda,Belleza,2,52300,0.0,104600,Tarjeta crédito,35,masculino,Básico,4,,no
+T10972,2025-08-16,Bogota,VIRTUAL,APP móvil,Belleza,3,$67.965,0.0,203900,Débito,46,Masculino,Básico,4,5,0
+T10450,2025-03-27, Cali ,CAL-02,Tienda,Hogar,4,170800,0%,683200,Efectivo,44,f,Básico,4,,0
+T10031,2025-02-18,Bogotá,BOG-01,TIENDA,Ropa,3,87300,0,261900,Efectivo,34,Masculino,Básico,5,,0
+T10121,20/11/2025,medellin,VIRTUAL,online,Hogar,4,$120.500,0.1,433800,Débito,45,femenino,Estándar,4,1,No
+T11112,2025-11-09,Bogotá D.C.,BOG-01,TIENDA,Ropa,2,67700,0.0,135400,Débito,59,f,Premium,5,,NO
+T10255,04/03/2025,Bogotá,BOG-01,Tienda,Tecnología,3,707400,15,1803900,Débito,32,Mujer,Básico,4,,NO
+T10892,09/06/2025,Cartagena de Indias,CAR-02,tienda,Calzado,4,146100,10,526000,Débito,31,F,Básico,5,,No
+T10359,23/11/2025,Bogotá D.C.,BOG-02,Tienda física,Ropa,1,$86.100,0,86100,Nequi,,Masculino,Básico,5,,no
+T10051,01/05/2025,Santiago de Cali,CAL-03,TIENDA,Ropa,3,69500,10%,187600,Tarjeta crédito,48,M,Estándar,5,,No
+T10875,2025-12-24,Bogotá D.C.,VIRTUAL,online,Deportes,6,$148.600,15%,757900,Efectivo,30,m,Básico,3,3,Sí
+T10938,23/11/2025,Bogotá,BOG-03,Tienda física,belleza,3,59200,5,,Nequi,18,M,Estándar,5,,0
+T10772,2025-02-26, Cali ,VIRTUAL,Web,Tecnología,1,$399.800,0.0,,Nequi,,masculino,basico,2,14,1
+T11126,2025-08-29,cartagena,CAR-02,tienda,Ropa,3,119300,10%,322100,Débito,36,Masculino,Estándar,5,,0
+T11043,2025-07-24,Cartagena de Indias,CAR-03,Tienda,Deportes,4,$111.000,10%,399600,Débito,44,femenino,Premium,3,,no
+T10679,2025-10-27,Medellin,MED-03,Tienda,Belleza,1,$61.400,0,61400,Débito,45,m,Estándar,5,,NO
+T10805,2025-05-03,medellin,MED-02,Tienda física,Tecnología,1,$844.300,0,844300,Efectivo,26,M,Estándar,4,,NO
+T10124,Mar 17 2025,MEDELLIN,VIRTUAL,App movil,Ropa,4,77740,0.1,279900,Débito,44,,Estándar,2,13,No
+T10404,2025-10-28,Bogotá,VIRTUAL,online,Belleza,1,$53.500,5%,50800,Efectivo,18,f,Básico,3,7,no
+T10730,31/07/2025,cali,VIRTUAL,app,Ropa,3,93265,0%,279800,PSE,38,Hombre,Estándar,3,4,No
+T10831,21/09/2025,bogota,BOG-01,TIENDA,Ropa,3,$121.600,10%,328300,Débito,38,Femenino,Básico,5,,no
+T11071,2025-04-15,Cartagena,CAR-03,Tienda,Hogar,3,130400,0.15,332500,Débito,20,m,Básico,5,,No
+T10725,Jun 20 2025,Cali,VIRTUAL,online,Tecnología,1,$761.600,0.0,761600,Tarjeta crédito,18,,Básico,4,3,No
+T10587,Mar 26 2025,B/quilla,VIRTUAL,App,Ropa,4,120980,0.0,483900,PSE,33,Mujer,Estándar,3,7,1
+T10607,Jun 03 2025,CALI,CAL-03,Tienda,Belleza,3,36600,0.1,98800,Tarjeta crédito,64,F,Premium,4,,0
+T10433,Nov 28 2025,bogota,VIRTUAL,Web,Ropa,1,111600,0,111600,Tarjeta crédito,48,M,premium,3,7,No
+T10674,22/01/2025,CALI,VIRTUAL,Web,calzado,2,$132.000,10%,237600,Efectivo,49,M,,5,1,1
+T10360,27/04/2025,Bogota,BOG-03,Tienda,Deportes,1,140500,0.0,140500,Débito,43,femenino,Premium,,,NO
+T11099,2025-04-02,Bogotá D.C.,BOG-03,Tienda física,Tecnología,4,$638.900,20%,2044500,Tarjeta crédito,37,m,Básico,3,,0
+T10466,05/10/2025,Medellin,VIRTUAL,Online,Belleza,2,59200,0,118400,Tarjeta crédito,24,No responde,Estándar,2,120,SI
+T10299,08/11/2025,cali,VIRTUAL,App,Ropa,1,132595,0.0,,Débito,40,Femenino,Estándar,3,5,0
+T10493,2025-06-17,CALI,VIRTUAL,Online,Ropa,1,105500,15%,89700,Nequi,24,M,Básico,4,7,No
+T10527,Jun 02 2025,cali,CAL-03,tienda,Deportes,3,$131.000,0%,393000,Tarjeta crédito,30,Mujer,Estándar,5,,0
+T11192,2025-02-02,cali,CAL-03,Tienda,Hogar,5,170400,0.0,852000,Nequi,48,Masculino,Estándar,0,,No
